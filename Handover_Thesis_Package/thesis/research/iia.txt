@@ -1,0 +1,3141 @@
+Letter From the CEO
+As we stand at the threshold of a transformative decade, I am both honored and excited to
+serve as the President and CEO of The Institute of Internal Auditors (The IIA). Our profession
+boasts a rich legacy of resilience, adaptability, and an unwavering commitment to excellence.
+The Internal Audit Foundation initiated “Internal Audit: Vision 2035 – Creating Our Future
+Together” to exemplify The IIA’s mission of providing dynamic leadership for the profession and
+to foster the growth of a skilled global community of internal audit practitioners. While some
+of the research findings may not be new, we are now, more than ever, at a pivotal juncture—a
+moment that calls for our collective action, courage, and strategic foresight.
+We must transform now or risk becoming irrelevant by 2035.
+We must shift the current perceptions of internal audit, embrace technology, expand our
+scope, connect internal audit with strategy, and grow our talent pipeline. Internal auditors at all
+levels, across all industries and geographies, must possess the skills necessary to address new
+and emerging risks and demonstrate credibility to stakeholders to effectively confront these
+challenges.
+The Vision 2035 project is not merely an abstract aspiration; it is our compass, guiding
+us toward a future where internal auditors are indispensable strategic advisors. The IIA is
+committed to leading the way to achieve Vision 2035. Through our strategic planning process,
+we commit to Advocate, Elevate, Educate, and Collaborate to grow and develop the internal
+audit profession and its influence.
+The collective participation in the project has demonstrated a clear dedication and passion for
+the profession. Thousands of internal auditors and stakeholders from 155 countries around the
+world engaged with us through interviews, focus groups, and surveys.
+Continued active engagement and enthusiasm from internal auditors are essential to realizing
+the profession’s envisioned future. However, achieving the profession’s ideal future will require
+collaboration and support from external stakeholders. The IIA will lead the way in building that
+support and ensuring the profession serves the public interest.
+I am filled with excitement and optimism for what lies ahead. Let us act as architects of trust,
+guardians of integrity, and catalysts of progress to create our future together.
+				Sincerely,
+
+				Anthony J. Pugliese, CIA, CPA, CGMA, CITP
+				
+President and Chief Executive Officer
+				
+The Institute of Internal Auditors, Global Headquarters
+
+Internal Audit: VISION 2035
+
+iii
+
+Vision 2035:
+
+The Internal Auditor of the Future
+
+In a future shaped by technological innovation and collective
+efforts to address global challenges, the role of internal auditors
+will evolve into that of strategic advisors.
+The strategic advisor operates within an ecosystem of
+interconnected digital platforms, offering real-time advisory
+and assurance consultations through virtual and augmented
+reality environments. This visionary professional utilizes quantum
+computing and advanced analytics to provide robust, evidencebased assurance and forecast future organizational trends with
+unprecedented precision. Their holistic approach blends cuttingedge technology with deep risk and controls expertise, ensuring
+boards not only receive accurate and strategic advice and
+assurance, but also insightful and personalized guidance to thrive
+in an ever-changing world.
+As the nature and scope of audits evolve alongside the emergence
+of new risks, internal audit’s ability to enhance an organization’s
+capacity to create, protect, and sustain value must also adapt
+accordingly. By 2035, internal auditors across all levels, industries,
+and organization types will have the competencies and full
+support of stakeholders to navigate new risks and changing audit
+landscapes with confidence.
+
+Executive Summary
+The internal audit profession has a long history of successfully adapting to
+changing stakeholder and regulatory demands, as well as shifts in technology,
+labor, and business operations. In the coming decade, the internal audit profession
+will undergo a major transformation driven by accelerating technological
+advancements, significant disruptive trends, and emerging risks. This
+transformation will be characterized by changes in how organizations operate,
+the need to expand the profession’s talent pipeline, and an increase in the
+profession’s capacity and credibility in the eyes of stakeholders to audit new and
+emerging risks and serve the public interest.
+While the road to the year 2035 will pose challenges, the internal audit profession
+can confront these challenges directly by initiating transformative activities
+today. Internal auditors’ competencies leverage skills like continuous learning,
+problem-solving, assessing various types of risk, and analyzing diverse situations.
+These core skills provide internal auditors the adaptability and agility to navigate
+the future successfully. The profession must recognize these strengths, build upon
+them, and be ready to use them in new business contexts. The future will require
+developing new competencies, leveraging new technologies, revolutionizing
+internal audit processes, transforming the collective profession’s mindset to
+become more proactive, upskilling the workforce with stronger business acumen,
+and strategically planning to expand the talent pipeline.
+If the profession chooses not to confront its challenges and focuses exclusively on its
+traditional responsibilities or progresses slowly without keeping pace with a fastchanging global landscape, the internal audit profession will become irrelevant.
+The Vision 2035 research shows that there is both a strong desire and, more
+importantly, a need for internal auditors to confront the challenges of today and
+the future to achieve the profession’s vision and fulfill its purpose. As stated
+in the Global Internal Audit StandardsTM, this purpose is to “strengthen the
+organization’s ability to create, protect, and sustain value by providing the board
+and management with independent, risk-based, and objective assurance, advice,
+insight, and foresight.”*
+
+Opportunities to Overcome Obstacles
+The Vision 2035 research uncovered challenges on the way to the profession’s
+future. Some of the challenges identified are not new; in fact, many have been
+discussed for years but remain unresolved, continuing to negatively impact
+perceptions of the profession. Now is the time to take action. The level of change
+in recent years has already transformed the business and risk environment,
+intensifying the attention and urgency required to address existing and emerging
+obstacles. This pace of change will only accelerate over the next decade.
+
+If the profession
+chooses not to confront
+its challenges and
+focuses exclusively
+on its traditional
+responsibilities or
+progresses slowly
+without keeping pace
+with a fast-changing
+global landscape, the
+internal audit profession
+will become irrelevant.
+
+However, challenges are opportunities for growth and progress. In some cases,
+simply identifying them, as done through the Vision 2035 project, provides an
+opportunity to gain a deeper understanding and develop the most effective
+solutions to drive the profession forward based on global and local contexts.
+
+*“Global Internal Audit StandardsTM,” Domain I: Purpose of Internal Auditing, The Institute of Internal
+Auditors, January 9, 2024, p. 15, https://www.theiia.org/globalassets/site/standards/editable-versions/
+globalinternalauditstandards_2024january9_editable.pdf
+
+Internal Audit: VISION 2035
+
+v
+
+The opportunities as identified through the research and elaborated on in greater detail within
+the report include the following:
+Harnessing new technologies — 92% of respondents agree that new technology is key to
+helping internal audit add more value (refer to Figure 2).
+Expanding skills and expertise — Further, 96% agree that experienced internal auditors
+will need to increase their technology skills to remain relevant and 81% agree that entrylevel internal auditors will require an elevated skill set to be successful (refer to Figure 2).
+Cultivating leadership and stakeholder support while seeking methods to increase
+recognition and clarify the role of internal audit — 50% of respondents reported that
+being misunderstood or undervalued represents the greatest challenge for the profession.
+Further, 45% indicated a need for more support from leadership and stakeholders (refer to
+Figure 8).
+Shifting current perceptions to align with the desired future — While over half of the
+respondents think internal audit is viewed as compliance-focused and independent, 48%
+also think internal auditors are regarded as the organization’s police (refer to Figure 9).
+Changing the balance between assurance and advisory services to succeed in tomorrow’s
+realities — Internal audit professionals and stakeholders expect the amount of time spent
+on assurance services will decline to 59% from 76% today, thus increasing efforts on
+advisory work from 24% to 41% (refer to Figure 13).
+Preserving independence and objectivity and educating about their importance and why
+they differentiate the profession — While 53% of respondents said their organizations
+understand the importance of independence, 45% of respondents’ organizations only
+moderately understand or have no understanding of its importance (refer to Figure 19).
+Leveraging internal auditors’ enthusiasm for adding value to the organization — 75%
+of the respondents find that the chance to add value is the most exciting aspect of the
+profession (refer to Figure 7).
+Retaining talent by enhancing the work experience and raising awareness to attract new
+talent — 50% of auditors with 30+ years of internal audit experience feel valued, while only
+21% with 0–9 years feel the same (refer to Figure 11). Further, 54% of educators reported
+students’ lack of awareness as a barrier to the profession (refer to Figure 10).
+
+About the Research
+The findings covered in this report are based on extensive quantitative and qualitative research
+conducted over a 12-month period, starting in May 2023, which reached far and wide to gather
+information from many global business environments and industries. The comprehensive
+feedback included internal auditors at all levels, IIA global and institute leaders, board members,
+audit committee chairs, senior executives (C-suite), regulators, educators, students, and other
+stakeholders from around the world who have a vested interest in the success of the profession,
+alongside insights from a futurist. More than 7,000 participants were surveyed, interviewed,
+or participated in feedback discussions. The research team also analyzed social media data,
+industry and academic literature, visioning publications, and trend reports.
+
+vi
+
+Internal Audit: VISION 2035
+
+The Internal Audit: Vision 2035 – Creating Our Future Together project aimed
+to create a comprehensive and integrated vision of the profession’s future.
+The project was driven by two critical questions:
+n What will the internal audit profession be in 2035?
+n What should the internal audit profession aspire to become by
+
+the year 2035?
+
+Key Steps to the Future
+Over half of survey respondents expect the profession to be substantially or
+very different by the year 2035 (refer to Figure 20). Collaboratively working
+toward an ideal future will credibly position internal auditors as strategic
+advisors, aligning with the ideal perception internal auditors seek. As the
+internal audit profession charts its path to the future, a series of interrelated
+steps must be taken. These steps include:
+n Shifting internal auditors’ mindsets.
+n Upskilling the profession and expanding the talent pipeline.
+n Acknowledging and preparing for significant emergent
+
+technologies and increasing risk complexities.
+n Expanding and enhancing advisory services and practices.
+n Increasing stakeholder acknowledgment of internal audit’s added
+
+value, along with growing stakeholder and organizational support
+and investment.
+n Coordinating amongst The IIA network to advocate, elevate,
+
+educate, and collaborate for the profession.
+
+The IIA’s Commitment to Lead
+The IIA is dedicated to advancing the profession globally. It acts as a
+catalyst for the profession and advocates the value of internal audit to
+key stakeholders. The IIA’s strategic plan aims to position internal audit
+professionals as indispensable to effective and efficient governance, risk
+management, and control, as well as enhancing an organization’s ability to
+serve the public interest. The IIA’s externally focused strategic objectives—
+enhancing competencies, expanding membership and pathways, advocating
+for public policy and corporate governance practices, elevating the value
+of IIA certifications, and evolving the Global Internal Audit StandardsTM in
+response to transforming business operations—position The IIA to deliver
+value for the profession’s stakeholders, and ensures the profession’s
+continued positive impact. The IIA commits to lead the way and will ensure
+members are equipped and prepared to elevate their impact over the next
+decade. The IIA has an affirmative outlook on the profession’s future, and
+together with its members and external stakeholders, will help make Vision
+2035 a reality.
+
+The IIA has an
+affirmative outlook on
+the profession’s future,
+and together with its
+members and external
+stakeholders, will help
+make Vision 2035
+a reality.
+
+Internal Audit: VISION 2035
+
+vii
+
+Contents
+Introduction............................................................................................................... 1
+Project Objectives................................................................................................... 3
+Research Methodology.......................................................................................... 4
+Opportunities to Overcome Obstacles..............................................................7
+Harnessing New Technologies............................................................................. 7
+Expanding Skills and Expertise.......................................................................... 12
+Leveraging Internal Auditors’ Enthusiasm for Adding Value.................... 15
+Cultivating Leadership and Stakeholder
+Support and Increasing Role Recognition......................................................17
+Shifting Current Perceptions to Align With the Desired Future............. 19
+Promoting the Profession and Attracting Talent........................................ 20
+Enhancing the Experience................................................................................... 21
+Changing the Balance to Succeed in Tomorrow’s Realities.................... 23
+Preserving Independence: Educating About Its Importance................. 29
+From Future Vision to Reality.............................................................................33
+Key Steps to the Future....................................................................................... 33
+Conclusion............................................................................................................... 37
+Project Collaborators...........................................................................................38
+Vision 2035 Partners............................................................................................39
+Appendix: Profiles of Survey Respondents................................................... 40
+Internal Audit Foundation Partners & Donors...............................................42
+
+viii Internal Audit: VISION 2035
+
+Introduction
+Over a 12-month period, the Internal Audit Foundation (the Foundation), supported by Bauman
+Research & Consulting and Knapp & Associates International, gathered insights from internal
+auditors and stakeholders within the global profession, as well as individuals external to the
+profession, to create a comprehensive and integrated vision of the profession’s future. The
+initiative, Internal Audit: Vision 2035 – Creating Our Future Together, was driven by two critical
+questions:
+n What will the internal audit profession be in 2035?
+n What should the internal audit profession aspire to become by the year 2035?
+
+The internal audit profession has a long history of transformation to meet changing stakeholder
+and regulatory demands. Because internal auditors’ competencies apply to assessing various
+types of risk and analyzing diverse situations, the profession has shown adaptability and agility
+in responding to emerging risks, new stakeholder assurance requests, regulatory changes,
+advancements in technology, economic shifts, and other challenges over the years.
+
+The Evolution of Internal Audit:
+From Inception to Now
+The profession of internal audit traces back centuries to merchants verifying receipts
+for grain brought to market. The real growth of the profession occurred in the 19th
+and 20th centuries with the evolution of the corporate business environment. Many
+people associate the genesis of modern internal auditing with the establishment of
+The IIA in 1941 in New York, USA, which is also when Victor Z. Brink authored the first
+major book on internal auditing. The IIA has since grown into a global organization and is
+represented in over 170 countries and territories, with more than 245,000 members and
+117 national institutes.
+Since its founding, The IIA has made important contributions during crises and at
+times of significant change. In 2002, the Sarbanes-Oxley Act required companies
+traded on U.S. stock exchanges to develop and maintain robust internal controls over
+financial reporting. Because internal auditors evaluate these controls, the new mandate
+increased their visibility and value. The Basel Committee on Banking Supervision’s
+supervisory guidance for assessing the effectiveness of internal audit functions has also
+elevated and enhanced internal audit’s role within banks. The Committee of Sponsoring
+Organizations of the Treadway Commission’s (COSO) Internal Control ­— Integrated
+Framework, released in 1992, also transformed the profession and its role.
+More recently, the International Internal Audit Standards Board undertook the IPPF
+Evolution, a multiyear project to update the mandatory guidance of the International
+Professional Practices Framework®. In January 2024, the Standards Board issued the
+Framework’s main component, the Global Internal Audit Standards™, which updated the
+Standards and included embedded guidance. Among other things, the new Standards
+added essential conditions, considerations for implementation, examples of evidence
+of conformance, a focus on performance in addition to conformance, a requirement
+for continuous improvement, and topical requirements (to be released) that address
+specific risk areas. The Standards are well-positioned and a critical step in setting the
+stage for the changes that will take place within the profession during the next decade.
+Internal Audit: VISION 2035
+
+1
+
+Embarking on a Vision Project:
+Purpose and Value
+As the profession looks toward the future, the rapidly accelerating pace of change and a broad
+volume of disruptive trends will mean new challenges and expectations for internal auditors. To
+be future-ready, the profession must identify and embrace its strong, current competencies and
+determine what new capabilities it will need going forward. Internal auditors must remain wellequipped to address new developments in an increasingly unpredictable world. The profession
+and its stakeholders must work together, as they have done in the past and throughout this
+project, to map out the best possible future course.
+
+“The results of this research will enable us to paint a picture of what our future could look like, and—even more
+importantly—allow us to build a roadmap that helps us make that future a reality,” said Anthony Pugliese, CIA,
+CPA, CGMA, CITP, President and CEO of The Institute of Internal Auditors (The IIA). “They say, ‘The best time to
+plant a shade tree is 20 years ago. The second-best time is now.’ With this project, we are planting the seeds of
+our profession’s future.”
+
+Both the Foundation and The IIA are committed to helping practitioners prepare for new
+challenges and opportunities, but it is critical first to clarify what practitioners may face in the
+future. The IIA’s mission is to provide dynamic leadership for the global profession of internal
+auditing. It accomplishes that goal through advocating on behalf of the profession, developing
+standards, providing education and training for internal auditors, bringing professionals together
+from around the world to share information and expertise, and partnering with and supporting
+academic institutions and students through its academic programs. The Foundation embarked
+on Vision 2035 not only to exemplify The IIA’s efforts to align with its mission, but also to serve
+as an example of its own mission, supporting the development of a proficient global body of
+internal audit practitioners.
+This report describes the Vision 2035 project, the extensive research involved, and the obstacles
+and opportunities expected to impact internal audit now and in the future. Its purpose is to
+provide action steps that internal auditors, the profession, and its stakeholders can take to bring
+the best possible future vision to life.
+
+2
+
+Internal Audit: VISION 2035
+
+Project Objectives
+The Vision 2035 project encompassed an ambitious list of goals that included:
+n Bringing internal auditors together to create a vibrant and viable future.
+n Identifying and building awareness of future opportunities and challenges.
+n Providing a path for the profession as it navigates a world in transformation.
+n Elevating internal audit’s role in organizations.
+n Establishing a touchstone for current and future initiatives to advance the
+
+profession and the public interest.
+n Rethinking behaviors to enable change in attitudes and approaches.
+n Updating and enhancing current perceptions of internal auditors so that their value
+
+is understood and so that talented future professionals will choose this field.
+
+A Worldwide Effort
+The Vision 2035 project reached far and wide to gather information from global business environments and industries. It created an
+inclusive picture of the future, incorporating feedback from internal auditors at all levels and stakeholders. The effort included:
+n 6,506 participants in a global survey (the map below presents the percentage of survey respondents per region):
+
+Europe
+13%
+
+31%
+Caribbean
+North America
+
+Latin America
+
+3%
+
+15%
+
+2%
+
+23%
+
+13% Asia Pacific
+
+Middle
+East
+
+Africa
+n More than 500 participants engaged across qualitative research efforts:
+• Global IIA institute leaders at The IIA’s 2023
+
+• Internal auditors in positions at all levels,
+
+Global Assembly in Amsterdam, the Netherlands.
+
+from early-career and experienced
+professionals to internal audit leadership.
+
+• Chief audit executives (CAEs) at The IIA’s 2023
+
+International Conference in Amsterdam, the
+Netherlands.
+
+• Students and educators.
+
+• Stakeholders, including C-suite executives, audit
+
+14 countries representing six continents.
+
+committee chairs, a futurist, board members,
+regulators, corporate governance executives,
+academics, association management, and board
+members.
+
+• Future Foresight panel participants from
+
+• Senior-level volunteers serving on
+
+IIA committees or boards.
+
+Internal Audit: VISION 2035
+
+3
+
+Research Methodology
+The research for Vision 2035 spanned several phases. The project was
+designed as a wide-reaching, collaborative endeavor, incorporating
+qualitative and quantitative research methods to understand the profession
+and its future better.
+
+Research Phases
+Foundational Research
+In the initial months of the project, the core research team gathered and
+reviewed existing literature, including academic and industry sources, on
+internal audit and its potential future. The team also examined visioning
+publications and trend reports from related fields. An external trends analysis
+helped reveal workplace and technology issues in the global marketplace that
+could affect the internal audit profession or that may already be having an
+impact.
+The foundational research phase included gathering social media intelligence
+with a web scraping tool. This method analyzes online conversations about
+a topic to better understand how it is perceived. Data was collected from
+online social media platforms to assess the current perceptions of the
+profession. The web scraping focused on a 24-month period, spanning from
+November 2021 through November 2023. Analysis was performed on a
+sample of 1,500 unique data points out of the more than 432,000 collected.
+The foundational phase concluded with a technology-assisted work session
+that brought together global leaders and stakeholders to envision potential
+futures for the profession and explore related opportunities and challenges.
+This one-and-a-half-day, facilitated Future Foresight Session—an exploratory
+visioning workshop—included 21 internal audit professionals from six
+continents representing various types of organizations and industry verticals.
+Additionally, eight IIA executive team/staff members participated in the
+session, which took place at The IIA’s Global Headquarters in June 2023.
+Discussions focused on the challenges internal audit must overcome to thrive
+in the future, including anticipated changes in demographics, career paths,
+and the role of internal auditors, as well as new skills necessary to enhance
+the profession’s value. The group reviewed significant past inflection points
+and discussed potential scenarios for the profession to extrapolate current
+trends into the future.
+
+4
+
+Internal Audit: VISION 2035
+
+SCENARIOS:
+DEPICTIONS OF
+ALTERNATIVE FUTURES
+Future Foresight Session participants
+were tasked with analyzing four plausible
+alternative futures of the profession
+developed by Bauman Research &
+Consulting and Knapp & Associates
+International based on the foundational
+research phase.
+SCENARIO 1: The Internal Auditor Is
+Respected as a Trusted Advisor and
+Collaborator
+SCENARIO 2: Internal Auditors Are the
+Organization’s “Police” Force
+SCENARIO 3: Internal Audit Is a Popular
+“Career Hack”
+SCENARIO 4: The Internal Auditor Is No
+Longer “Internal”
+This exercise aimed to explore different
+possibilities and their implications, helping
+to understand (not predict) how changes
+could impact the profession. Insights
+from these thoughtful discussions helped
+guide the research, particularly during the
+development of interview and focus group
+questions.
+
+Qualitative Research
+This phase of the project began in July 2023 at The IIA’s Global Assembly
+and The IIA’s International Conference in Amsterdam, the Netherlands.
+Efforts involved hosting table-talk discussions, which included more than
+100 IIA institute leaders and roughly 100 CAEs from around the world.
+These discussions were conducted in English, French, and Spanish. Input on
+the profession’s future was also gathered from the Foundation’s Board of
+Trustees through a facilitated discussion.
+Additionally, this phase involved conducting more than 25, 90-minute virtual
+focus groups. Calls for participation were issued, inviting members and
+nonmembers of The IIA to participate. Participants were segmented into
+groups based on their location and role. These groups comprised individuals
+at various career stages, educators, and students from Africa, Asia Pacific, the
+Caribbean, Europe, Latin America, North America, and the Middle East.
+Further, 21 one-hour online interviews were conducted with stakeholders.
+Participant roles included:
+n C-suite executives
+n Audit committee chairs
+n Board members
+n A futurist
+n Regulators
+n Corporate governance experts
+n Association management and board members
+
+Lastly, the Foundation engaged with 220 individuals consisting of IIA
+volunteer leaders and advisors to present and discuss key interim findings,
+actively seeking and receiving valuable feedback.
+
+HOW IS INTERNAL
+AUDIT PERCEIVED ON
+SOCIAL MEDIA?
+Research found that genuine engagement
+about internal audit is almost exclusively
+limited to conversations on Reddit and
+LinkedIn. The online community also uses
+Twitter/X, TikTok, and YouTube to address
+external audiences but not to interact with
+other professionals.
+Online conversations about internal audit
+fall into several narrative frames:
+n Overlooked but appealing springboard to
+kickstarting a corporate career.
+n Job, not a career.
+n Attractive career that few people
+understand or know about, which
+limits the number of people who take
+advantage of its potential.
+n Profession that suffers from
+misperceptions about internal auditors’
+unpopularity within organizations when
+viewed as “spies” or “police.”
+
+Internal Audit: VISION 2035
+
+5
+
+Quantitative Research
+From February 2024 through March 2024, the Foundation fielded an online survey to a global
+audience of internal auditors, educators, students, and stakeholders to validate and quantify
+key themes and insights about the profession’s future. The roughly 25-minute survey received
+6,506 responses. To capture the greatest diversity of experience and thought, the survey was
+conducted in eight languages (Arabic, Canadian French, English, French, Japanese, Portuguese,
+Simplified Chinese, and Spanish).
+
+Figure 1
+Survey Participants’ Profession or Role
+
+78% 1%
+Employed as an
+internal auditor
+
+Retired internal
+auditor
+
+1% 13% 3% 2% 2%
+Internal auditor
+in transition
+
+Employed in a
+non-internal
+audit role
+
+Audit committee
+or board member
+
+Educator
+
+80% employed within the profession
+
+Source: Vision 2035 Survey. Q1. What is your current profession or role? (Choose one.) (n=6506)
+
+Participants came from more than 155 countries across seven different regions. Of the total,
+80% were employed within the internal audit profession1, including 30% who held positions as
+heads of internal audit (CAEs), 36% who served as directors/managers, and 34% who were staff
+auditors or contractors (refer to Figure 1 and Figure 21). On average, these respondents had been
+employed in internal audit for 12 years, with the majority (66%) indicating their intentions to stay
+in the profession2. Educators and students (2% each) also participated in the survey.
+In addition, 16% of survey participants represented stakeholders, with 3% audit committee or
+board members and 13% employed in non-internal audit roles. Their professional focus included
+accounting (14%), compliance (11%), risk management (9%), and finance (9%) (refer to Figure 24).
+
+6
+
+1
+
+ he 80% includes recently retired internal auditors or those in transition. In these cases, respondents were asked to report
+T
+on their most recent position in internal audit when answering the survey questions.
+
+2
+
+Source: Vision 2035 Survey. Q9. [Internal Auditors] What are your career plans related to internal audit? (n=5273)
+
+Internal Audit: VISION 2035
+
+Student
+
+Opportunities to
+Overcome Obstacles
+The research uncovered obstacles that might hinder the profession’s optimal
+future. While some of the challenges discussed may not be new, the level of
+change in recent years has substantially transformed the business and risk
+environment, intensifying attention and urgency towards existing and emerging
+obstacles.
+Fortunately, obstacles can present opportunities for growth and progress for
+the future. In some cases, simply identifying the obstacles, as done through the
+Vision 2035 project, is a chance to understand them better and develop the
+best solutions. The following sections address the obstacles and opportunities
+facing the internal audit profession as it looks ahead to 2035.
+
+Harnessing New Technologies
+Respondents across all regions and roles indicated that new technologies
+would influence how internal auditors perform their work, improve the quality
+of engagements, and provide new opportunities to add value. Further, when
+asked to describe the most significant drivers expected to impact internal
+audit in the next 10 years, respondents cited technology as having the greatest
+potential impact on the role in the future. This impact involved not only
+using new technology, but also understanding its associated risks and having
+human capital resources with the skills necessary to assess technology
+transformations.
+Participants envisioned several technology-driven changes that could
+transform internal audit (refer to Figure 2), including:
+n Increasing volumes of data and making more complex data available
+
+for auditors to analyze/assess (97%).
+n Enhancing experienced internal auditors’ skills to stay relevant (96%).
+n Developing better insights for recommendations (93%).
+n Adding more value to their organization (92%).
+
+While some of the
+challenges discussed
+may not be new, the
+level of change in recent
+years has substantially
+transformed the business
+and risk environment,
+intensifying attention
+and urgency towards
+existing and emerging
+obstacles.
+
+Internal Audit: VISION 2035
+
+7
+
+Figure 2
+New Technologies’ Impact on the Future of Internal Audit
+
+New technology will allow auditors to manage
+increasing volumes of data and more complex data
+
+57%
+
+40%
+
+97%
+
+Experienced internal auditors will need to
+increase their technology skills to stay relevant
+
+54%
+
+42%
+
+96%
+
+The use of new technology will provide internal auditors
+with better insights for their recommendations
+
+44%
+
+49%
+
+93%
+
+New technology is key to helping
+internal audit add more value
+
+44%
+
+48%
+
+92%
+
+Internal audit functions that do not leverage new
+technology will face challenges and potential failure
+
+40%
+
+Disinformation and misinformation
+will emerge as a top global risk
+
+37%
+
+47%
+46%
+
+83%
+
+There is a risk that organizations will rely too heavily
+on new technology with less human involvement
+
+30%
+
+48%
+
+78%
+
+Entry-level internal auditors will need a
+higher level skill set to be successful
+
+28%
+
+53%
+
+81%
+
+New technology will replace some
+entry-level roles in internal audit
+
+23%
+Strongly agree
+
+42%
+Agree
+
+Source: Vision 2035 Survey. Q38. Please indicate your level of agreement with the following statements
+about new technology (such as AI, machine learning, and automation) and its impact on internal audit
+in the future. (n=6506)
+
+Artificial intelligence (AI), for example, is expected to change how internal
+auditors work by improving efficiency, productivity, accuracy, and uniformity.
+According to survey respondents, who were asked to share their perspectives
+on AI in internal audit, AI will add value by enabling the analysis of more
+information and the development of more in-depth insights. With these
+efficiencies, the profession should anticipate a transformation in how audits
+are conducted in the future, along with enhanced assurance opportunities
+and expanded advisory services.
+“The old-fashioned way of auditing is to find the needle in a haystack,” said
+David Chavez, CFO for Shared Services, CVS Health. “In the new way, I remove
+the haystack and I’m left with the needles. The technology allows me to
+remove the noise and focus into the real issues.”
+Despite the reported optimism around AI, less than half shared that they
+are currently involved in AI activities (refer to Figure 3). Among those, about
+a quarter (22%) said they are researching the future use of AI, while many
+fewer were using it for internal audit activities (18%) or auditing AI use in the
+organization (14%). Harnessing new technologies, like AI, is a way internal
+audit can add more value, insight, and foresight. Survey results indicate an
+opportunity for the profession to expand its AI-related activities. However,
+while AI is currently at the forefront, the profession must monitor for and
+consider disruptive technologies that are just beginning to emerge today or
+will emerge in the future.
+
+8
+
+87%
+
+Internal Audit: VISION 2035
+
+65%
+= Total agree
+
+Figure 3
+Internal Audit Function AI Activities
+
+Researching future use of
+artificial intelligence
+
+48%
+Are Involved in
+AI Activities
+
+22%
+
+Using AI for internal
+audit activities
+
+18%
+
+Auditing use of AI
+in the organization
+
+14%
+
+Providing advisory services
+for policies related to AI
+Providing pre-implementation
+advisory services on AI projects
+
+12%
+
+10%
+
+Source: Vision 2035 Survey. [Internal Auditors/AC/BD] Q39. Is your internal audit function involved in any of the following
+activities related to artificial intelligence? (n=5460)
+
+More mature and larger functions were most likely to agree that failing to leverage technology
+will create challenges for internal audit. These functions are more likely to have the most
+advanced implementation of technology tools, although there is room for improvement in
+technology adoption across all organization types.
+While the potential of harnessing new technologies presents opportunities, it also highlights the
+challenges the profession may face if it does not leverage technological advancements. With
+the need to stay relevant, attract top talent, and quickly process increasing volumes of data,
+using technology is a must for internal audit to continue to adequately cover the organization’s
+risk universe and deliver high-quality assurance and advisory services.
+Among internal audit survey respondents, 87% agreed that internal audit functions not
+leveraging new technology will face challenges and potential failure (refer to Figure 2). This
+response was consistent among both senior and staff-level internal auditors.
+
+Internal Audit: VISION 2035
+
+9
+
+Being at the forefront of new technology helps internal audit strengthen
+the organization’s ability to create, protect, and sustain value. For instance,
+today’s emerging technologies introduce new data tools and sources.
+Nevertheless, the sheer volume of information may, if not properly managed,
+pose privacy and accuracy concerns, as well as challenges in delivering
+valuable insights and/or foresight. Further, emerging technologies give rise
+to new risks, exemplified by deep fakes, which are created using AI and deep
+learning techniques. The manipulation of existing media, such as video and
+audio recordings, can result in the dissemination of false information and the
+fabrication of evidence. This concern is echoed by survey respondents, with
+83% agreeing that the emergence of disinformation and misinformation will
+impact the profession in the future (refer to Figure 2). Internal audit can help
+ensure data governance and management practices are robust and that the
+proper frameworks are in place to help management mitigate against such
+risks proactively.
+With increasing risks and responsibilities, knowledge and use of AI and other
+new technologies become valuable tools to confront challenges. However,
+the profession must also be vigilant about organizations relying too heavily
+on new technology with reduced human involvement. Strategy development,
+human experience, and professional expertise will still be critical in the future
+and cannot be replaced by technology. According to survey results, most
+respondents (78%) agreed that this risk would impact the profession in the
+future (refer to Figure 2).
+Regarding advanced or high-level implementation of technology tools, most
+professionals reported that their audit functions have not yet implemented
+them to this degree (refer to Figure 4). The tools implemented today are led by
+audit management systems (AMSs), which can automate the entire internal
+audit function’s processes to drive Standards conformance, efficiency, and
+effectiveness. AMSs are implemented at a high level by 40% of respondents,
+followed by continuous monitoring and data analytics, at 27% and 25%,
+respectively.
+Despite the discussed importance of technology in an internal audit function,
+one-third of the respondents reported low or no implementation of various
+technology tools or approaches. However, almost all (91%) respondents
+view data analytics as extremely or very important for the ideal future of the
+profession (refer to Figure 4). This presents an opportunity for internal audit
+to increase its adoption of data analytics to enhance audit processes and
+provide valuable insights and foresight.
+
+In December 2023, The IIA
+launched its AI Knowledge
+Center with the aim of
+developing a centralized
+repository of AI resources
+and tools on theiia.org/AI.
+These resources include,
+but are not limited to:
+n Articles and podcasts
+nG
+ lobal Technology Audit
+Guides (GTAGs)
+n Global Knowledge Briefs
+
+10
+
+Internal Audit: VISION 2035
+
+Figure 4
+Degree of Technology Implementation
+
+Most Important for the Future
+(Extremely/Very Important)
+
+Tools and Approaches
+
+Audit management systems/applications
+
+33%
+
+26%
+
+40%
+
+1%
+
+75%
+
+Continuous monitoring
+
+27%
+
+32%
+
+39%
+
+2%
+
+79%
+
+Data analytics
+
+25%
+
+34%
+
+38%
+
+3%
+
+91%
+
+48%
+
+4%
+
+69%
+
+55%
+
+2%
+
+76%
+
+5%
+
+74%
+
+6%
+
+64%
+
+Agile auditing
+
+20%
+
+Automation
+
+16%
+
+Artificial intelligence (AI)
+Machine learning
+
+28%
+27%
+77%
+
+7% 11%
+9%
+
+Advanced/High level
+of implementation
+
+67%
+
+18%
+Medium level
+of implementation
+
+Low level / No
+implementation at all
+
+Not sure/
+not applicable
+
+Source: Vision 2035 Survey. [Internal Auditors] Q36. To what degree has internal audit at your organization implemented the
+following technology tools and approaches? Q37. How important will adoption and implementation of these technologies be to
+the ideal future of the internal audit profession? (n=5273)
+
+As previously discussed, the majority are researching the future use of AI and are not yet
+leveraging its capabilities within the internal audit function. This data point is further reinforced
+by the fact that AI is currently implemented at an advanced level in only 7% of internal
+audit functions. Despite this, 74% affirm that AI is most important for the ideal future of the
+profession (refer to Figure 4).
+According to the Foundation’s 2024 Risk in Focus report, CAEs worldwide expect technology
+risk levels to increase in the future. These same CAEs cited digital disruption as one of the top
+five risks their organizations currently face, with a risk rating of 34%. When CAEs were asked to
+score the risks their organizations will face three years from now, digital disruption moved up to
+the #2 spot and the risk rating soared to 55%.3
+Fast-paced technological changes force organizations and professionals to adapt, enabling
+them to find ways to advance in the new environment and subsequently adjust to the changes
+that progress brings about.
+
+3
+
+“Risk in Focus 2024 Survey Results, Global Summary,” Internal Audit Foundation, 2024.
+
+Internal Audit: VISION 2035
+
+11
+
+Expanding Skills and Expertise
+For any profession, changes brought on by digital transformation, new technologies,
+and unexpected risks may result in significant and continuous organizational disruption.
+Cybersecurity leads the list of areas that are expected to increase in future audit scopes,
+and others include information technology, alignment to the strategy of the organization,
+and sustainability, such as ESG initiatives (refer to Figure 5). While these may pose ongoing
+challenges for many roles within an organization, they will be of particular concern for internal
+audit due to the need to identify risks and address various considerations across their
+organizations.
+Continuous upskilling (learning) will need to occur at a fast pace and internal auditors will
+have to apply their new knowledge quickly. Because internal auditors cannot feasibly become
+experts in all areas where they provide assurance and advisory services, they must learn how
+to rapidly leverage internal and external knowledge effectively. While not without challenges,
+this environment offers opportunities for greater collaboration with other professionals inside
+and outside the organization. As the need for skills evolves, internal audit functions can address
+these needs either by adding internal audit team members who possess the required expertise
+or by co-sourcing with an external service provider who can provide the necessary skills for a
+particular advisory and/or assurance engagement.
+This environment also highlights the need to expand the base of education and experience
+beyond today’s internal audit teams’ historical accounting, finance, and audit backgrounds
+and recognize individuals from diverse backgrounds and those with alternative professional
+qualifications. Organizations’ needs vary, and as a result, not all auditors will need the same
+degree of expertise. While some organizations may demand highly technical skills, others may
+require more generalist internal auditors with a broad range of backgrounds. CAEs should staff
+and plan accordingly.
+
+12
+
+Internal Audit: VISION 2035
+
+Figure 5
+Current and Future Audit Scopes
+
+84%
+
+82%
+
+Current
+
+64%
+
+61%
+
+56%
+
+56%
+
+60%
+
+56%
+46%
+
+50%
+
+48%
+
+Future
+
+75%
+
+55%
+
+55%
+
+51%
+
+55%
+
+47%
+
+40%
+
+36%
+
+53%
+
+41%
+
+33%
+
+31%
+21%
+
+Regulatory Internal policy
+Risk
+compliance compliance management
+
+Current Scope
+
+Fraud risk
+
+Efficiency
+
+Governance
+and culture
+
+Information
+technology (IT)
+
+Strategic
+alignment
+
+Third-party Cost/expense
+Cybersecurity Sustainability
+relationships/
+reduction
+risks
+
+Expected Future Scope Increase
+
+Source: Vision 2035 Survey. [Internal Auditors] Q18a. When you are conducting audit engagements in general, which of the
+following areas do you usually include in your audit scope? (Choose all that apply.); Q18b. And, ideally, which would you expect
+to be included in future audits? (Choose all that apply.) (n=5273)
+
+Continuous learning is key to facilitating the value of assurance and maintaining the
+profession’s relevance. Internal auditors also must keep pace in areas with evolving regulations
+and reporting requirements, such as sustainability and data privacy. Adaptability and learning
+agility are among the most important skill sets today (56%) for an internal auditor and will
+remain so in the future (48%) (refer to Figure 6).
+
+Internal Audit: VISION 2035
+
+13
+
+Figure 6
+Adaptability and Learning Agility: Now and in the Future
+
+56%
+
+Adaptability
+and learning
+agility
+
+48%
+
+■ Now
+
+■ Future
+
+Source: Vision 2035 Survey. Q33a. What three skill sets are most important for internal auditors now?
+(Choose three.); Q33b. And what three skill sets will be most critical for internal auditors in the future (10
+years)? (Choose three.) (n=6506)
+
+Going forward, internal auditors will need targeted skills training to meet
+the goals for the profession identified in Vision 2035, including the core
+functional shift from mostly assurance to more advisory services and the
+use and audit of emerging technologies. The necessary skills are expected
+to keep evolving over the next ten years, resulting in gaps that will need to
+be addressed. An expansion of the skill base beyond technical skills and
+across business acumen and activities, including current strategic plans, key
+regulatory changes and challenges, and implementations, will benefit internal
+audit in providing assurance, as well as insight and foresight, thereby adding
+value to organizations.
+“In an ideal world, the first necessary change will be that the internal audit
+team is adequately staffed, not just in numbers, but with the right skill sets
+and experience levels that are relevant for the scope of work that the internal
+audit function is tasked with,” said Burzin Dubash, COO, Ankur Capital.
+There is an opportunity for these skill sets to develop now, at the university
+level, with a more multidisciplinary learning environment. Future internal audit
+functions will need auditors from diverse disciplines, as well as those with
+advanced data and technology skills. In the survey, when educators were
+asked to envision the ideal curriculum to prepare students for a career in
+internal audit in the future, more than anything else, educators said building
+technological agility (36%)4.
+
+“For the profession to
+
+remain healthy, the next
+generation of internal
+auditors must be techsavvy, innovative, and more
+resilient than any of its
+predecessors,” according
+to the Foundation’s
+Fueling the Internal Audit
+Student Talent Pipeline
+report5. “Finding, training,
+and keeping these new
+überauditors will not
+be easy.
+
+”
+
+14
+
+4
+
+ ource: Vision 2035 Survey. E35. [OPTIONAL] How do you envision the ideal curriculum to prepare
+S
+students for a career in internal audit in the future (10 years)? [OPEN-ENDED]
+
+5
+
+“ Fueling the Internal Audit Student Talent Pipeline: Perspectives from Educators and Practitioners,”
+Internal Audit Foundation, 2024.
+
+Internal Audit: VISION 2035
+
+Leveraging Internal Auditors’
+Enthusiasm for Adding Value
+Internal auditors gain a great deal of satisfaction from the contributions
+they make on the job and from their critical role in their organizations. Among
+the different professionals and regions represented in the survey, the most
+exciting aspect of the internal audit profession to internal auditors is the
+chance to add value to the organization. A total of 75% cited this opportunity
+(refer to Figure 7). At the same time, respondents reported that adding value
+was the most important aspect of the profession (39%).
+Internal auditors’ enthusiasm for the profession also included the following:
+n Continuous learning opportunities, 63%.
+n Improving the organization’s risk management, 57%.
+n Being a trusted advisor, 55%.
+n Problem-solving, 55%.
+n Broad organizational exposure, 54%.
+
+Internal audit function leaders, hiring managers, educators, and other
+stakeholders can communicate the key aspects that are most important
+about the profession and highlight the elements that inspire excitement
+among internal auditors already in the field. Promoting this excitement and the
+profession’s importance can attract talented individuals to the profession and
+foster a motivated internal audit community.
+
+Internal audit function
+leaders, hiring managers,
+educators, and other
+stakeholders can
+communicate the key
+aspects that are most
+important about the
+profession and highlight
+the elements that inspire
+excitement among
+internal auditors already
+in the field.
+
+Internal Audit: VISION 2035
+
+15
+
+Figure 7
+Enthusiasm for the Profession
+
+Most Excited About
+
+Most Important
+
+75%
+Adding value to the organization
+
+63%
+Continuous learning
+
+57%
+Improving the organization’s risk management
+
+39%
+11%
+11%
+
+55%
+
+13%
+
+55%
+
+8%
+
+54%
+Broad exposure to the organization
+
+8%
+
+42%
+Working with senior leaders
+
+3%
+
+37%
+Learning and using new technologies
+
+3%
+
+34%
+Non-repetitive activities
+
+4%
+
+29%
+Expanding communication skills
+
+1%
+
+19%
+Fast-paced environment
+
+1%
+
+Being a trusted advisor
+Solving problems
+
+Source: Vision 2035 Survey. Q11. [Internal Auditors; Students] What excites you most about the internal audit profession?
+(Choose all that apply.) [Non-IAs; AC/BD] What do you think excites internal auditors most about the internal audit
+profession? (Choose all that apply.) [Educators] What do you think excites students most about the internal audit
+profession? (Choose all that apply.) Q12. [Internal Auditors; Students] Of the items you said excite you most about the
+internal audit profession, which one is the most important to you? (Choose one.) [Non-IAs; AC/BD] Of the items you
+said excite internal auditors about the profession, which one is the most important? (Choose one.) [Educators] Of the
+items you said excite your students most about the internal audit profession, which one is the most important to them?
+(Choose one.) (n=6506)
+
+While adding value to an organization is what most excites internal auditors
+about the profession and is viewed as the most important aspect, the
+majority reported that the greatest challenge internal auditors face is being
+misunderstood and undervalued. These challenges and more are detailed in
+the sections that follow.
+
+16
+
+Internal Audit: VISION 2035
+
+Cultivating Leadership and
+Stakeholder Support and
+Increasing Role Recognition
+Internal auditors, professionals outside of internal audit, and educators all
+agreed on the top three challenges the internal audit profession presently
+faces (refer to Figure 8):
+n Being misunderstood or undervalued.
+n Lacking sufficient support from leadership and stakeholders.
+n Lacking needed skill sets within the internal audit function.
+
+Elevating the role of internal audit within an organization can help address
+the challenge of not feeling fully appreciated or recognized. As the value
+of internal auditors’ work becomes more recognized, they transition from
+being perceived solely as enforcers to respected peers. This shift reinforces
+their importance and contribution within the organization. “Being a trusted
+advisor” represented the profession’s second most important aspect
+(refer to Figure 7). In this role, individuals use their business knowledge and
+technological expertise to identify trends and threats. They leverage these
+skills to engage collaboratively with management and the board.
+While the need for more support from leadership and stakeholders ranked
+as the second most important challenge, according to Deloitte’s Center
+for Board Effectiveness and the Center for Audit Quality’s 2024 Audit
+Committee Practices Report,6 almost 80% of audit committee members
+agree or strongly agree that there is an opportunity for internal audit to add
+more value. Further, the survey results indicated that 89% agree or strongly
+agree that internal audit demonstrates a high level of understanding of the
+organization’s operations. Recognition of this knowledge by management
+and the board across organizations and industries worldwide drives greater
+appreciation for the multifaceted value of internal auditors’ work.
+
+6
+
+ udit Committee Practices Report: Common Threads Across Audit Committees, Deloitte’s Center for
+A
+Board Effectiveness and the Center for Audit Quality, March 2024. Note majority of respondents
+are U.S. based companies.
+
+Internal Audit: VISION 2035
+
+17
+
+Figure 8
+Challenges for the Profession
+
+Greatest
+Challenge
+
+Most Important
+Challenge
+
+50%
+Being misunderstood or undervalued
+
+23%
+
+45%
+Need for more support from leadership and stakeholders
+
+22%
+
+42%
+Lacking needed skill sets within the internal audit function
+
+17%
+
+30%
+Expanding expectations from leadership and stakeholders
+
+9%
+
+28%
+Finding the right balance between assurance and advisory services
+
+7%
+
+26%
+Pace of change makes it difficult to remain current
+
+9%
+
+18%
+Belief that offering advisory services impacts independence and objectivity
+
+4%
+
+13%
+Too much reliance on technology without human oversight
+
+4%
+
+13%
+Internal audit becoming overly focused in one area
+
+2%
+
+5%
+Other
+
+4%
+
+Source: Vision 2035 Survey. Q13. Which areas represent the greatest challenges for the internal audit profession? (Choose all
+that apply.) (n=6383) Q14. Of the areas you said represent the greatest challenges for the practice of internal auditing/at your
+organization, which one is the most important? (Choose one.) (n=6265)
+
+18
+
+Internal Audit: VISION 2035
+
+Shifting Current Perceptions to
+Align With the Desired Future
+Much of the profession’s future narrative will be shaped by individuals entering the workforce
+today or in the near future. However, attracting talent to the profession presents a challenge
+when some current perceptions of the profession are not well-aligned with the desired
+perceptions and the future needs of internal audit.
+
+Figure 9
+How Internal Audit Is Viewed Today
+
+Compliance-focused
+
+54%
+51%
+
+Independent
+
+48%
+
+As “police”
+Objective
+
+43%
+
+Trusted advisors
+
+40%
+40%
+
+Internal consultants
+Respected
+
+36%
+
+Collaborative
+
+34%
+
+Problem solvers
+
+34%
+28%
+
+Valued
+
+21%
+
+Change agents
+Boring
+
+21%
+
+Good communicators
+
+20%
+
+Strategic
+
+19%
+
+Holistic thinkers
+
+15%
+
+Curious learners
+
+14%
+
+Dynamic
+
+13%
+
+Technology and data experts
+
+11%
+
+Source: Vision 2035 Survey. Q22. In general, how do you think internal audit is viewed? (Choose all that apply.) (n=6506)
+
+Although there is consensus that internal audit today is viewed as “compliance-focused” (54%)
+and “independent” (51%), the characterization of internal auditors as “police” (48%) was also
+frequently chosen across regions (refer to Figure 9). Focusing on compliance is consistent with
+the profession’s auditing role. However, if perceptions of internal auditors primarily revolve
+around the role of police, it could hinder the profession’s perceived value and advisory activities.
+Further, many qualities that would support the role of being a strategic advisor scored very low
+in the survey when participants were asked how internal auditors are perceived. These qualities
+include being strategic (19%), holistic thinkers (15%), curious learners (14%), and dynamic (13%).
+And, at a time when technology expertise is critical, technology and data experts scored lowest.
+
+Internal Audit: VISION 2035
+
+19
+
+When participants were asked how internal audit should ideally be perceived
+in the future, terms like “police” and “boring” ranked low, while “trusted
+advisor” and “change agents” ranked high. Achieving this desired future will
+entail that all internal audit professionals embody the qualities of being a
+strategic advisor and a catalyst for change. Recognizing the misalignment
+between the current perceptions of internal audit and the desired
+perceptions offers an opportunity to realign efforts toward achieving the
+envisioned future.
+
+Achieving this desired
+future will entail
+that all internal audit
+professionals embody
+the qualities of being
+a strategic advisor
+and a catalyst for
+change. Recognizing the
+misalignment between
+the current perceptions
+of internal audit and
+the desired perceptions
+offers an opportunity to
+realign efforts toward
+achieving the envisioned
+future.
+
+Promoting the Profession
+and Attracting Talent
+There are both challenges and opportunities in thinking about the future
+talent pipeline of the internal audit profession. Educators and students are
+of two minds about the top barriers. Educators indicated that the top barrier
+keeping students from entering the profession is a lack of understanding or
+awareness (refer to Figure 10). For students, the barrier stems from within
+the profession: inadequate networking opportunities with internal audit
+professionals. Both agreed that misconceptions about career progression and
+the lack of mentors or role models are also barriers.
+
+Figure 10
+Barriers Keeping Students From the Profession
+Educators
+
+54%
+
+Preference for other
+fields perceived as more
+glamorous or lucrative
+
+38%
+
+23%
+Lack of awareness or
+understanding of the
+internal audit profession
+
+24%
+
+Lack of mentorship or
+role models in the
+internal audit profession
+
+34%
+
+34%
+
+28%
+
+28%
+
+Misconceptions about
+career progression
+and opportunities in
+internal audit
+
+Source: Vision 2035 Survey. [Educators] E13. What barriers do you see that might be keeping your
+students from considering the internal audit profession? (Choose all that apply.) (n=106); [Students] S13.
+What keeps you from considering the internal audit profession? (Choose all that apply.) (n=123)
+
+20 Internal Audit: VISION 2035
+
+Students
+
+Inadequate networking
+opportunities with
+internal audit
+professionals
+
+33%
+
+33%
+
+20%
+
+25%
+
+Limited exposure
+to internal audit
+concepts in university
+
+Students’ awareness, understanding, and interest in the profession can
+benefit from more exposure to it, greater networking opportunities, and
+mentoring from experienced internal audit professionals. These actions would
+help clarify potential uncertainties about the profession’s benefits and career
+opportunities.
+In terms of future opportunities to expand the talent pipeline and attract
+talent, it is important to also recognize that internal auditors can enter the
+profession as experienced non-audit professionals. These professionals can
+contribute fresh perspectives, diverse skill sets, and potentially a broader
+understanding of business operations, all of which would benefit the
+profession.
+Regardless of the source of new talent—whether directly from universities,
+through hiring recent college graduates, or through the transfer of
+experienced non-audit professionals—promoting the purpose of internal
+audit and emphasizing the value that internal auditors provide to their
+organizations could have a powerful appeal for attracting top talent.
+
+Enhancing the Experience
+According to survey results, the longer people stay in the profession, the
+more positive they feel about how internal audit is perceived (refer to Figure
+11). More than 50% of individuals who have worked as internal auditors for
+20 or more years believe internal auditors are viewed as trusted advisors,
+whereas only one-third of those with less than 10 years of experience hold
+the same view. Further, 54% of those with 20 to 29 years of experience in
+the profession feel respected, while only 27% of individuals who have been
+in the profession less than 10 years share the same sentiment. Additionally,
+while 55% of newer internal auditors say internal auditors are perceived as
+police, only 27% of those with 30 or more years of experience have the same
+outlook.
+
+IIA student membership offers
+exposure to the profession
+and provides invaluable
+opportunities to connect with
+working professionals.
+
+While the exact reasons behind the disparity between more experienced
+and less experienced internal auditors are not yet well understood, one
+possible explanation could be attributed to the level of management with
+which the two groups interact. Senior management tends to view internal
+audit as adding value to the organization. Additionally, seasoned internal
+auditors understand that assurance engagements also come with internal
+audit offering advice on how management can strengthen controls and
+governance. The value addition occurs when management implements action
+plans to strengthen controls and governance. Nevertheless, these differences
+in perceptions raise questions about whether talented young internal
+auditors are leaving for other roles without fully exploring and experiencing
+what the profession offers.
+
+Conferences also offer the
+opportunity for exposure.
+Each year, The IIA hosts its
+Global Student Conference,
+which aims to connect college
+students from around the
+world with internal audit
+professionals.
+
+IIA membership is free
+to all students within
+North America, as well as
+participating institutes.
+
+Internal Audit: VISION 2035
+
+21
+
+The profession can take several steps to address these challenges, including
+educating staff, management, and other departments within the organization
+on the value that internal audit provides through both assurance and
+advisory engagements. This educational initiative can be spearheaded
+by CAEs and other audit leaders, allowing younger auditors to gain more
+exposure to key stakeholders. Further, early exposure to the profession
+through college curriculum and the establishment of degree programs, along
+with guest lectures, career events, internships, and similar avenues, could help
+narrow the perception gap.
+
+The IIA provides resources
+designed to strengthen
+connections between
+practitioners and universities.
+
+Figure 11
+Current Perceptions of Internal Audit by Years of Experience
+
+TOTAL
+Compliance-focused
+Independent
+As “police”
+Objective
+Internal consultants
+Trusted advisors
+Respected
+Collaborative
+Problem solvers
+Valued
+Boring
+Change agents
+Good communicators
+Strategic
+Holistic thinkers
+Curious learners
+Dynamic
+Technology and data experts
+
+Total
+n=6506
+
+0-9
+Years
+n=3187
+
+10-19
+Years
+n=2129
+
+20-29
+Years
+n=941
+
+30+
+Years
+n=249
+
+54%
+51%
+48%
+43%
+40%
+40%
+36%
+34%
+34%
+28%
+21%
+21%
+20%
+19%
+15%
+14%
+13%
+11%
+
+52%
+45%
+55%
+35%
+36%
+33%
+27%
+25%
+31%
+21%
+25%
+17%
+17%
+17%
+12%
+13%
+11%
+9%
+
+53%
+53%
+43%
+45%
+43%
+45%
+38%
+37%
+35%
+31%
+20%
+23%
+19%
+19%
+16%
+14%
+14%
+11%
+
+59%
+66%
+39%
+58%
+46%
+51%
+54%
+49%
+42%
+41%
+17%
+27%
+25%
+23%
+17%
+16%
+17%
+16%
+
+55%
+70%
+27%
+64%
+51%
+52%
+60%
+57%
+47%
+50%
+11%
+27%
+32%
+24%
+21%
+13%
+19%
+18%
+
+The color indicates where each cell falls within range
+of highest value (70%) to lowest value (7%)
+Source: Vision 2035 Survey. Q22. In general, how do you think internal audit is viewed? (Choose all that
+apply.) (n=6506)
+
+22
+
+Internal Audit: VISION 2035
+
+These toolkits and guides
+contain information on
+planning various activities
+and events to facilitate
+networking, recruitment, and
+interaction between students,
+educators, and potential
+employers.
+Visit theiia.org and search
+Academic Relations Toolkit and
+Materials to learn more.
+
+Changing the Balance to Succeed
+in Tomorrow’s Realities
+Today, internal auditors primarily provide objective, independent assurance to executive
+management and governing bodies. They confirm the comprehensiveness and reliability of the
+organization’s governance processes, assess the adequacy of internal controls in mitigating
+risks, and ensure that the business operates as intended to achieve its objectives, protect
+stakeholders, and serve the public interest. In addition, as part of these assurance services,
+internal audit makes recommendations to strengthen internal controls and holds management
+accountable for implementing actions to improve risk management. Both actions are required
+by the Global Internal Audit StandardsTM.
+Based on the research results (refer to Figure 12), the top areas worldwide where internal
+auditors provide assurance and/or advisory services, either individually or as part of their
+internal audit function, include:
+n Operations/processes (75% personally, 87% function).
+n Compliance (69%, 82%).
+n Risk management (63%, 77%).
+
+The areas where internal auditors are less likely to provide services include:
+n External financial reporting (18% personally; 29% function).
+n Sustainability (21%, 34%).
+
+Internal Audit: VISION 2035
+
+23
+
+Figure 12
+Top Areas in Which Internal Auditors Provide Audit Services
+
+Personally
+
+Internal Audit Function
+
+Operations/processes
+
+75%
+
+Compliance
+
+69%
+
+Risk management
+
+63%
+
+Governance
+
+53%
+
+Financial reporting (internal)
+
+42%
+
+Human resources
+
+37%
+
+Fraud investigation
+
+37%
+
+Business continuity
+
+43%
+
+27%
+
+Cybersecurity
+
+25%
+
+Third-party risk management
+
+24%
+
+Sustainability
+
+52%
+47%
+
+29%
+
+Strategy
+
+39%
+45%
+37%
+
+21%
+18%
+
+57%
+59%
+
+29%
+
+Data analytics
+
+Financial reporting (external)
+
+58%
+
+40%
+
+Information technology (IT)
+
+66%
+
+34%
+29%
+
+Source: Vision 2035 Survey. [Internal Auditors] Q17a. In which areas did you personally provide internal audit services (assurance
+and/or advisory) in the past year? (Choose all that apply.) (n=5273) [Internal Auditors; AC/BD] Q17b. And in which areas did your
+internal audit function provide internal audit services (assurance and/or advisory) in the past year? (Choose all that apply.)
+(n=5460)
+
+One of the key insights to emerge from the Vision 2035 project is an ideal future that places
+a greater emphasis on advisory engagements, thus shifting the current balance between
+advisory and assurance engagements to an increased focus on strategic changes and key
+implementations. Survey participants in all regions and types of organizations spend an average
+of slightly more than three-quarters of their time on assurance engagements (refer to Figure 13).
+However, in the future, there is an expectation that the amount of time spent on assurance
+will decline to 59%, with the remaining 41% devoted to advisory services. This represents a
+17-percentage-point increase over where internal audit stands today.
+
+24
+
+Internal Audit: VISION 2035
+
+87%
+82%
+
+77%
+
+Figure 13
+Assurance vs. Advisory Services: Now and Ideal Future
+
+24%
+
+Advisory
+
+41%
+
+Advisory
+
+76%
+
+Now
+
+Ideal
+Future
+
+Assurance
+
+59%
+
+Assurance
+
+Source: Vision 2035 Survey. [Senior-Level Internal Auditors; AD/BD] Q42a. What proportion of time does internal audit at your
+organization usually spend on assurance services* compared to advisory services*? Q42b. And ideally, in the future, how do you
+think internal audit time should be spent? (n=3670)
+
+In envisioning an ideal future, 79% believed that advisory work would expand (refer to Figure 14).
+Internal auditors are clearly willing to take on more advisory services and anticipate that these
+services will become more essential for both them and their organizations. However, even with
+the increased focus on advisory services in an ideal future, the balance remains weighted in favor
+of assurance services (at 59% to 41%, as shown in Figure 13). This emphasizes the continued need
+to provide assurance services that give the board and management confidence and provide
+opportunities to strengthen governance, risk management, and controls.
+
+Internal Audit: VISION 2035
+
+25
+
+Figure 14
+Change in Advisory Now vs. Ideal Future
+
+14%
+
+Increase by 31+%
+
+18%
+
+Increase by 21-30%
+
+30%
+
+Increase by 11-20%
+
+17%
+
+Increase by 1-10%
+
+11%
+
+Stay same
+
+10%
+
+Decrease in advisory
+
+Source: Vision 2035 Survey. [Senior-Level Internal Auditors; AC/BD] Q42a. What proportion of time
+does internal audit at your organization usually spend on assurance services* compared to advisory
+services*? Q42b. And ideally, in the future, how do you think internal audit time should be spent?
+(n=3670)
+
+The purpose of internal auditing, according to the Global Internal Audit
+StandardsTM, is to “strengthen the organization’s ability to create, protect, and
+sustain value by providing the board and management with independent,
+risk-based, and objective assurance, advice, insight, and foresight.” This
+statement replaced the previous mission of internal audit from the 2017
+Standards, which stated: “To enhance and protect organizational value
+by providing risk-based and objective assurance, advice, and insight.”
+The new purpose statement links to what internal audit professionals
+and stakeholders envision for the future of the profession, emphasizing a
+comprehensive and forward-thinking approach. The inclusion of foresight
+signals a proactive stance, aiming to foster the organization’s ability to create
+value by anticipating future risks.
+The change in the proportion of assurance to advisory services from the
+present to the ideal future presents an opportunity to reimagine what it
+means to be an internal auditor. “The auditors that are only used to doing
+compliance and Internal Controls over Financial Reporting testing, also need
+to have business savvy,” said Sandy Pundmann, Executive Vice President,
+Chief Audit and Risk Officer, Warner Brothers, and an independent Audit
+Committee Chair and Board Director. “They really need to understand how
+to peel back the onion and be curious and understand what they’re looking
+at. Technical skill sets are going to be important, but they must be combined
+with business acumen.”
+
+26
+
+Internal Audit: VISION 2035
+
+“Technical skill
+
+sets are going to be
+important, but they
+must be combined
+with business
+
+”
+
+acumen.
+
+Internal auditors are well-positioned to offer proactive advice, insights, and foresight that
+expands their role beyond assurance to strategic advisors. Organizations are already turning
+to internal auditors, with 80% of senior professionals, including audit committee and board
+members, reporting that the board and senior management leverage internal audit to help
+achieve organizational objectives (refer to Figure 15).
+
+Figure 15
+Internal Audit: Linked to Strategy and Organizational Objectives
+
+The board and senior management
+leverage internal audit to help
+achieve organizational objectives
+
+26%
+■ Strongly agree
+
+54%
+■ Agree
+
+80%
+
+= Total agree
+
+Source: Vision 2035 Survey. [Senior-Level Internal Auditors; Senior-Level Non-Internal Auditors; AC/BD] Q26. Indicate your level
+of agreement with the following statements describing internal audit’s relationship with management at your organization.
+(n=4145)
+
+As the profession balances responsibilities for providing organizations with both assurance
+and advisory engagements, each facet can offer value-added recommendations to enhance
+governance, mitigate risks, and improve control efficiency and effectiveness. “We look
+to internal audit to give us some level of assurance that the audit committee, and the
+board through the audit committee, has a perspective on how much risk the enterprise is
+warehousing,” said Theo Bunting, member of the Audit Committee Council, Center for Audit
+Quality. Theo added, “Conversely, advisory services take a forward-looking approach by
+evaluating new systems, organizations, policies, and process changes during the design and
+implementation phase. This proactive approach helps organizations anticipate risks and
+challenges rather than simply reacting to them post-implementation.”
+
+Internal Audit: VISION 2035
+
+27
+
+CHANGING PERSONAS
+ON THE ROAD TO
+STRATEGIC ADVISOR
+During the qualitative research phase, it became evident that
+differing perspectives can influence one’s outlook on the future of
+internal audit. The three personas that emerged during this phase
+were the Purist, the Practicalist, and the Proactive. For this research,
+these three terms were defined as:
+n Purist: An individual who insists on adherence to
+traditional rules.
+n Practicalist: An individual who advocates or adheres
+to what is practical.
+n Proactive: An individual who embraces new ideas, new
+ways of working, and drives change that creates value.
+
+As the figure shows, 37% were categorized as Purist, representing
+individuals who hold traditional views of internal audit and are
+less likely to embrace advanced technology solutions or shift to
+more advisory work in the future. As previously mentioned, 54%
+were identified as Practicalist, representing individuals mostly
+focused on the assurance role but who are open to a combination
+of advisory and assurance in the future, along with expanding
+Purist
+37%
+the use of new technology. Only 9% were classified as Proactive,
+representing individuals already engaged in a blend of advisory
+and assurance roles. This group is the most likely to proactively
+seek opportunities to take on more advisory work (while also
+offering necessary assurance services) and to implement advanced
+technologies at an accelerated pace.
+A beneficial transition for the profession would involve a shift of
+some Purists to Practicalists and some Practicalists to Proactive
+practitioners. Not all Purists or Practicalists would need to
+become Proactive; instead, a rebalancing would help to propel
+the profession toward the desired vision identified in the research.
+Internal audit teams should also be staffed with the right balance
+of perspectives.
+
+28
+
+Internal Audit: VISION 2035
+
+Based on cluster analysis,
+three personas emerge:
+
+Proactive
+9%
+
+Practicalist
+54%
+
+Preserving Independence:
+Educating About Its Importance
+As defined in Standard 7.1 of the Global Internal Audit StandardsTM, “the board must establish
+a direct reporting line with the chief audit executive and the internal audit function to enable
+the internal audit function to fulfill its mandate.” At the same time, internal audit must be a part
+of the organization. “Internal audit needs to be scrupulously independent, but it can’t live in a
+bubble,” said Stephen Bell, an independent Audit Committee Chair and an Executive Group Chief
+Risk and Compliance Officer for the Bank of London. “It could do a better job of tuning into the
+wider environmental organizational context in setting objectives for the next period, without
+worrying that doing so would harm its independence by having too strong an opinion on what
+needs to happen.”
+Seventy-one percent (71%) of CAEs and other senior-level internal auditors reported having
+responsibilities beyond their role as head of internal audit (refer to Figure 16).
+
+Figure 16
+Other Roles and Responsibilities
+
+No other roles
+
+29%
+71%
+Additional
+roles
+Source: Vision 2035 Survey. [CAEs; Other Senior-Level Internal Auditors] In addition to your role as head of internal audit, for
+which areas are you responsible? (Choose all that apply.) (n=3483)
+
+Despite their expanded responsibilities, senior leaders maintain internal audit’s independence
+by adhering to the Standards, which call for implementing safeguards. The responsibilities of
+CAEs extending beyond internal audit have been documented in findings from other IIA surveys
+over the years. For instance, based on findings from The IIA’s North American Pulse of Internal
+Audit, particularly from 2022 to 2024, CAEs reported having to manage areas such as fraud
+investigation, enterprise risk management, and others. Among the 71% of respondents from the
+Vision 2035 survey who reported having roles outside of internal audit, the top three areas for
+which they are responsible include fraud investigation (43%), compliance/regulatory matters
+(32%), and enterprise risk management (32%) (refer to Figure 17).
+
+Internal Audit: VISION 2035
+
+29
+
+Even though internal audit remains the sole internal provider of independent
+and objective assurance on the adequacy and effectiveness of governance
+and risk management, some organizations continue to see synergies by
+including second-line function work within the scope of internal audit due
+to skill needs and cost considerations. In some cases, CAEs manage internal
+audit and other second-line functions like risk or compliance. As the needs
+of the profession and organizations continue to evolve, this may prompt
+future research to reevaluate The IIA’s Three Lines Model. Certain types of
+organizations and industries, particularly highly regulated ones, would need to
+be considered within their specific business contexts. Ensuring organizations
+have a strategically minded CAE, preferably holding a CIA® designation, helps
+to ensure the successful navigation of these complex considerations.
+
+Ensuring organizations
+have a strategically
+minded CAE,
+preferably holding
+a CIA® designation,
+helps to ensure the
+successful navigation
+
+Figure 17
+Roles Beyond Internal Audit
+
+of these complex
+considerations.
+
+43%
+40%
+
+Fraud investigation
+Compliance/regulatory
+
+32%
+32%
+
+Enterprise risk management
+(ERM) program
+
+32%
+30%
+32%
+
+Ethics or whistleblower program
+
+28%
+16%
+17%
+
+Sarbanes-Oxley (SOX) program
+Loan compliance
+(for financial institutions)
+
+4%
+5%
+
+Model Audit Rule (MAR) program
+(for insurance companies)
+
+3%
+5%
+
+Other
+
+8%
+4%
+
+Source: Vision 2035 Survey. [CAEs; Other Senior-Level Internal Auditors] In addition to your role as head
+of internal audit, for which areas are you responsible? (Choose all that apply.) (n=3483)
+
+30 Internal Audit: VISION 2035
+
+Based on the survey results, internal audit functions are maintaining their independence, as
+nearly all senior-level professionals (89%), whether they work within or outside internal audit,
+agreed that internal audit operates independently from management in a positive manner (refer
+to Figure 18).
+
+Figure 18
+Internal Audit’s Relationship With Management
+
+42%
+
+47%
+
+89%
+
+47%
+
+91%
+
+Total
+(n=4145)
+
+44%
+Internal audit operates
+independently from management
+in a positive manner
+
+Senior-Level Internal Auditors
+(n=3483)
+
+28%
+
+51%
+
+79%
+
+Senior-Level Non-Internal Auditors
+(n=475)
+
+37%
+
+50%
+
+87%
+
+Audit Committee / Board
+(n=187)
+
+■ Strongly agree ■ Agree = Total agree
+Source: Vision 2035 Survey. [Senior-Level Internal Auditors; Non-IA Senior; AC/BD] Q26. Indicate your level of agreement with the
+following statements describing internal audit’s relationship with management at your organization.
+
+Despite these findings, there is an opportunity to further educate those outside the profession
+about the importance of independence. A little over half of survey respondents (53%) indicated
+that their organization understands the importance of internal audit’s independence extremely
+or very well, while 30% rated their understanding as moderately well, and 15% as not well (refer
+to Figure 19). These results suggest an opportunity for improvement.
+
+Internal Audit: VISION 2035
+
+31
+
+Figure 19
+How Well the Importance of Independence Is Understood by Organizations
+
+21%
+53%
+
+Extremely well
+Very well
+
+32%
+
+Moderately well
+Not well
+Not sure/NA
+
+30%
+15%
+2%
+
+Source: Vision 2035 Survey. [Professionals] Q25a. How well does your organization understand the importance of internal
+audit’s independence? [Educators] Q25b. How well do you think organizations understand the importance of internal audit’s
+independence? (n=6277)
+
+Internal audit’s independence is a unique attribute that sets it apart and can strengthen the
+value of its advisory role. “The key to being a strategic advisor is providing objective advice,
+which is enabled by being independent,” said Harold Silverman, Senior Director of Audit
+Committee and Corporate Governance Engagement at The IIA.
+Internal audit’s independence is achieved when the chief audit executive reports directly to the
+board, is qualified, and is positioned at a level within the organization that enables the internal
+audit function to discharge its services and responsibility without interference, according to
+Principle 7, Positioned Independently, of the new Global Internal Audit Standards™. Principle
+2, Maintain Objectivity, requires auditors to uphold an impartial and unbiased attitude when
+performing internal audit services.
+
+32
+
+Internal Audit: VISION 2035
+
+From Future Vision to Reality
+There is a great deal of agreement—across internal audit roles, stakeholders,
+regions, and organizations—about the profession’s current challenges and its
+emerging opportunities. This is a positive discovery, as it ensures a cohesive
+vision that can guide internal audit professionals.
+
+“The value of strategic
+
+foresight is being prepared
+for inevitable disruption,”
+said Gabe Cervantes,
+Director of Scalable
+Foresight, Institute for
+the Future. “It’s not
+about predicting how
+that disruption plays
+out. It’s about provoking
+possibilities and asking if
+our current way of doing
+business is prepared for
+them.
+
+Key Steps to the Future
+Over one-half of survey respondents expect the profession to be
+substantially or very different in 10 years (refer to Figure 20). Working toward
+an ideal future will credibly position internal auditors as strategic advisors,
+which is how internal auditors ideally want to be perceived.
+
+”
+
+Figure 20
+Expectation of How Different Internal Audit Will Be
+
+9%
+
+56%
+
+Not
+different
+
+Different
+23%
+
+Substantially
+different
+
+33%
+
+Very
+different
+
+Moderately
+different
+
+33%
+
+Slightly
+different
+
+Not at all
+different
+
+7%
+
+2%
+2%
+
+Not sure
+
+Source: Vision 2035 Survey. Q28. How different, if at all, do you think the role of an internal auditor will
+be in 10 years? (n=6506)
+
+As the internal audit profession progresses into the future, a series of
+interrelated actions must be taken to make Vision 2035 a reality.
+CHANGE THE MINDSET. Achieving Vision 2035 will not depend simply on
+adapting to a few specific sets of guidelines or taking simple actions. Instead,
+it will mean developing a greater openness across the profession to new
+technology, approaches, and attitudes. A shift in personas (mindset) needs
+to occur where the percentage of Purists (37%) decline because there is a
+shift to Practicalist (54%) or even to Proactive (9%), and some Practicalists
+must shift to Proactive. To accomplish the necessary change by 2035, the
+profession needs greater adoption of a growth mindset characterized by
+adaptability, flexibility, confidence, and innovation. This entails being more
+future-focused by expanding the spectrum of assurance services and
+increasing advisory engagements that provide more insight and foresight.
+Further, it entails embracing emergent technology to ensure internal
+audit processes stay on top of the dramatic changes occurring in how
+organizations operate. “The value of strategic foresight is being prepared for
+inevitable disruption,” said Gabe Cervantes, Director of Scalable Foresight,
+Institute for the Future. “It’s not about predicting how that disruption plays
+out. It’s about provoking possibilities and asking if our current way of doing
+business is prepared for them.”
+
+Internal Audit: VISION 2035
+
+33
+
+EMBRACE EMERGENT TECHNOLOGIES. Preparing for the significant impact—
+and the opportunities—that emergent technologies and emerging risks will
+represent for internal audit is essential for success by 2035. CAEs and their
+teams, along with board members, management, and other stakeholders,
+should proactively strategize and prepare for the significant impact emerging
+technologies and future risks will have on internal audit and organizations
+worldwide. Internal audit will need to focus inward on operational impact
+and on how it can independently and objectively provide valuable advice,
+insight, and foresight to its organization on these risks and enhance the
+organization’s ability to serve the public interest. Internal audit functions
+and professionals must instill agility and innovation in audit processes to
+adapt to fast-changing business needs, risks, expectations, and technological
+disruptions. With accelerated digitalization and increasing implementation
+of AI applications across organizations, internal auditors must continuously
+learn, and learn fast, to promptly understand the risk impact to their
+organization as well proactively adopt emerging technology such as big data
+and generative AI to improve audit efficiency and effectiveness. Other new
+technologies will also emerge.
+
+INNOVATE TO ADD MORE VALUE. Internal audit functions should recognize
+that incorporating their organization’s strategy into their services is a
+foundational activity for adding value. However, given the fast-paced
+evolutionary changes organizations will face over the next 10 years, the
+profession must continue to innovate and adapt to safeguard and enhance
+stakeholder value and the organization’s ability to serve the public interest.
+“Adding value is about delivering our services at the right time with the right
+scope, so that they are more future-facing, showing just what has happened,
+with more about what we can do better in the future,” said Ann-Katrin
+Harringer, Chief Audit Executive, Swedish Tax Agency.
+Survey respondents anticipate that internal auditors will increasingly focus
+on advisory services over the next decade. To achieve the realignment from
+its traditional, primarily assurance role to one with increased advisory focus,
+the profession should emphasize internal auditors’ current and intended
+role as strategic advisors and change agents. Warren Stippich, President of
+the Internal Audit Foundation and National Managing Principal – Advisory
+Services Quality and Risk at Grant Thornton Advisors LLC, comments, “Our
+stakeholders already expect more from the internal audit function, including
+being versatile and agile to provide a broader array of support inside the
+organization beyond traditional assurance. The profession needs internal
+audit functions to accept the challenge of being able to accomplish the
+basic objectives of its annual internal audit plans while also having the ability
+to pivot to provide support through an advisory lens.” Assurance services
+will remain necessary and form the basis for providing advice, insight, and
+foresight. However, to provide even more value, there is room to expand the
+nature and scope of assurance services by including a greater variety of audit
+reviews linked to an organization’s strategy.
+
+Internal audit functions
+and professionals
+must instill agility and
+innovation in audit
+processes to adapt to
+fast-changing business
+needs, risks, expectations,
+and technological
+disruptions.
+
+“Our stakeholders already
+expect more from the
+internal audit function,
+including being versatile
+and agile to provide a
+broader array of support
+inside the organization
+beyond traditional
+assurance. The profession
+needs internal audit
+functions to accept the
+challenge of being able
+to accomplish the basic
+objectives of its annual
+internal audit plans while
+also having the ability to
+pivot to provide support
+through an advisory lens.
+
+”
+
+34
+
+Internal Audit: VISION 2035
+
+GARNER ORGANIZATIONAL SUPPORT. The internal audit profession cannot
+make these transformational changes alone; it will require the full support
+of board members, organizational leadership, and external stakeholders.
+CAEs must have effective interactions with the board and senior leadership
+to demonstrate internal audit’s value proposition. As required by Standard
+9.2, CAEs should develop and implement a strategic plan with a long-term
+focus. This plan should include outcome-driven, actionable, measurable, and
+meaningful objectives focused on continuous improvement. Additionally, it
+should be linked to the organization’s strategic plan and consider input from
+the board and senior management. A strategic plan that prioritizes increasing
+the value provided by internal audit through both advisory and assurance
+services will garner support from the board and senior leadership. These
+investments empower internal audit to fulfill its purpose: strengthening the
+organization’s ability to create, protect, and sustain value while serving the
+public interest. In addition to the strategic plan, CAEs should communicate
+and demonstrate that internal auditors can add value to the organization via
+the results of advisory and assurance engagements.
+It is essential that board members and senior executives communicate
+the value offered by internal audit throughout the organization to
+increase support for, and collaboration with, internal audit at all levels of
+the organization. This type of communication is needed to eliminate the
+characterization of internal audit as “compliance-focused” or as “police.”
+Given the increasing speed of change and accelerating emerging risks, senior
+executive support of CAEs’ participation (non-voting) in key management
+meetings and executive steering committee meetings (a seat at the table)
+will allow internal audit to stay on top of the latest business or operations
+initiatives and provide advice and insight, and even foresight, in real-time.
+Further, increased support from senior management and the board will
+allow internal audit to meet expanding stakeholder expectations and
+successfully implement the action steps outlined in this report to achieve the
+profession’s vision for 2035. Lastly, external stakeholders will need to increase
+appreciation for internal audit by actively supporting efforts to strengthen
+internal audit’s role within organizations.
+
+A strategic plan that
+prioritizes increasing the
+value provided by internal
+audit through both
+advisory and assurance
+services will garner
+support from the board
+and senior leadership.
+
+REVOLUTIONIZE TALENT MANAGEMENT. Given its broader organizational
+reach and risk-control focus, the internal audit function is an excellent
+training ground to develop executive leadership. For young talent joining the
+profession, internal audit also serves as a practical gateway to understand
+different functional units. Modern talent management requires rethinking
+internal audit as not just one career, but also providing foundational skills for
+careers across an organization.
+Collegiate educators will need to continue to explore ways to enhance the
+development of job-ready skills for the future generation of internal auditors.
+“I think about all the sampling tools and the governance and compliance
+tools that are being used in internal audit,” said Kimberly Ellison-Taylor, Beta
+Alpha Psi Past-President and Founder and CEO of KET Solutions LLC. “They
+are establishing thresholds for risk and for which transactions should be
+sampled or not. Students are going to have to use these tools so that when
+they leave the classroom, they’re prepared and ready to go.”
+
+Internal Audit: VISION 2035
+
+35
+
+For those already in the workforce, the breadth and depth of internal audit
+teams’ knowledge can be expanded through organizational rotational
+programs, such as a secondment of internal auditors into functional
+roles to gain more in-depth understanding of operational processes and
+implementing guest audit programs where operations personnel participate
+in selected engagements. These initiatives help enhance governance
+and control awareness across the organization. Therefore, a training or
+educational program should be prepared to allow individuals to rotate into
+an internal audit team. “It would certainly be worthwhile having someone
+who was in a junior sales position do a stint in internal audit, then go back
+to sales and become a regional manager of sales, then come back to audit,”
+said Paola Bonomo, non-executive director at FAAC and scientific board
+member of International Foundation Big Data and Artificial Intelligence for
+Human Development. “I have not seen that happen very much in real life. It’s
+more compartmentalized.” Some internal audit functions have made such
+rotational programs part of their talent management initiatives organizationwide, which requires support from senior management.
+Lastly, CAEs will need to ensure their skills inventory is continuously
+enhanced with necessary skill sets and diversity to meet changing demands.
+Hiring managers must reconsider educational preferences and experience
+requirements for a multifaceted internal audit function, including business
+acumen, tech and data savviness, and people skills. Resource management
+processes must be more flexible. This includes considering the use of external
+resources like co-sourcing with internal audit service providers. Additionally,
+efforts should focus on attracting young talent to join the profession. CAEs
+and their management teams should engage more with educators and
+students to help raise awareness of and appreciation for internal audit
+careers. This can be achieved through guest lecturing, offering mentorship,
+and providing internship opportunities with the prospect for full-time
+employment upon graduation.
+
+THE IIA NETWORK: LEADING THE WAY TO ACHIEVE VISION 2035. A primary
+recommendation from stakeholders was for The IIA to assume a leadership
+role in clearly articulating the profession’s future vision. These stakeholders
+call for The IIA to focus on the following actions, which The IIA commits to
+achieve through its strategic planning process:
+n Advocate for the profession as an indispensable part of good
+
+governance with regulators and other key stakeholder groups.
+n Elevate the profession through the IPPF Evolution, including the
+
+Global Internal Audit StandardsTM and enhancing visibility of the
+Certified Internal Auditor® credential to become a well-known
+designation for those working outside the profession.
+n Educate practitioners and stakeholders by offering world-class
+
+learning opportunities and events, as well as providing research
+and thought leadership publications.
+n Collaborate with educators, students, and related academic
+
+organizations to increase awareness of the profession and its
+value proposition.
+
+36
+
+Internal Audit: VISION 2035
+
+CAEs and their
+management teams
+should engage more with
+educators and students
+to help raise awareness
+of and appreciation for
+internal audit careers.
+
+Conclusion
+The findings from the Vision 2035 project provide the internal audit profession
+with a unique perspective on where the profession stands today and what it
+should achieve by the year 2035 to realize its ideal future. The profession is
+truly at a crossroads, having created a strong foundation built on expertise in
+providing independent, objective assurance that leads to better organizational
+decision-making and protecting stakeholder value.
+If the profession chooses not to confront its challenges and focuses exclusively
+on its traditional responsibilities or progresses slowly without keeping pace
+with a fast-changing global landscape, the internal audit profession will not
+maintain or elevate its influence or relevance.
+The vision of internal audit professionals and their stakeholders is that the
+profession proactively takes steps, starting now, to enhance the use of
+technology and develop and broaden skill sets. As the nature and scope of
+audits evolve alongside the emergence of new risks, internal audit’s ability
+to enhance an organization’s capacity to create, protect, and sustain value
+must also adapt accordingly. Conformance with the Global Internal Audit
+StandardsTM by internal audit functions will contribute to achieving the
+profession’s vision.
+
+The steps to attain the
+profession’s ideal future,
+as crafted by participants
+of the Vision 2035 project,
+lie within the hands of the
+internal audit community,
+and the support of its
+stakeholders.
+
+The project’s findings show that internal auditors are enthusiastic about the
+possibility of instilling more agility and innovation into their work. However,
+the steps to attain the profession’s ideal future, as crafted by participants of
+the Vision 2035 project, lie within the hands of the internal audit community,
+and the support of its stakeholders. This ambitious endeavor will require
+collaboration among internal audit professionals at all levels, robust backing
+from external stakeholders, a forward-thinking mindset to drive professionwide transformation, adaptability and agility to navigate unforeseen
+challenges, and an unwavering commitment to succeed. CAEs and The IIA
+network must take the lead.
+If internal auditors do not assume responsibility for guiding the future
+trajectory of the profession now, who will, and what would that future look like?
+
+Internal Audit: VISION 2035
+
+37
+
+Project Collaborators
+In addition to those who completed the survey and participated in the focus groups and
+interviews, the Internal Audit Foundation also sincerely thanks IIA staff and the following groups
+and individuals for their collaboration and dedication to Internal Audit: Vision 2035.
+
+Internal Audit: Vision 2035
+Special Committee
+Warren Stippich, Jr., CIA, CRMA (Chair)
+Farah Alruwaily, CIA
+Maria Craig, CIA, QIAL
+Marthin Grobler, CIA, CRMA
+Yulia Gurman, CIA
+Helen Li, CIA
+Philippe Mocquard, CIA
+Ruth Doreen Mutebe, CIA
+Jim Romero, CIA, CCSA, CRMA
+Stephen Tiley, CIA
+Massimiliano Turconi
+
+Research and Analysis Partners
+Bauman Research & Consulting
+Dennis Communications
+Knapp & Associates International
+
+Internal Audit Foundation
+Board of Trustees
+2023–24 and 2024–25
+Warren Stippich, Jr., CIA, CRMA (President)
+Subramanian Bhaskar
+Hossam El Shaffei, CCSA, CRMA
+Sarah Fedele, CIA, CRMA
+Reyes Fuentes Ortea, CIA, CCSA, CRMA
+Jose Gabriel Calderon, CIA, CRMA
+Yulia Gurman, CIA
+Susan Haseley, CIA
+Glenn Ho, CIA, CRMA
+Dawn Jones, CIA, CRMA
+Nora Kelani, CIA, CRMA
+Shirley Machaba, CCSA, CRMA
+Raoul Ménès, CIA, CCSA, CRMA
+Hiroshi Naka, CIA
+Anthony Pugliese, CIA
+Mike Smith
+
+38 Internal Audit: VISION 2035
+
+Lead IIA Staff and Technical Advisors
+Anthony Pugliese, CIA
+Javier Faleato, CIA, CCSA, CRMA
+Nicole Huie
+Keith Kahl, CIA, CRMA
+Laura LeBlanc
+Nicole Narkiewicz, PhD
+Deborah Poulalion
+Benito Ybarra, CIA
+
+The IIA Global Board of Directors
+2023–24 and 2024–25
+Sally-Anne Pitt, CIA, CGAP (Chair, 2023–24)
+Terry Grafenstine, CIA, CGAP (Chair, 2024–25)
+His Excellency Dr. Hussam Alangari
+Jorge Badillo Ayala, CIA, QIAL, CCSA, CGAP, CRMA
+Karen Brady, CIA, CRMA
+Larry Herzog Butler, CIA, CRMA
+Stefano Comotti, CIA, CRMA
+Emmanuel Johannes Chacha, CIA, CCSA, CFSA, CGAP
+Isabel Derison, CIA, CCSA, CRMA
+Yulia Gurman, CIA
+Elizabeth Honer
+Michael Levy, CIA, CRMA
+Huibo Liu, CIA
+Hiroshi Naka, CIA
+Reyes Fuentes Ortea, CIA, CCSA, CRMA
+Anthony Pugliese, CIA
+Stacey Schabel, CIA
+Elizabeth Sullivan, CIA, CCSA, CRMA
+R. Michael Varney, CIA
+Beili Wong, CIA, QIAL
+Benito Ybarra, CIA
+
+Project Collaborators
+The IIA North American Board
+of Directors
+
+Future Foresight Session Participants
+Farah Alruwaily, CIA
+Jorge Badillo, CIA, QIAL, CCSA, CGAP, CRMA
+Lily Bi, CIA, QIAL, CRMA
+Maria Craig, CIA, QIAL
+Javier Faleato, CIA, CCSA, CRMA
+Sarah Fandrey
+Sarah Fedele, CIA, CRMA
+Audrey Gramling, CIA
+Marthin Grobler, CIA, CRMA
+Keith Kahl, CIA, CRMA
+Olivia Kirtley
+Laura LeBlanc
+Rainer Lenz, CIA, QIAL
+Helen Li, CIA
+Raoul Ménès, CIA, CCSA, CRMA
+Phillipe Mocquard, CIA
+Brad Monterio
+Ruth Doreen Mutebe, CIA
+Nicole Narkiewicz, PhD
+Abdulqader Obaid Ali, QIAL, CRMA
+Alta Prinsloo
+Anthony Pugliese, CIA
+Jim Romero, CIA, CCSA, CRMA
+Warren Stippich, Jr., CIA, CRMA
+Stephen Tiley, CIA
+Massimiliano Turconi
+Jay Yanes
+Benito Ybarra, CIA
+Mat Young
+
+2023–24 and 2024–25
+Michael Levy, CIA, CRMA (Chair, 2023–24)
+R. Michael Varney, CIA (Chair, 2024–25)
+Ernest Anunciacion, CIA
+Laura Chalhoub, CIA
+Yulia Gurman, CIA
+David Helberg, CIA, CRMA
+Michael J. Lynn, CIA, CRMA
+Raoul Ménès, CIA, CCSA, CRMA
+Anthony Pugliese, CIA
+Adnan Rahim, CIA
+Jessica Rodgers, CIA
+Thomas C. Sanglier, II, CIA, CRMA
+Stacey Schabel, CIA
+Elizabeth Sullivan, CIA, CCSA, CRMA
+
+Committee of Research and
+Education Advisors Reviewers
+Christopher Calvin, CIA
+Ruth Doreen Mutebe, CIA
+Brian Tremblay, CIA
+
+Vision 2035 Partners
+The Internal Audit Foundation thanks the following partners for their generous support:
+Silver Partners
+
+IIA Institute and Chapter Partner
+
+Internal Audit: VISION 2035
+
+39
+
+Appendix: Profiles of
+Survey Respondents
+Of the total survey respondents, 80% were employed within the internal audit profession (refer
+to Figure 1), including 30% who held positions as heads of internal audit (CAEs), 36% who served
+as directors/managers, and 34% who were staff auditors or contractors (refer to Figure 21).
+
+Figure 21
+Positions of Internal Auditors
+
+30%
+CAE or highest-ranking internal auditor
+
+30%
+Internal audit staff
+
+25%
+Internal audit senior manager or manager
+
+11%
+Internal audit director
+
+4%
+Independent consultant for
+internal audit activities
+Source: Vision 2035 Survey. Q4. Which of the following most closely represents your position as an internal auditor?
+(If you are a service provider, please choose the equivalent level.) (n=5273)
+
+The profile of internal audit professionals who completed the survey included those working
+primarily in the public sector (33%), publicly traded companies (28%), or privately held
+organizations (23%) (refer to Figure 22).
+
+Figure 22
+Organization Type of Internal Auditors
+
+33%
+
+Public sector
+
+28%
+
+Publicly traded organization
+
+23%
+
+Privately held organization
+Service provider/consultant
+Nonprofit/not-for-profit
+Other
+
+8%
+6%
+3%
+
+Source: Vision 2035 Survey. Q47. What type of organization do you currently work for? (n=5273)
+
+40 Internal Audit: VISION 2035
+
+Additionally, the top three sectors where audit professionals came from were finance and
+insurance (30%), the public sector (17%), and manufacturing (9%) (refer to Figure 23).
+
+Figure 23
+Top 3 Industries of Internal Auditors
+
+Financial & insurance activities
+
+30%
+17%
+
+Public sector
+
+9%
+
+Manufacturing
+
+Source: Vision 2035 Survey. Q48. What is the primary industry classification of the organization for which you work (or your
+primary client if you are a service provider)? (n=5273)
+
+In addition, 16% of survey participants represented stakeholders, with 3% audit committee or
+board members and 13% employed in non-internal audit roles. Their professional focus included
+accounting (14%), compliance (11%), risk management (9%), and finance (9%) (refer to Figure 24).
+
+Figure 24
+Professional Focus and Role: Non-Internal Audit Professionals,
+Including Audit Committee or Board Members
+
+Professional Focus
+
+Position
+
+14%
+
+Accounting
+
+6%
+
+Board member
+
+7%
+
+Corporate management
+Cybersecurity
+Education
+Enterprise risk management
+External audit
+External consulting
+Finance
+Fraud investigation
+Information technology (IT)
+Internal controls over financial reporting (ICFR)
+Operations/business function
+Risk management
+Other
+
+Executive
+
+11%
+
+Compliance
+
+9%
+12%
+14%
+
+Board member
+
+2%
+2%
+
+Director
+
+30%
+31%
+
+Senior manager or manager
+Staff
+Independent consultant
+
+5%
+
+7%
+5%
+4%
+9%
+2%
+3%
+3%
+6%
+9%
+9%
+
+Source: Vision 2035 Survey. Q5. Which of the following best describes your current professional focus? (Choose one.) Q6. Which
+of the following most closely represents your position within your organization? (n=1004)
+
+Internal Audit: VISION 2035
+
+41
+
+Internal Audit Foundation
+Partners & Donors
+Diamond Partners
+
+Platinum Partners
+
+Gold Partners
+• Fundación Latinoamericana de Auditores Internos
+
+• The Institute of Internal Auditors New York Chapter
+
+• The Institute of Internal Auditors Greece
+
+• The Institute of Internal Auditors Singapore
+
+• The Institute of Internal Auditors Houston Chapter
+
+• Nanjing Audit University
+
+• The Institute of Internal Auditors Japan
+
+President’s Circle (Individual Donors)
+Larry Harrington, CIA, QIAL,
+CRMA
+
+Stacey Schabel, CIA
+
+Support internal audit research
+and the academic fund.
+An investment in the Internal Audit Foundation
+is an investment in the future of the profession.
+
+42
+
+Internal Audit: VISION 2035
+
+Warren Stippich, Jr., CIA, CRMA
+
+DONATE NOW. theiia.org/IAFdonate
+
+About The IIA
+The Institute of Internal Auditors (The IIA) is an international professional association that
+serves more than 245,000 global members and has awarded more than 195,000 Certified
+Internal Auditor® (CIA®) certifications worldwide. Established in 1941, The IIA is recognized
+throughout the world as the internal audit profession’s leader in standards, certifications,
+education, research, and technical guidance. For more information, visit theiia.org.
+
+About the Internal
+Audit Foundation
+The Internal Audit Foundation is an essential global resource for advancing the internal
+audit profession. Foundation-funded research provides internal audit practitioners and their
+stakeholders with insight on emerging topics and promotes and advances the value of the
+internal audit profession globally. In addition, through its Academic Fund, the Foundation
+supports the profession’s future by providing grants to students, educators, and academic
+institutions across the globe who participate in The Institute of Internal Auditors’ academic
+programs. For more information, visit theiia.org/Foundation.
+
+Disclaimer
+The Internal Audit Foundation publishes this document for informational and educational
+purposes. This material is not intended to provide definitive answers to specific individual
+circumstances and as such is only intended to be used as a guide. The Internal Audit
+Foundation recommends seeking independent expert advice relating directly to any specific
+situation. The Internal Audit Foundation accepts no responsibility for anyone placing sole
+reliance on this material.
+
+Copyright
+Copyright © 2024 by the Internal Audit Foundation. All rights reserved. For permission to
+reproduce, please contact Copyright@theiia.org.
+
+Internal Audit: VISION 2035
+
+43
+
+1035 Greenwood Blvd., Ste. 149
+Lake Mary, FL 32746 USA
+theiia.org | Copyright@theiia.org
+
+2024-9112
+
+

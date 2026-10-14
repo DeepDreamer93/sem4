@@ -1,0 +1,26 @@
+ | CENTRE FOR DISTANCE AND ONLINE EDUCATIONANNA UNIVERSITY, CHENNAI – 600025Contact: 044 22357210 / 8838169895Email: onlinecde@annauniv.edu
+______________________________________________________________________
+PROJECT PROPOSAL(CY24 – BA/GM Batch)
+Title of the Project:  AI-Driven Transformation in Banking GRC: Implications for Workforce Management in UK and EU Banks
+Student’s Name: Narentheran S
+Roll No.: 2406OBA0034
+Reg. No.: 69124100089
+1. NEED FOR THE STUDY: 
+Banks in the UK and EU are investing heavily in Artificial Intelligence across Governance, Risk and Compliance (GRC) functions, but the returns depend less on the technology than on people. As AI takes over regulatory monitoring, risk scoring and compliance reporting, management faces a practical business problem: which GRC roles must be redesigned, what skills must be built or hired, and how can employee acceptance be secured so that AI-enabled controls are trusted and used. The EU Digital Operational Resilience Act (DORA) and AI Act, together with UK expectations under SS1/23 and the Senior Managers and Certification Regime, make staff competence and human oversight a regulatory obligation rather than an HR preference. Yet banking leaders have little practical guidance on planning this workforce transition. This study examines AI-driven change in UK and EU banking GRC through a workforce management lens and develops an actionable framework for role redesign, reskilling and employee adaptation.
+2(a). PRIMARY OBJECTIVE:
+To examine how AI-driven transformation in the GRC functions of UK and EU banks is reshaping workforce management decisions - role structure, skill requirements, staffing and employee adaptation - and to develop a practical framework enabling banking management to plan GRC workforce transformation while sustaining compliance effectiveness and employee engagement.
+2(b). SECONDARY OBJECTIVES
+(i) To map, using publicly available data, which GRC activities are being automated or augmented by AI in UK and EU banks, and how this is changing the demand for compliance and risk roles.
+(ii) To analyse how UK and EU regulatory requirements - DORA, the EU AI Act, SS1/23 and SM&CR - shape role design, human oversight and competence obligations within GRC functions.
+(iii) To identify emerging skill gaps, reskilling strategies and employee behavioural responses to AI adoption, using the Technology Acceptance Model and change management theory, and to derive recommendations for workforce planning.
+3. METHODOLOGIES
+This study adopts a mixed-methods approach:• Secondary data analysis: Publicly available data - annual reports and disclosures of UK and EU banks, regulatory publications (DORA, EU AI Act, EBA, FCA, PRA), industry surveys and GRC job postings - to map AI adoption and role change.• Practitioner interviews: 12-15 semi-structured interviews with industry experts, conducted anonymously if requested and using no confidential organisational data.• Interview-derived questionnaire: A short structured questionnaire built from the interview themes and circulated more widely to test whether the findings hold.• Analysis and framework development: Thematic analysis of interviews and regulatory documents, triangulated with secondary data and integrated with workforce management and behavioural literature to build the proposed framework.
+4. EXPECTED DELIVERABLES
+• An analysis of how AI adoption is changing role and skill demand in UK and EU banking GRC.• A mapping of UK and EU regulatory requirements to workforce competence and oversight obligations.• A GRC role-impact map classifying roles as automated, augmented or newly created.• A workforce transformation framework linking AI adoption to role redesign, reskilling and employee adaptation.• Evidence-based recommendations for HR and GRC leadership, and the final research dissertation.
+5. REFERENCES
+1. European Union - Digital Operational Resilience Act (DORA), Regulation (EU) 2022/2554.2. European Union - Artificial Intelligence Act, Regulation (EU) 2024/1689.3. Bank of England / PRA - Supervisory Statement SS1/23, Model Risk Management Principles for Banks.4. Financial Conduct Authority - Senior Managers and Certification Regime; publications on AI in UK financial services.5. Financial Stability Board - Artificial Intelligence and Machine Learning in Financial Services (2017).6. Davis, F.D. (1989) - Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology, MIS Quarterly.7. Kotter, J.P. (1996) - Leading Change, Harvard Business School Press.8. Cascio, W.F. and Boudreau, J.W. (2011) - Investing in People: Financial Impact of Human Resource Initiatives.9. World Economic Forum - Future of Jobs Report (latest edition).10. Industry reports on AI in banking GRC and compliance workforce transformation (publicly available).
+6. COMPANY PROJECT- Indicate, Yes & Upload Company permission letter
+(Only for company project)
+No
+7. PROJECT PROPOSAL - GUIDE APPROVAL STATUS –Indicate, YES/NO: YES
+(Signature of Student)

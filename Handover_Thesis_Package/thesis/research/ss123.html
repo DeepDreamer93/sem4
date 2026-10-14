@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html lang="en" class="ie9 no-js"><![endif]-->
+<!--[if !IE]><!-->
+<html lang="en"
+	  class="no-js menu-closed print-mode">
+<!--<![endif]-->
+<head>
+	<!-- _81d2 -->
+
+	
+	<link rel="preload" as="style" href="/styles/BoE.min.css?ver=9c1d9" />
+<link rel="preload" as="style" href="/styles/pra.print.min.css?ver=9c1d9" />
+
+	
+
+			<link rel="preload" as="script" href="/scripts/telemetry.js?ver=9c1d9" />
+			<link rel="preconnect" href="https://js.monitor.azure.com" />
+
+	<meta name="robots" content="noindex, nofollow">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+			<!-- App Insights -->
+			<script type="text/javascript" src="/scripts/telemetry.js?ver=9c1d9"></script>
+			<script type="text/javascript">
+				!function (T, l, y) { var S = T.location, k = "script", D = "connectionString", C = "ingestionendpoint", I = "disableExceptionTracking", E = "ai.device.", b = "toLowerCase", w = "crossOrigin", N = "POST", e = "appInsightsSDK", t = y.name || "appInsights"; (y.name || T[e]) && (T[e] = t); var n = T[t] || function (d) { var g = !1, f = !1, m = { initialize: !0, queue: [], sv: "5", version: 2, config: d }; function v(e, t) { var n = {}, a = "Browser"; return n[E + "id"] = a[b](), n[E + "type"] = a, n["ai.operation.name"] = S && S.pathname || "_unknown_", n["ai.internal.sdkVersion"] = "javascript:snippet_" + (m.sv || m.version), { time: function () { var e = new Date; function t(e) { var t = "" + e; return 1 === t.length && (t = "0" + t), t } return e.getUTCFullYear() + "-" + t(1 + e.getUTCMonth()) + "-" + t(e.getUTCDate()) + "T" + t(e.getUTCHours()) + ":" + t(e.getUTCMinutes()) + ":" + t(e.getUTCSeconds()) + "." + ((e.getUTCMilliseconds() / 1e3).toFixed(3) + "").slice(2, 5) + "Z" }(), name: "Microsoft.ApplicationInsights." + e.replace(/-/g, "") + "." + t, sampleRate: 100, tags: n, data: { baseData: { ver: 2 } } } } var h = d.url || y.src; if (h) { function a(e) { var t, n, a, i, r, o, s, c, u, p, l; g = !0, m.queue = [], f || (f = !0, t = h, s = function () { var e = {}, t = d.connectionString; if (t) for (var n = t.split(";"), a = 0; a < n.length; a++) { var i = n[a].split("="); 2 === i.length && (e[i[0][b]()] = i[1]) } if (!e[C]) { var r = e.endpointsuffix, o = r ? e.location : null; e[C] = "https://" + (o ? o + "." : "") + "dc." + (r || "services.visualstudio.com") } return e }(), c = s[D] || d[D] || "", u = s[C], p = u ? u + "/v2/track" : d.endpointUrl, (l = []).push((n = "SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)", a = t, i = p, (o = (r = v(c, "Exception")).data).baseType = "ExceptionData", o.baseData.exceptions = [{ typeName: "SDKLoadFailed", message: n.replace(/\./g, "-"), hasFullStack: !1, stack: n + "\nSnippet failed to load [" + a + "] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: " + (S && S.pathname || "_unknown_") + "\nEndpoint: " + i, parsedStack: [] }], r)), l.push(function (e, t, n, a) { var i = v(c, "Message"), r = i.data; r.baseType = "MessageData"; var o = r.baseData; return o.message = 'AI (Internal): 99 message:"' + ("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) (" + n + ")").replace(/\"/g, "") + '"', o.properties = { endpoint: a }, i }(0, 0, t, p)), function (e, t) { if (JSON) { var n = T.fetch; if (n && !y.useXhr) n(t, { method: N, body: JSON.stringify(e), mode: "cors" }); else if (XMLHttpRequest) { var a = new XMLHttpRequest; a.open(N, t), a.setRequestHeader("Content-type", "application/json"), a.send(JSON.stringify(e)) } } }(l, p)) } function i(e, t) { f || setTimeout(function () { !t && m.core || a() }, 500) } var e = function () { var n = l.createElement(k); n.src = h; var e = y[w]; return !e && "" !== e || "undefined" == n[w] || (n[w] = e), n.onload = i, n.onerror = a, n.onreadystatechange = function (e, t) { "loaded" !== n.readyState && "complete" !== n.readyState || i(0, t) }, n }(); y.ld < 0 ? l.getElementsByTagName("head")[0].appendChild(e) : setTimeout(function () { l.getElementsByTagName(k)[0].parentNode.appendChild(e) }, y.ld || 0) } try { m.cookie = l.cookie } catch (p) { } function t(e) { for (; e.length;)!function (t) { m[t] = function () { var e = arguments; g || m.queue.push(function () { m[t].apply(m, e) }) } }(e.pop()) } var n = "track", r = "TrackPage", o = "TrackEvent"; t([n + "Event", n + "PageView", n + "Exception", n + "Trace", n + "DependencyData", n + "Metric", n + "PageViewPerformance", "start" + r, "stop" + r, "start" + o, "stop" + o, "addTelemetryInitializer", "setAuthenticatedUserContext", "clearAuthenticatedUserContext", "flush"]), m.SeverityLevel = { Verbose: 0, Information: 1, Warning: 2, Error: 3, Critical: 4 }; var s = (d.extensionConfig || {}).ApplicationInsightsAnalytics || {}; if (!0 !== d[I] && !0 !== s[I]) { var c = "onerror"; t(["_" + c]); var u = T[c]; T[c] = function (e, t, n, a, i) { var r = u && u(e, t, n, a, i); return !0 !== r && m["_" + c]({ message: e, url: t, lineNumber: n, columnNumber: a, error: i }), r }, d.autoExceptionInstrumented = !0 } return m }(y.cfg); function a() { y.onInit && y.onInit(n) } (T[t] = n).queue && 0 === n.queue.length ? (n.queue.push(a), n.trackPageView({})) : a() }(window, document, {
+					src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js",
+					crossOrigin: "anonymous",
+					onInit: function (sdk) {
+						sdk.addTelemetryInitializer(AiTelemetry.TelemetryInitializers.UnreportableThirdPartyExceptionFilter);
+							sdk.addTelemetryInitializer(AiTelemetry.TelemetryInitializers.SuccessfulDependencyFilter);
+					},
+					cfg: {
+							samplingPercentage: 50,
+						connectionString: "InstrumentationKey=d1665865-15c2-4cab-b3ec-57b3465a8e76;IngestionEndpoint=https://uksouth-0.in.applicationinsights.azure.com/;LiveEndpoint=https://uksouth.livediagnostics.monitor.azure.com/",
+						cookieCfg: {
+							enabled: (AiTelemetry.TelemetryInitializers.GetConsentCookie("boeconsent").indexOf('analytics') >= 0)
+						}
+					}
+				});
+			</script>
+	<link rel="canonical" href="https://www.prarulebook.co.uk/guidance/supervisory-statements/ss01-23--model-risk-management-principles-for-banks" />
+	<meta property="og:url" content="https://www.prarulebook.co.uk/guidance/supervisory-statements/ss01-23--model-risk-management-principles-for-banks" />
+
+
+
+<!-- metadata-{F69799CB-BA1E-4C80-B6DB-B3A2509BEB5E}-{B3B52EB4-D97C-4450-8A48-6EAB288254E8} -->
+<title>SS1/23 – Model risk management principles for banks | Prudential Regulation Authority Handbook &amp; Rulebook</title>
+<meta name="description" content="" />
+<meta name="apple-mobile-web-app-title" content="PRA Rulebook" />
+<meta name="format-detection" content="telephone=no" />
+	<meta name="robots" content="noindex, nofollow" />
+<meta property="og:title" content="SS1/23 – Model risk management principles for banks">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://www.prarulebook.co.uk/-/media/PRA/Images/Logo/PRA%20Logo">
+<meta property="og:type" content="article" />
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SS1/23 – Model risk management principles for banks">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://www.prarulebook.co.uk/-/media/PRA/Images/Logo/PRA%20Logo">
+
+	<script>
+	var CheckCookies = {
+		getCookie: function (cname) {
+			var name = cname + "=";
+			var decodedCookie = decodeURIComponent(document.cookie);
+			var ca = decodedCookie.split(';');
+			for (var i = 0; i < ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0) === ' ') {
+					c = c.substring(1);
+				}
+				if (c.indexOf(name) === 0) {
+					return c.substring(name.length, c.length);
+				}
+			}
+			return "";
+		}
+	};
+	var SetAnalytics = {
+		setTagManager: function () {
+			var hasConsentAnalytics = CheckCookies.getCookie('boeconsent');
+			if (hasConsentAnalytics === "analytics") {
+				(function (w, d, s, l, i) {
+					w[l] = w[l] || []; w[l].push({
+						'gtm.start':
+							new Date().getTime(), event: 'gtm.js'
+					}); var f = d.getElementsByTagName(s)[0],
+						j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+							'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+				})(window, document, 'script', 'dataLayer', 'GTM-MZ9W7X9F');
+			}
+		},
+	}
+	SetAnalytics.setTagManager();
+	</script>
+
+	
+	<link href="/styles/BoE.min.css?ver=9c1d9" rel="stylesheet" media="all" />
+<link href="/styles/pra.print.min.css?ver=9c1d9" rel="stylesheet" media="all" />
+
+
+	
+	
+		<!-- Tracking Disabled -->
+	
+
+	<link rel="icon" type="image/png" sizes="16x16" href="https://www.prarulebook.co.uk/favicon-16x16.png?ver=9c1d9">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://www.prarulebook.co.uk/favicon-32x32.png?ver=9c1d9">
+	<link rel="icon" type="image/png" sizes="96x96" href="https://www.prarulebook.co.uk/favicon-96x96.png?ver=9c1d9">
+	<link rel="icon" href="https://www.prarulebook.co.uk/favicon.ico?ver=9c1d9" sizes="any">
+	<link rel="icon" href="https://www.prarulebook.co.uk/favicon.svg?ver=9c1d9" type="image/svg+xml">
+	<link rel="apple-touch-icon" href="https://www.prarulebook.co.uk/favicon-180x180.png?ver=9c1d9">
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                                <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="Q5YKT-S48AQ-KXYU8-TW5T5-FK3W9",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"Q5YKT-S48AQ-KXYU8-TW5T5-FK3W9",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="rtueabixfeceq2wh3tra-f-b57b4682b-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"41","ak.cp":"1541313","ak.ai":parseInt("933216",10),"ak.ol":"0","ak.cr":6,"ak.ipv":4,"ak.proto":"h2","ak.rid":"3b979113","ak.r":44277,"ak.a2":e,"ak.m":"dsca","ak.n":"essl","ak.cport":24278,"ak.gh":"23.34.83.86","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1791483106","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Ip2+Td9DaV66im3uiQybeeCIkEZEM8b2Rhc7utKuuHDZzMiKT+K6Hh/K0cMSVv8EtxwPm2+IKslddbKr848mxAjDuiBATZGm/I+yhHoh781Lo8DCZdVZvIdgRFUcBMgHW4dafaLdL1M6Oq4fCdy08z+sWiNok7zXez/nb0J2YIRH3bRRtO859haoXgc/LNoH1wXQG+pu9pUgyN6DcR+4k5z+1oQj4/WNKoZoyxKk2vKNyuab5OHaD/6f23GDfgkSQnXiaaUaSU7UrLqbK2L6Hq1aN+DG0toCarbZTL4WKej2xp06M+9A0Mq6Uz3XMsMOm/Ilsor8sx+k9FNHJX5oS+rokql/5lOO2KC/avsVsCPjUWnH6geCFZLmC/o5q9LO4ZTRULCSauWJ6de36nbYq3/+aOTlFm99NWvVvJcbedA=","ak.pv":"49","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+
+	<div class="wrap" itemscope="" itemtype="http://schema.org/WebPage">
+		<div class="container">
+			<div class="col12">
+				<div class="print-header">
+					<header role="banner">
+						<img src="https://www.prarulebook.co.uk/assets/img/pra/logo_pra.png?ver=9c1d9" alt="Prudential Regulation Authority Rulebook" class="logo-print">
+						<h1>Prudential Regulation Authority Rulebook</h1>
+					</header>
+				</div>
+			</div>
+		</div>
+
+		<main class="main" id="main-content" role="main">
+			<div class="container">
+				<div class="col12">
+					
+
+
+	<p class="print-pageType"><strong>Guidance</strong></p>
+	<h2 class="print-PageTitle">SS1/23 – Model risk management principles for banks</h2>
+<p class="print-date"><span>Printed on:</span> 08/10/2026</p>
+<p class="print-rulebook-date"><span>Rulebook at:</span> 07/10/2024</p>
+<hr><div class="container">
+	<div class="col12">
+		<div class="cta-content">
+			<h2 class="h3">This supervisory statement has been updated and the revised version has not yet been added to the Rulebook – please visit the Bank of England website for the latest version</h2>
+			
+			<p>https://www.bankofengland.co.uk/prudential-regulation/publication/2023/may/model-risk-management-principles-for-banks-ss</p>
+			<p></p>
+		</div>
+	</div>
+</div>
+
+
+
+<h3>
+	Related Links
+</h3>
+	<table style="border-collapse: collapse; margin-bottom: 20px;">
+		<tbody>
+				<tr>
+				</tr>
+		</tbody>
+	</table>
+
+				</div>
+			</div>
+			
+
+
+<div class="page-content rulebook-content guidance-content"
+     data-rulebook-date="07-10-2024"
+     data-rulebook-timeline-message-state="past">
+	<section class="page-section">
+		<div class="container chapters">
+			<div class="col3 m-full">
+				<div class="side-bar">
+					
+				</div>
+			</div>
+			<div class="col9">
+				<div class="clear"></div>
+				<!-- Pre-Rendering Name: rulebook/guidance/supervisory-statements/ss01-23--model-risk-management-principles-for-banks/p/17-05-2024_31-12-9999.html -->
+
+
+
+
+	<!--pre-->
+
+
+
+<div class="page-content rulebook-content guidance-content"
+     data-rulebook-date="17-05-2024"
+     data-rulebook-timeline-message-state="past">
+	<section class="page-section">
+		<div class="container chapters">
+			<div class="col3 m-full">
+				<div class="side-bar">
+					
+				</div>
+			</div>
+			<div class="col9">
+				<div class="clear"></div>
+				
+
+
+
+<div class="part-content">
+
+</div>
+			</div>
+		</div>
+	</section>
+</div>
+			</div>
+		</div>
+	</section>
+</div>
+		</main>
+	</div>
+
+	<script src="/scripts/boe.vendor.min.js?ver=9c1d9" type="text/javascript"></script>
+<script src="/scripts/boe.min.js?ver=9c1d9" type="text/javascript"></script>
+<script src="/scripts/mathjax3.0.1es5-tex-chtml.js?mode=pnf" type="text/javascript"></script>
+
+
+	
+	
+	
+</body>
+</html>

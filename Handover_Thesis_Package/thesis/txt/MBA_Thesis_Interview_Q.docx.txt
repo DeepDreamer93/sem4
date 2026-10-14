@@ -1,0 +1,47 @@
+AI-Driven Transformation in Banking GRC: Implications for Workforce Management in UK and EU Banks
+Written Interview: Practitioner Response Form
+Submitted by: Narentheran S, Roll No. 2406OBA0034, Reg. No. 69124100089
+Contact: naren8196@gmail.com   Please return on or before: 20/09/2026
+About this study
+This MBA project examines how the adoption of Artificial Intelligence in the Governance, Risk and Compliance (GRC) functions of UK and EU banks, in regulatory monitoring, screening, risk scoring, control testing and compliance reporting, is changing the work of the people in those functions.
+Objective: to examine how AI-driven transformation in GRC functions is reshaping workforce management decisions on role structure, skill requirements, staffing and employee adaptation, and to develop a practical framework that banking management can use to plan GRC workforce transformation while sustaining compliance effectiveness and employee engagement.
+This form replaces a 30 to 40 minute interview and takes about 20 minutes. Brief notes or bullet points are entirely acceptable, and you may skip any question.
+Confidentiality
+Participation is voluntary. Your responses are anonymous. Neither you, nor your employer, nor any client will be identified in my report. Please do not include confidential, proprietary or client-specific information; I am interested in general practice and your professional view.
+☐ I consent to my anonymised responses being used for this academic study.
+Background (context only, not reported individually)
+1. Role / job title:
+
+2. Years of experience in GRC or a GRC-supporting role:
+
+3. Extent of AI or automation use in your area: Not at all / Piloted only / Used in some processes / Used extensively:
+
+Section 1: Current use of AI in GRC work
+1. Where is AI or automation actually being used today in the risk and compliance work you see, and which of those uses are genuinely in production rather than pilots?
+
+2. Which GRC activities in your area have been most affected so far, and which have proved resistant to automation? What makes the difference?
+
+Section 2: Changes in role content and team structure
+3. Thinking about your own role or your team's roles, what tasks take up materially less time than two or three years ago, and what work has replaced them?
+
+4. Have you seen GRC roles disappear, change substantially, or be newly created, and how has the shape of the team changed in headcount or seniority mix? Please describe an example without naming the institution.
+
+Section 3: Regulation, human oversight and accountability
+5. How do regulatory expectations on human oversight and accountability, such as DORA, the EU AI Act, PRA SS1/23, or the SM&CR in the UK, affect how AI can actually be used in your area?
+
+6. What does a person need to know or be able to do in order to meaningfully review and challenge an AI-generated risk or compliance output, and are the people who are accountable in that position today?
+
+Section 4: Skills and reskilling
+7. Which skills have become more important in GRC work, and where do you see the largest gaps?
+
+8. How is the skills question being handled, through training existing staff, hiring differently, or relying on technology or vendor teams? How effective has that been?
+
+Section 5: Employee response and management of the change
+9. How have people in your area responded to AI being introduced into their work, in terms of confidence in the tools, concern about their own role, and willingness to rely on the output? Where output is not trusted or is worked around, what drives that?
+
+10. What has management done well, and what would you do differently, in managing this transition?
+
+Closing
+11. Is there anything important about this transition that my questions have not covered?
+
+Thank you for your time.

@@ -1,0 +1,14 @@
+Research notes (persist). Sources used:
+- BoE/FCA AI in UK FS survey 2024: talent/skills among top non-regulatory constraints; many firms only partial understanding of AI (third-party); risk & compliance among highest third-party AI; accountability split across multiple persons; explainability methods widespread; AML/fraud among top benefit areas.
+- FCA AI Update 2024 (para 3.40-3.42): SM&CR relevant; no dedicated AI SMF; existing frameworks sufficient; tech systems normally under SMF24 (ops).
+- PRA SS1/23 Principle 2.2 accountable SMF for MRM; 2.4 roles with skills/experience documented; validation staff expertise + standing; applies AI models.
+- DORA Art 5(2)(g) budget ICT skills all staff; 5(4) board knowledge+training; 6(6) auditors ICT expertise; 13(6) compulsory training all staff.
+- AI Act Art 4 rewritten by Digital Omnibus (Reg 2026/1744, in force 27 Jul 2026): duty of means, no guaranteed level; Annex III high-risk deferred to 2 Dec 2027; Art 14 human oversight unchanged.
+- ECB SSM priorities 2026-28: Priority 2 operational resilience & ICT; digital & AI strategies, governance, risk mgmt.
+- EU AMLR Art 11: compliance manager (management body) + AML compliance officer; applies Jul 2027; AMLA.
+- Thomson Reuters Future of Professionals 2025: orgs adding new governance roles see more benefits; skills gaps in tech/data and domain expertise; rethink old roles.
+- IIA Vision 2035: auditors -> strategic advisors, tech skills, advisory share rising.
+- IBM agentic KYC (Jul 2026): human effort shifts to exception handling, validation oversight, final decisions.
+- GSDC AI Risk & Compliance Jobs Report 2026: titles AI Compliance Officer, Responsible AI Lead, Model Risk; skills EU AI Act, NIST AI RMF, ISO 42001, SS1/23, model risk, bias testing, vendor AI risk, LLM eval, AI incident response, red-teaming, data lineage, explainability; hybrid skill premium.
+- ai-governance-jobs: AI Governance Lead role; certs AIGP, CRISC, CISA.
+- Christian & Timbers 2026: AI governance leader responsibilities; failure modes split accountability; board translation.

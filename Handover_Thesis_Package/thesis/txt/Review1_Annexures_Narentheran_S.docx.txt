@@ -1,0 +1,81 @@
+ANNEXURES
+AI-Driven Transformation in Banking GRC: Implications for Workforce Management in UK and EU Banks
+Submitted by: Narentheran S — Roll No. 2406OBA0034 — Reg. No. 69124100089
+ANNEXURE I — SEMI-STRUCTURED INTERVIEW GUIDE
+Respondents: 12 professionals in risk, compliance, internal audit, financial crime, GRC technology or HR roles supporting GRC functions, in banks or banking service providers operating in the UK or EU.
+Duration: 30–40 minutes. Mode: online or in person; notes taken, recorded only with explicit consent.
+Opening statement (read to each respondent)
+This interview is part of my MBA project on how AI adoption in Governance, Risk and Compliance functions is affecting workforce management in UK and EU banks. Participation is voluntary and you may decline any question or stop at any point. Your responses are anonymous — neither you nor your employer nor any client will be identified in my report. Please do not share confidential, proprietary or client-specific information; I am interested in general practice and your professional view, not in any institution's internal detail. May I proceed, and are you comfortable with me taking notes?
+Background (context only, not reported): the respondent's role and function, years of experience in GRC or a GRC-supporting area, and whether the work relates primarily to the UK, the EU or both.
+Current use of AI in GRC work
+1. In your experience, where is AI or automation actually being used today in risk and compliance work — and which of those uses are genuinely in production rather than pilots?
+2. Which GRC activities in your area have been most affected so far, and which have proved resistant to automation? What makes the difference?
+Changes in role content and structure
+3. Thinking about your own role or your team's roles, what tasks do you spend less time on than two or three years ago, and what has replaced them?
+4. Have you seen roles disappear, roles change substantially, or entirely new roles created in GRC? Could you describe an example without naming the institution?
+5. How has the shape of GRC teams changed — size, seniority mix, or the balance between reviewers and specialists?
+Regulation, oversight and accountability
+6. How do regulatory expectations around human oversight and accountability — DORA, the EU AI Act, SS1/23, or SM&CR in the UK — affect how AI can actually be used in your area?
+7. In practice, what does a person need to know or be able to do in order to meaningfully review and challenge an AI-generated risk or compliance output? Are people in that position today?
+Skills and reskilling
+8. What skills have become more important in GRC, and where do you see the largest gaps?
+9. How is the skills question being handled — training existing staff, hiring differently, or relying on technology teams? How effective has that been?
+Employee response and management of change
+10. How have people in your area responded to AI being introduced into their work — in terms of confidence, concern about their role, or willingness to rely on the output?
+11. Where AI outputs are not trusted or are worked around, what drives that? What would change it?
+12. What has management done well, and what would you do differently, in managing this transition?
+Closing: whether there is anything important about this transition not covered by the questions, and whether the respondent can refer colleagues in GRC roles.
+ANNEXURE II — STRUCTURED QUESTIONNAIRE
+Purpose: to test whether the themes emerging from the interviews hold across a wider group of practitioners. Target: 30 completed responses. Mode: online form, anonymous. Item wording will be finalised after the interviews so that the questionnaire reflects the themes actually observed.
+Part 1 — Respondent profile
+1. Function: Risk / Compliance / Internal Audit / Financial Crime / GRC Technology / HR supporting GRC / Other
+2. Level: Analyst or Executive / Manager / Senior Manager / Director or above
+3. Years of experience in GRC or a GRC-supporting role: Under 2 / 2–5 / 6–10 / Over 10
+4. Primary jurisdiction of your work: UK / EU / Both
+5. Type of organisation: Bank / Banking service provider or GCC / Consultancy or vendor serving banks
+6. Extent to which AI or automation is used in your area of GRC work: Not at all / Piloted only / Used in some processes / Used extensively
+Part 2 — Items
+All items are rated on a five-point scale: 1 = Strongly disagree, 2 = Disagree, 3 = Neither agree nor disagree, 4 = Agree, 5 = Strongly agree.
+A. Perceived usefulness of AI in GRC work (adapted from Davis, 1989)
+7. Using AI-enabled tools improves my performance in my GRC work.
+8. Using AI-enabled tools increases the volume of work I can complete.
+9. AI-enabled tools improve the quality and consistency of risk and compliance outputs in my area.
+10. Overall, I find AI-enabled tools useful in my job.
+B. Perceived ease of use (adapted from Davis, 1989)
+11. I find the AI-enabled tools in my area easy to use.
+12. It is easy for me to understand what the AI-enabled tools in my area are doing.
+13. Learning to work with these tools did not require excessive effort.
+C. Trust in AI output (adapted from Glikson & Woolley, 2020)
+14. I can understand how the AI-enabled tools in my area arrive at their outputs.
+15. The outputs produced by these tools are reliable.
+16. I am confident I could explain and defend an AI-assisted risk or compliance decision to a regulator or auditor.
+17. I am comfortable relying on AI-generated output without independently re-performing the work.
+18. When I disagree with an AI-generated output, there is an effective way to challenge or override it.
+D. Perceived replaceability (adapted from Brougham & Haar, 2018)
+19. I am concerned that a significant part of my current role could be performed by AI or automation.
+20. I believe my role will change substantially over the next three years because of AI and automation.
+21. I am concerned about my long-term career prospects in GRC because of AI and automation.
+E. Skills and reskilling
+22. My current skills are sufficient for the way GRC work is being performed in my organisation.
+23. My organisation has provided adequate training to work effectively with AI-enabled GRC tools.
+24. Data and analytical skills have become more important in my role.
+25. Judgement, interpretation and regulatory reasoning have become more important in my role than routine processing.
+F. Human oversight and accountability
+26. The people accountable for AI-assisted GRC decisions in my area have the knowledge required to supervise them effectively.
+27. Regulatory requirements for human oversight are clearly reflected in how AI is used in my area.
+G. Organisational response and outcomes (adapted from Brougham & Haar, 2018)
+28. Management has communicated clearly how AI adoption will affect roles in my function.
+29. I feel positive about the effect of AI adoption on my work.
+30. I would consider leaving my current role because of the way AI and automation are changing it.
+31. I feel committed to my organisation.
+Part 3 — Open questions (optional)
+32. Which parts of your GRC work do you think should not be automated, and why?
+33. What single change would most help GRC staff adapt to AI-enabled ways of working?
+Mapping of instruments to objectives
+Objective | Interview questions | Questionnaire items
+(i) GRC activities automated or augmented; role demand | 1–5 | 6, 20, 32
+(ii) Regulatory requirements, oversight, competence | 6–7 | 16, 26, 27
+(iii) Skill gaps and reskilling strategies | 8–9 | 22–25, 33
+(iv) Employee behavioural responses | 10–12 | 7–19, 21, 28–31
+(v) Framework and recommendations | Synthesis of all | Synthesis of all
+Constructs A, B, C, D and G are multi-item and will be assessed for internal consistency using Cronbach's alpha. Items 19–21 and 30 are worded so that a higher score indicates greater concern, and will be reverse-coded where a composite score is computed.

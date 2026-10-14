@@ -1,0 +1,123 @@
+--- slide 1
+AI-Driven Transformation in Banking GRC: Implications for Workforce Management in UK and EU Banks
+
+First Review Presentation
+Narentheran S   |   Roll No: 2406OBA0034   |   Reg No: 69124100089
+MBA (CY 2024 – BA & GM), Semester IV
+Guide: Dr. Ramya Jayaram
+--- slide 2
+1. Need for the Study
+
+Banks in the UK and EU are investing heavily in AI across Governance, Risk and Compliance - monitoring, screening, risk scoring, control testing, reporting.
+Returns depend less on the technology than on the readiness of the workforce operating alongside it.
+This is a management problem, not a technical one:
+– Which GRC roles are redesigned, reduced or newly created?
+– What skills must be built internally or bought in the market?
+– How are teams structured and staffed?
+– How is employee trust in AI-enabled controls secured?
+Regulation raises the stakes: DORA, the EU AI Act, PRA SS1/23 and the UK SM&CR make staff competence and human oversight conditions of compliance, not HR preferences.
+A bank that automates a control without capable people to challenge the output has not reduced its risk - it has relocated it.
+--- slide 3
+2. Review of Literature
+
+Eight sources from management, organisational and financial regulation literature.
+Technology acceptance and trust:
+– Davis (1989), MIS Quarterly - perceived usefulness and ease of use determine use; usefulness is the stronger determinant.
+– Glikson & Woolley (2020), Academy of Management Annals - integrating AI depends critically on workers’ trust; cognitive trust rests on transparency, reliability and immediacy.
+Automation and the recomposition of work:
+– Autor (2015), Journal of Economic Perspectives - automation substitutes for some tasks and complements others; roles are recomposed, not simply eliminated.
+– Frey & Osborne (2017), Technological Forecasting and Social Change - ~47% of US employment at risk; routine, codifiable tasks most exposed.
+Work, skills and organisational design:
+– Cascio & Montealegre (2016), Annual Review of Organizational Psychology and Organizational Behavior - technological change as an HR and organisational design problem, with implications across six HR areas.
+– Brougham & Haar (2018), Journal of Management & Organization - STARA awareness (n=120): higher awareness lowers commitment and career satisfaction, raises turnover intention and cynicism.
+RegTech and the restructuring of compliance:
+– Arner, Barberis & Buckley (2017) - RegTech reconceptualises financial regulation; compliance work itself is restructured, not merely supported.
+– Buckley, Arner, Zetzsche & Weber (2020), Journal of Banking Regulation - four EU pillars unintentionally drove RegTech adoption; regulation as driver, not only constraint.
+
+--- slide 4
+Research Gap
+
+RegTech literature explains how compliance and regulation are being transformed - but treats the workforce only implicitly.
+Work and employment literature explains how automation recomposes jobs and how employees react - but cross-industry, not within regulated banking functions.
+Acceptance and trust literature explains individual adoption - but, as Glikson and Woolley themselves note, rests largely on short-term experimental studies rather than longer-term, higher-stakes field environments.
+The gap: how AI-driven transformation of GRC in UK and EU banks reshapes workforce management decisions on role design, skills and staffing - and how employees in a regulated, accountability-bound function adapt to it.
+Banking GRC under SM&CR personal accountability is precisely the high-stakes field setting the trust literature identifies as under-researched.
+--- slide 5
+3.1 Primary Objective
+
+To examine how AI-driven transformation in the GRC functions of UK and EU banks is reshaping workforce management decisions - role structure, skill requirements, staffing and employee adaptation -
+and to develop a practical framework enabling banking management to plan GRC workforce transformation while sustaining compliance effectiveness and employee engagement.
+--- slide 6
+3.2 Secondary Objectives
+
+(i) Map which GRC activities are being automated or augmented by AI, and how this changes demand for compliance and risk roles.  [Autor; Frey & Osborne]
+(ii) Analyse how UK and EU requirements - DORA, EU AI Act, SS1/23, SM&CR - shape role design, human oversight and competence obligations.  [Arner et al.; Buckley et al.]
+(iii) Identify emerging skill gaps and reskilling strategies, and how management is addressing them.  [Cascio & Montealegre]
+(iv) Examine employee behavioural responses - perceived usefulness, trust, perceived replaceability, readiness to adapt.  [Davis; Brougham & Haar; Glikson & Woolley]
+(v) Develop an integrated workforce transformation framework and recommendations for GRC and HR leadership.
+Each objective is derived from specific reviewed literature.
+--- slide 7
+4. Methodology - Data Requirement and Sources
+
+Mixed-methods design, qualitatively dominant.
+Data required:
+– Evidence of AI adoption in GRC activities
+– Evidence of role, structure and skill change
+– UK and EU regulatory requirements on competence and human oversight
+– Employee and managerial perceptions
+Secondary sources (all publicly available):
+– Annual reports, Pillar 3 and operational resilience disclosures of 8–10 large UK and EU banks over a common three-year window
+– DORA, EU AI Act, EBA and ECB publications, PRA SS1/23, FCA publications on AI and the SM&CR
+– Publicly advertised GRC job postings, coded for stated skill requirements - observable evidence of changing skill demand
+– Publicly available industry surveys on AI adoption and compliance workforce trends
+--- slide 8
+4. Methodology - Instruments, Sampling and Tools
+
+Instruments:
+– Semi-structured interview guide - ~10 open questions across AI use, task and role change, skills, and team response
+– Structured questionnaire - ~24 five-point Likert items, derived from interview themes, with constructs adapted from Davis (1989), Brougham & Haar (2018) and Glikson & Woolley (2020)
+Sampling framework: purposive with snowball referral - risk, compliance, audit, financial crime, GRC technology and HR roles in UK and EU banking entities; minimum two years’ experience and direct exposure to AI-enabled GRC processes.
+Sample size: 12 semi-structured interviews to thematic saturation; 30 questionnaire responses as validation of the themes.
+Tools: thematic analysis; content analysis of disclosures and job postings; descriptive statistics in Excel or SPSS or python; reliability via Cronbach’s alpha; triangulation of the three evidence streams.
+Ethics: voluntary participation, informed consent, full anonymity, and no confidential, proprietary or client data.
+--- slide 9
+5. Work Done So Far
+
+Review of literature completed - eight sources obtained in full text and reviewed, written up in narrative form, and the research gap identified.
+Objectives derived from the literature - primary and five secondary objectives, each traceable to specific reviewed sources.
+Research design finalised - data requirements, sampling framework, sample sizes and analysis tools established.
+Secondary data sources identified - bank set, disclosure types and reporting window, regulatory sources and job-posting data, all confirmed publicly accessible.
+Research instruments drafted - interview guide and questionnaire, with constructs adapted from the reviewed literature.
+--- slide 10
+6. Work To Be Done
+
+Collect the primary data - by early September 2026: conduct the 12 interviews and circulate the questionnaire for 30 responses.
+Assemble and analyse the secondary data - by early September 2026: content analysis of disclosures, regulatory publications and job postings.
+Analyse the primary data and submit the Second Review report - by 23 September 2026: thematic coding, descriptive statistics, reliability, and triangulation.
+Develop the outputs - during October 2026: GRC role-impact map, workforce transformation framework, and recommendations.
+Complete the project - by 26 October 2026, with the viva voce in November 2026.
+--- slide 11
+8. Expected Deliverables
+
+Analysis of how AI adoption is changing GRC activities, role structures and skill demand in UK and EU banks.
+Mapping of DORA, the EU AI Act, SS1/23 and the SM&CR to workforce competence and human oversight obligations.
+GRC role-impact map - activities and roles classified as automated, augmented or newly created.
+Assessment of skill gaps and reskilling strategies, including build-versus-buy for GRC talent.
+Analysis of employee behavioural responses and their implications for adoption and retention.
+Integrated workforce transformation framework linking AI adoption to role redesign, reskilling and employee adaptation.
+Evidence-based recommendations for GRC and HR leadership.
+--- slide 12
+References
+
+Arner, D. W., Barberis, J., & Buckley, R. P. (2017). FinTech, RegTech, and the reconceptualization of financial regulation. Northwestern Journal of International Law & Business, 37(3), 371–413.
+Autor, D. H. (2015). Why are there still so many jobs? Journal of Economic Perspectives, 29(3), 3–30.
+Brougham, D., & Haar, J. (2018). Smart technology, artificial intelligence, robotics, and algorithms (STARA). Journal of Management & Organization, 24(2), 239–257.
+Buckley, R. P., Arner, D. W., Zetzsche, D. A., & Weber, R. H. (2020). The road to RegTech. Journal of Banking Regulation, 21(1), 26–36.
+Cascio, W. F., & Montealegre, R. (2016). How technology is changing work and organizations. Annual Review of Organizational Psychology and Organizational Behavior, 3(1), 349–375.
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319–340.
+Frey, C. B., & Osborne, M. A. (2017). The future of employment. Technological Forecasting and Social Change, 114, 254–280.
+Glikson, E., & Woolley, A. W. (2020). Human trust in artificial intelligence. Academy of Management Annals, 14(2), 627–660.
+--- slide 13
+Thank You
+
+Questions and guidance welcome.

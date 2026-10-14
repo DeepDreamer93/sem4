@@ -1,0 +1,217 @@
+ANNUAL
+REPORT
+2025
+1 - AIB ANNUAL REPORT 2025
+
+Contents
+Reports from Members, Applicants & Observers
+Foreword		
+3
+Austria - E-Control - electricity and gas				
+AIB’s 2025 in Numbers		
+4
+Belgium Brussels - Brugel - electricity				
+Statistical highlights		
+5
+Belgium Federal - CREG - electricity				
+2025 Achievements 		
+8
+Belgium Flanders - VEKA - electricity and gas			
+
+26
+27
+28
+29
+Belgium Wallonia - SPW - electricity				
+30
+Officials, board, units and scheme groups		
+Bosnia and Herzegovina - OIEiEK - electricity			
+31
+AIB officials		
+14
+Bulgaria - SEDA - electricity				
+32
+AIB secretariat 		
+15
+Croatia - HROTE - electricity				
+33
+Information Systems Unit		
+16
+Cyprus - TSOC - electricity				
+34
+EECS Unit		
+18
+Czech Republic - OTE - electricity and gas			
+35
+Electricity Scheme Group		
+20
+Denmark - Energinet - electricity and gas 				
+36
+Gas Scheme Group		
+22
+Estonia - Elering - electricity and gas				
+37
+Communication		
+24
+Finland - Finextra - electricity				
+38
+Finland - Gasgrid - gas				
+39
+Sustainability Statement		
+71
+France - EEX - electricity and gas				
+40
+Georgia - GSE - electricity				
+41
+Germany - UBA - electricity				
+42
+Greece - DAPEEP - electricity				
+43
+Hungary - MEKH - electricity				
+44
+Iceland - Landsnet - electricity				
+45
+Ireland and Northern Ireland - Gas Networks Ireland - gas
+46
+Ireland and Northern Ireland - SEMO - electricity		 47
+Italy - GSE - electricity and gas				
+48
+
+Kosovo* - ERO - electricity			
+Latvia - AST - electricity			
+Latvia - Conexus - gas			
+Lithuania - Amber Grid - gas			
+Lithuania - Litgrid - electricity			
+Luxembourg - ILR - electricity 			
+Montenegro - COTEE - electricity 			
+Netherlands - Verticer - electricity and gas 		
+North Macedonia - MEMO Ltd - electricity 		
+Norway - Statnett - electricity			
+Portugal - REN - electricity and gas			
+Serbia - EMC - electricity			
+Slovakia - OKTE - electricity			
+Slovakia - SPP Distribúcia - gas			
+Slovenia - Agencija za energijo - electricity		
+Spain - CNMC - electricity			
+Spain - Enagas - gas			
+Sweden - Swedish Energy Agency - electricity and gas
+Switzerland - Pronovo AG - electricity and gas		
+Ukraine - NEURC - electricity			
+EU - CertifHy - gas			
+Albania - ERE - electricity			
+Romania - ANRE - electricity and gas			
+
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+70
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.
+2 - AIB ANNUAL REPORT 2025
+
+Foreword
+Strengthening foundations and advancing to a data-driven
+energy market
+However, this year of progress started with a major transition in our
+leadership. We began the year by bidding farewell to Lukas Groebke,
+Chair of the AIB Board and long-time representative of Pronovo AG
+from Switzerland. After nearly two decades of dedicated service to both
+Pronovo and AIB, and leaving behind a vivid legacy, Lukas handed the
+baton to me.Following my official appointment at the General Meeting in
+May, I focused on maintaining this strategic momentum. Looking back at
+my first year in office, AIB’s achievements in 2025 are a testament to the
+robust foundation and the collective expertise of our members.
+
+Momentum continued as AIB worked alongside its members and the
+European Commission to determine a strategic Hub–UDB roadmap,
+agreeing on the next technical and governance steps for a potential future
+link between the UDB and the GO system.
+
+Without changing our direction, we accelerated our digital and multicarrier ambitions.
+
+AIB processed more than 70,000 transfers through the AIB Hub. And with
+1.161 TWh of Guarantees of Origin exchanged in 2025, AIB celebrated
+surpassing the milestone of 10.000 TWh of EECS GOs issued since
+its foundation. This marks a highlight for our system`s maturity and
+widespread impact.
+
+Key technological advances shaped the year
+
+Ann-Christin Austang
+Board Chair of AIB
+
+2025 marked a strategic
+momentum. We focused on
+fortifying the Guarantee of
+Origin (GO) system while
+preparing for a more integrated and data-rich
+European energy market.
+
+The year marked significant growth within the AIB community, as
+Romania, GNI Ireland, and Kosovo* joined. With these additions, AIB
+included almost all EU/EFTA government-appointed gas and electricity
+Issuing Bodies, except for Poland and Malta, underscoring the expansion
+of both the Electricity and Gas Schemes.
+Members finalized the details of message schema v81, setting the stage for
+GOs to transmit future data requirements. This evolution promises greater
+transparency, improved market support, and stronger interoperability
+across registries.
+The launch of the new AIB Hub and an upgraded data management
+platform in April connected 33 registries, representing a complete
+infrastructure overhaul. The team successfully re-tested every registry
+connection, reinforcing the reliability and trustworthiness of the system.
+
+Quality assurance remained our priority
+
+AIB conducted 22 audits—comprising 14 member reviews and 8
+technical audits—and certified two new registry connections. These
+measures demonstrated AIB’s dedication to consistency, integrity, and
+continuous improvement throughout the EECS ecosystem.
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.
+
+Preparations for deploying a dedicated Databricks platform also progressed, promising enhanced data processing and publication capabilities
+for greater efficiency and analytics.
+
+Market activity scaled remarkably
+
+These achievements are the result
+of collective effort
+
+I express sincere gratitude to all members, working group chairs,
+Secretariat, and fellow Board members for their leadership and
+commitment during a year of significant accomplishment and
+transition.
+Moving forward, AIB aims to continue fostering trust, increasing
+transparency, and supporting a more sustainable European energy
+market.
+With a growing GO market and a fast-changing environment, both
+in the regulatory and operational levels of the GO system, it is
+critically important that we make well-founded decisions and ensure
+democracy in the governance framework, to strengthen further
+development in all expert groups and organs in the association.
+We, AIB, are a unified association that is ready to meet the complexities
+of the future.
+
+3 - AIB ANNUAL REPORT 2025
+
+

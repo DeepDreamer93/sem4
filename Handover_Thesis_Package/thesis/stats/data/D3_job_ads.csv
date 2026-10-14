@@ -1,0 +1,164 @@
+ad_id,query,role_type,date_posted,location_region,salary_from,salary_to,salary_annual_mid,title,data,ai_ml,reg,cyber,automation,cert,governance,word_count
+AD001,ai risk,Traditional,2026-10-09T07:56:50.873Z,"London, South East England",80000,85000,82500,Senior Risk Data Scientist,1,1,0,0,0,0,0,354
+AD002,ai audit,AI,2026-09-10T10:49:32.933Z,"London, South East England",100000,180000,140000,IT Audit Director - Cloud/ AI (Investment Bank),0,1,0,1,0,1,0,210
+AD003,ai model risk,AI,2026-09-13T17:50:26.760Z,"London, South East England",65000,80000,72500,"Data, AI and Analytics Consultant, Big 4, Consulting, Central London",1,1,1,1,1,0,1,287
+AD004,compliance analyst,Traditional,2026-08-25T19:53:07.587Z,"London, South East England",,,,Risk and Compliance Analyst,0,0,1,0,0,0,1,578
+AD005,kyc analyst,Traditional,2026-10-07T13:59:09.667Z,"London, South East England",49500,60500,55000,KYC/ KYB Analyst,0,0,1,0,0,0,0,217
+AD006,aml analyst,Traditional,2026-09-28T10:45:55.300Z,"London, South East England",,,,Technical Business Analyst (Financial Crime / Quantexa),1,0,1,0,0,0,1,429
+AD007,risk analyst,Traditional,2026-10-05T11:11:16.997Z,"Newcastle Upon Tyne, North East England",30000,36000,33000,Junior Credit Risk Analyst,1,0,0,0,1,0,1,502
+AD008,regulatory reporting,Traditional,2026-09-23T10:30:24.260Z,"Edinburgh, Scotland",,,,Regulatory Reporting Associate,0,0,1,0,1,0,0,410
+AD009,operational risk,Traditional,2026-10-09T16:38:42.337Z,"Glasgow, Scotland",300,350,84500,Operational Risk Manager,0,0,1,0,0,0,1,625
+AD010,model risk,Traditional,2026-10-09T11:11:39.153Z,"London, South East England",,,,Model Risk Actuary,0,0,0,0,0,0,0,148
+AD011,ai risk,AI,2026-09-14T08:44:08.663Z,"Edinburgh, Scotland",,,,Senior AI Security Consultant,0,1,0,0,0,0,1,609
+AD012,ai model risk,Traditional,2026-09-13T17:49:26.070Z,"London, South East England",65000,80000,72500,"Data Engineering Consultant, Data Bricks, Snowflake, Fabric, Consulting, City of London",1,1,1,1,1,0,1,320
+AD013,kyc analyst,Traditional,2026-09-25T15:19:45.163Z,"London, South East England",,,,AML Financial crime Analyst,0,0,1,0,0,1,0,491
+AD014,aml analyst,Traditional,2026-09-21T10:55:28.727Z,"London, South East England",65000,75000,70000,Compliance Manager,0,0,1,0,0,0,1,730
+AD015,risk analyst,Traditional,2026-09-09T20:59:20.113Z,"Bristol, South West England",50000,55000,52500,Risk Analyst,0,0,0,0,0,1,1,394
+AD016,regulatory reporting,Traditional,2026-10-14T07:50:29.503Z,"Coventry, West Midlands (Region)",45000,50000,47500,Regulatory Reporting Manager,0,0,1,0,0,0,1,489
+AD017,operational risk,Traditional,2026-10-13T14:29:27.697Z,"London, South East England",,,,Operational Risk & Controls Consultant,0,0,1,0,0,0,1,134
+AD018,ai risk,Traditional,2026-09-07T12:04:05.050Z,"London, South East England",35000,48000,41500,Service Desk Engineer,1,1,1,1,1,0,0,720
+AD019,ai compliance,Traditional,2026-09-10T17:18:38.000Z,"Ipswich, East Anglia",,,,Client Finance Assistant,0,1,0,0,0,0,0,953
+AD020,ai model risk,Traditional,2026-10-05T11:20:38.297Z,"Newcastle Upon Tyne, North East England",70000,75000,72500,Value Management - Senior Manager,0,1,0,0,1,0,0,522
+AD021,kyc analyst,Traditional,2026-10-12T20:24:20.660Z,"London, South East England",55000,65000,60000,KYC & Periodic Review Analyst (ACAMS / ICA),0,0,0,0,0,1,0,239
+AD022,aml analyst,Traditional,2026-09-25T17:58:35.360Z,"London, South East England",,,,Financial Crime SME - Transaction Monitoring,1,0,1,0,0,0,1,610
+AD023,risk analyst,Traditional,2026-10-12T16:29:08.523Z,Ireland,37,38,73125,Risk Analyst,0,0,1,0,0,0,1,354
+AD024,regulatory reporting,Traditional,2026-10-04T18:44:26.020Z,"Dublin, Leinster",75000,82000,78500,Regulatory Reporting AVP,0,0,1,0,0,0,0,403
+AD025,internal auditor,Traditional,2026-09-18T14:44:06.237Z,"Birmingham, West Midlands (Region)",37593,44227,40910,Internal Auditor,0,0,1,0,0,0,0,552
+AD026,operational risk,Traditional,2026-09-17T12:04:09.380Z,"London, South East England",110000,120000,115000,"Operational Risk Manager ( Technology, fraud & Cyber)",0,0,1,1,0,0,1,359
+AD027,ai governance,AI,2026-10-14T08:40:30.730Z,"London, South East England",80000,90000,85000,AI Governance Specialist,0,1,1,0,0,0,1,323
+AD028,ai risk,AI,2026-10-06T12:57:06.767Z,"Preston, North West England",90000,100000,95000,Head of AI,1,1,1,1,1,0,1,819
+AD029,ai compliance,AI,2026-09-08T09:22:18.470Z,"Edinburgh, Scotland",,,,Technical Business Analyst (Fraud & AI Transformation),1,1,0,1,1,0,0,570
+AD030,regulatory reporting,Traditional,2026-09-10T16:07:43.597Z,"Leicester, East Midlands",300,320,80600,Interim Regulatory Reporting Accountant,0,0,1,0,1,0,0,348
+AD031,internal auditor,Traditional,2026-09-11T16:25:34.487Z,"London, South East England",300,650,123500,Interim Internal Auditor – Insurance,0,0,1,0,0,0,1,833
+AD032,operational risk,Traditional,2026-02-25T11:53:06.293Z,"Lostock, North West England",,,,Divisional Chief Risk & Compliance Officer,0,0,1,1,0,0,1,619
+AD033,ai compliance,Traditional,2026-09-25T13:32:05.553Z,"London, South East England",,,,SaaS Product Lead,1,1,0,0,0,1,1,826
+AD034,ai audit,Traditional,2026-09-18T10:28:30.557Z,"Milton Keynes, South East England",45000,50000,47500,SEO Specialist - Demand Generation,1,1,0,1,0,0,0,380
+AD035,kyc analyst,Traditional,2026-10-06T13:30:15.377Z,"London, South East England",40000,45000,42500,Payments Analyst - Fintech,0,1,0,0,1,0,1,296
+AD036,risk analyst,Traditional,2026-08-18T07:46:25.450Z,"Newcastle Upon Tyne, North East England",,,,Operational Resilience & Third Party Risk Management Analyst,1,0,1,0,1,0,1,480
+AD037,regulatory reporting,Traditional,2026-09-18T11:45:18.833Z,"London, South East England",,,,Interim Regulatory Reporting Controller,0,0,1,0,0,0,0,245
+AD038,operational risk,Traditional,2026-09-04T15:44:03.207Z,"Newcastle Upon Tyne, North East England",50000,67000,58500,Risk Management Lead (Financial Services),1,0,1,0,0,0,1,882
+AD039,ai audit,Traditional,2026-08-05T17:17:48.000Z,"Ipswich, East Anglia",,,,Risk & Compliance Analyst,0,1,0,0,0,0,0,943
+AD040,ai model risk,Traditional,2026-09-15T16:51:05.910Z,"Salford, North West England",,,,Senior Data Scientist,1,0,1,0,0,0,0,715
+AD041,compliance analyst,Traditional,2026-09-11T08:43:23.487Z,"Bath, South West England",40000,45000,42500,Compliance Analyst,0,0,1,0,0,0,1,465
+AD042,kyc analyst,Traditional,2026-10-06T11:56:12.487Z,"Leeds, Yorkshire and Humberside",,,,eBilling Analyst,0,0,0,0,0,0,0,580
+AD043,risk analyst,Traditional,2026-10-07T13:05:00.217Z,"Birmingham, West Midlands (Region)",45000,57000,51000,Senior Risk Analyst,1,1,0,0,1,0,0,267
+AD044,regulatory reporting,Traditional,2026-09-22T08:44:24.210Z,"Coventry, West Midlands (Region)",45000,50000,47500,Compliance Regulatory Reporting Manager,0,0,1,0,0,0,1,489
+AD045,internal auditor,Traditional,2026-10-02T16:43:26.927Z,"London, South East England",550,700,162500,Interim IT General Controls Internal Auditor,0,0,1,1,0,0,1,730
+AD046,model risk,Traditional,2026-10-13T07:12:34.507Z,"London, South East England",,,,Model Governance Specialist,0,1,1,0,0,0,1,290
+AD047,ai compliance,AI,2026-10-12T13:30:06.110Z,"Bishopton, Scotland",,,,AI Adoption Lead - Scotland,0,1,0,0,0,0,0,377
+AD048,compliance analyst,Traditional,2026-10-01T16:18:30.423Z,"London, South East England",45000,50000,47500,Compliance Analyst FX,0,0,1,0,0,0,0,166
+AD049,risk analyst,Traditional,2026-10-08T17:09:31.027Z,"Birmingham, West Midlands (Region)",55000,57000,56000,Senior Risk Analyst,1,0,0,0,0,0,0,321
+AD050,regulatory reporting,Traditional,2026-09-21T13:52:10.177Z,"City of Westminster, South East England",75000,85000,80000,Regulatory Reporting Analyst - Banking,1,0,1,0,1,0,0,503
+AD051,model risk,Traditional,2026-10-05T16:09:02.543Z,"Bristol, South West England",,,,Anaplan Modeller,1,0,0,0,1,0,1,599
+AD052,ai compliance,Traditional,2026-10-08T17:17:47.000Z,"Ipswich, East Anglia",,,,Legal Administrator,0,1,0,0,0,0,0,949
+AD053,responsible ai,AI,2026-09-07T09:07:23.897Z,"Greater Manchester, North West England",,,,AI Engineer,1,1,0,0,1,0,0,252
+AD054,kyc analyst,Traditional,2026-10-07T09:45:41.360Z,"Manchester, North West England",,,,Client Onboarding Analyst,1,0,1,0,0,0,0,318
+AD055,risk analyst,Traditional,2026-09-15T14:07:46.040Z,"Leeds, Yorkshire and Humberside",24000,27000,25500,Graduate Risk Analyst,0,0,1,0,0,0,0,455
+AD056,regulatory reporting,Traditional,2026-09-23T16:33:20.907Z,"London, South East England",,,,VP Regulatory Liquidity Reporting Controller,1,0,1,0,1,0,1,475
+AD057,internal auditor,Traditional,2026-10-12T15:58:44.217Z,"Slough, South East England",,,,Internal Auditor,0,0,1,0,0,0,0,330
+AD058,operational risk,Traditional,2026-09-02T16:21:19.770Z,Ireland,70,73,139425,Lead Analyst (risk and controls),1,0,1,0,0,0,1,429
+AD059,ai governance,AI,2026-08-06T14:19:57.000Z,"London, South East England",,,,Head of AI Transformation Portfolio,0,1,1,0,0,0,1,887
+AD060,ai risk,Traditional,2026-09-25T08:43:28.997Z,"Colchester, South East England",35000,45000,40000,QA & Process Improvement Engineer,0,1,0,0,1,0,0,424
+AD061,ai compliance,Traditional,2026-10-01T15:03:27.620Z,"London, South East England",,,,Service Delivery Manager,1,1,0,0,1,0,1,700
+AD062,ai audit,Traditional,2026-10-02T11:37:54.103Z,"Cambridge, East Anglia",70000,80000,75000,Finance Manager,0,1,0,0,0,1,1,625
+AD063,kyc analyst,Traditional,2026-09-24T13:04:18.790Z,"London, South East England",60000,75000,67500,CDD Analyst - 6-month FTC - Corporate & Institutional Banking,0,0,1,0,0,0,0,257
+AD064,risk analyst,Traditional,2026-09-28T15:02:08.767Z,"Leeds, Yorkshire and Humberside",,,,Portfolio Risk Analyst,1,0,1,0,0,1,1,837
+AD065,operational risk,Traditional,2026-10-12T15:52:16.427Z,"London, South East England",700,800,195000,"Head of Client Risk, CDD, Financial Services",0,0,1,0,0,0,0,186
+AD066,model risk,Traditional,2026-09-30T14:33:11.910Z,"Llandarcy, Wales",65000,85000,75000,Associate Fire Engineer,0,0,1,0,0,0,0,778
+AD067,ai governance,AI,2026-10-05T07:51:22.470Z,"London, South East England",,,,Security Governance & Policy Lead – AI,0,1,1,1,0,1,1,494
+AD068,ai risk,AI,2026-09-23T14:16:03.473Z,"London, South East England",,,,Enterprise AI & Transformation Manager,1,1,1,0,1,0,0,692
+AD069,ai audit,Traditional,2026-10-01T06:52:31.273Z,"Lincoln, East Midlands",40000,50000,45000,Management Accountant,1,1,0,0,1,1,0,318
+AD070,compliance analyst,Traditional,2026-10-02T11:00:44.607Z,"Leeds, Yorkshire and Humberside",40000,50000,45000,Senior Compliance Analyst,0,0,1,0,0,0,1,264
+AD071,risk analyst,Traditional,2026-09-23T12:22:03.567Z,"Chesterfield, East Midlands",28000,35000,31500,Credit Risk Analyst,0,0,0,0,0,0,0,370
+AD072,regulatory reporting,Traditional,2026-10-13T08:20:52.823Z,"London, South East England",,,,Senior Manager - Group Regulatory Engagement,0,0,1,0,0,0,1,264
+AD073,operational risk,Traditional,2026-10-09T15:05:49.583Z,"Bristol, South West England",55000,60000,57500,Enterprise Risk Manager - FTC,0,0,1,0,0,0,1,243
+AD074,model risk,Traditional,2026-09-24T12:48:13.683Z,West Midlands (Region),40000,45000,42500,Lead Pricing & Modelling Analyst,1,0,0,0,0,0,0,473
+AD075,compliance analyst,Traditional,2026-10-01T16:09:22.020Z,"London, South East England",50000,55000,52500,Compliance Analyst - Asset Management,0,0,1,0,0,0,0,146
+AD076,risk analyst,Traditional,2026-09-23T09:05:16.513Z,"Hatfield, South East England",,,,Credit Risk Analyst,0,0,0,0,1,0,0,291
+AD077,regulatory reporting,Traditional,2026-10-13T07:56:39.243Z,"London, South East England",,,,Group Regulatory Engagement Manager,1,0,1,0,0,0,0,293
+AD078,operational risk,Traditional,2026-10-05T09:00:44.810Z,"London, South East England",90000,110000,100000,Operational Resilience Manager - Disaster Recovery,0,0,1,1,0,0,1,306
+AD079,ai governance,Traditional,2026-08-18T07:34:03.637Z,"Newcastle Upon Tyne, North East England",,,,Technology Risk Specialist,0,1,1,1,1,1,1,533
+AD080,compliance analyst,Traditional,2026-10-07T13:39:13.990Z,"London, South East England",,,,Compliance Analyst - Fund Administrator,0,0,1,0,0,0,0,282
+AD081,kyc analyst,Traditional,2026-09-17T14:23:21.490Z,"London, South East England",50000,70000,60000,Operational Due Diligence Analyst,0,0,0,0,0,1,1,553
+AD082,regulatory reporting,Traditional,2026-10-02T15:09:09.733Z,"Leeds, Yorkshire and Humberside",,,,External Reporting Manager,0,0,1,0,0,1,0,763
+AD083,internal auditor,Traditional,2026-10-01T08:08:48.687Z,"City of London, South East England",45000,65000,55000,Internal Auditor / Senior Internal Auditor,0,0,1,0,0,0,1,256
+AD084,ai governance,Traditional,2026-09-21T12:37:07.607Z,"Milton Keynes, South East England",42000,50000,46000,Privacy Technology Consultant - OneTrust,1,1,1,0,0,1,1,674
+AD085,ai audit,Traditional,2026-09-04T15:47:11.953Z,"Coalville, East Midlands",36000,42000,39000,Senior Bookkeeper,0,1,0,0,0,0,0,820
+AD086,risk analyst,Traditional,2026-09-17T09:43:22.400Z,"Leeds, Yorkshire and Humberside",23000,28000,25500,Risk Analyst - Financial Services,0,0,1,0,0,0,0,455
+AD087,regulatory reporting,Traditional,2026-09-22T13:03:59.340Z,"Bedford, South East England",45000,50000,47500,Regulatory Affairs Senior Specialist - International,0,0,1,0,0,0,0,556
+AD088,ai governance,Traditional,2026-10-12T09:58:19.957Z,"Edinburgh, Scotland",65000,80000,72500,IDP Prompt Engineer,1,1,1,0,1,0,1,657
+AD089,ai audit,AI,2026-09-18T17:18:01.000Z,"London, South East England",,,,AI Engineer,1,1,1,0,1,0,0,698
+AD090,compliance analyst,Traditional,2026-09-17T16:51:08.127Z,"Greater Manchester, North West England",,,,Compliance QA Analyst,0,0,1,0,0,0,1,771
+AD091,regulatory reporting,Traditional,2026-09-23T15:00:33.793Z,"London, South East England",80000,95000,87500,Reg Reporting Manager,0,0,1,0,0,0,0,306
+AD092,internal auditor,Traditional,2026-09-04T11:10:32.247Z,"Birmingham, West Midlands (Region)",52000,62000,57000,Senior Internal Auditor,1,0,0,0,0,1,0,339
+AD093,operational risk,Traditional,2026-09-23T13:02:34.463Z,"London, South East England",90000,100000,95000,Technology Risk Manager,0,0,0,1,0,1,0,315
+AD094,ai governance,Traditional,2026-07-23T10:01:55.727Z,"London, South East England",,,,DevSecOps Engineer,1,1,0,0,1,0,1,235
+AD095,regulatory reporting,Traditional,2026-09-14T10:40:17.570Z,"Glasgow, Scotland",90000,100000,95000,Finance Regulatory Manager,0,0,1,0,0,1,0,245
+AD096,internal auditor,Traditional,2026-09-17T14:28:26.930Z,"Leicester, East Midlands",,,,Senior Internal Auditor,0,0,1,0,0,0,0,292
+AD097,compliance analyst,Traditional,2026-10-05T12:51:00.620Z,"Salford, North West England",,,,Trade Surveillance Analyst,0,0,1,0,0,0,0,804
+AD098,risk analyst,Traditional,2026-10-06T07:38:59.013Z,"London, South East England",,,,Senior Credit Risk Analyst,1,1,0,0,0,0,0,320
+AD099,operational risk,Traditional,2026-09-28T11:35:07.843Z,"London, South East England",,,,Risk & Business Control Manager - Financial Crime Operations,0,0,1,0,0,0,1,659
+AD100,risk analyst,Traditional,2026-10-07T08:25:10.943Z,West Midlands (Region),,,,Senior Credit Risk Analyst,1,0,1,0,0,0,1,408
+AD101,ai governance,AI,2026-10-12T13:30:06.110Z,"Bishopton, Scotland",,,,AI Transformation Lead - Scotland,1,1,0,0,1,0,1,527
+AD102,compliance analyst,Traditional,2026-10-12T11:32:15.543Z,"London, South East England",,,,KYC Analyst,0,0,1,0,0,0,0,478
+AD103,risk analyst,Traditional,2026-09-24T09:46:10.097Z,"London, South East England",,,,Market and Liquidity Risk Analyst,1,0,1,0,1,0,0,433
+AD104,regulatory reporting,Traditional,2026-09-08T13:26:36.557Z,"Bedford, South East England",35000,40000,37500,Regulatory Affairs Specialist - Innovation,0,0,1,0,0,0,0,582
+AD105,internal auditor,Traditional,2026-09-04T15:50:07.293Z,West Midlands (Region),60000,65000,62500,Senior Internal Auditor - Insurance,0,0,0,0,0,1,1,531
+AD106,ai governance,Traditional,2026-09-21T15:19:08.000Z,"Newcastle Upon Tyne, North East England",,,,Project Coordinator - Marketing and Business Development Operations,0,1,0,1,1,0,1,853
+AD107,risk analyst,Traditional,2026-09-10T14:03:58.920Z,"Birmingham, West Midlands (Region)",,,,Governance & Supplier Risk Analyst,0,1,1,0,0,0,1,716
+AD108,compliance analyst,Traditional,2026-10-09T06:46:03.507Z,"Bristol, South West England",,,,Customer Due Diligence Analyst - Temporary assignment,0,0,1,0,0,0,1,673
+AD109,risk analyst,Traditional,2026-09-30T16:16:31.533Z,"London, South East England",55000,75000,65000,Lead Risk Reporting Analyst,1,0,0,0,1,0,0,333
+AD110,regulatory reporting,Traditional,2026-09-29T09:55:19.703Z,"Salford, North West England",,,,Compliance Manager,0,0,1,0,0,0,1,331
+AD111,internal auditor,Traditional,2026-10-07T12:50:24.777Z,"Manchester, North West England",57000,67000,62000,IT Internal Auditor Senior Analyst,0,0,1,0,0,0,0,241
+AD112,operational risk,Traditional,2026-10-05T21:52:30.040Z,"Chichester, South East England",62000,65500,63750,Contract & Supplier Relationship Manager,0,0,0,0,0,0,1,359
+AD113,compliance analyst,Traditional,2026-10-07T08:21:05.950Z,"Stoke-on-Trent, West Midlands (Region)",30000,35000,32500,Compliance Assistant,0,0,1,0,0,0,0,391
+AD114,internal auditor,Traditional,2026-10-07T12:05:06.600Z,"London, South East England",57000,67000,62000,IT Internal Auditor Senior Analyst,0,0,1,0,0,0,0,241
+AD115,operational risk,Traditional,2026-10-01T11:05:11.940Z,"Manchester, North West England",,,,Health and Safety Manager,0,0,1,0,0,0,1,690
+AD116,risk analyst,Traditional,2026-09-24T14:45:11.513Z,"Leeds, Yorkshire and Humberside",,,,Enterprise Risk Management Analyst,1,0,1,0,0,0,1,835
+AD117,regulatory reporting,Traditional,2026-10-13T14:31:24.487Z,"Sutton, South East England",32000,35000,33500,Tax Reporting Process Specialist,1,0,1,0,0,0,1,485
+AD118,ai governance,Traditional,2026-09-25T14:25:02.280Z,"London, South East England",100000,120000,110000,Senior Data Management/Governance Analyst (12 Months FTC),1,1,1,0,0,0,1,223
+AD119,regulatory reporting,Traditional,2026-09-30T13:06:35.067Z,"Salford, North West England",,,,ERM Manager,1,0,1,0,1,0,1,323
+AD120,internal auditor,Traditional,2026-09-23T10:12:53.693Z,"London, South East England",,,,Internal Auditor – Temp 6 Months,0,0,1,0,0,1,1,164
+AD121,ai governance,AI,2026-09-23T11:16:35.537Z,"London, South East England",600,680,166400,Lead GRC Analyst - AI,0,1,1,1,0,0,1,511
+AD122,regulatory reporting,Traditional,2026-09-10T15:27:29.533Z,"South West London, South East England",,,,Environmental Advisor,0,0,1,0,0,0,0,339
+AD123,regulatory reporting,Traditional,2026-09-15T10:18:54.327Z,"London, South East England",,,,GRADUDATE – Financial Accounting (Mandarin Speaking),0,0,1,0,0,0,0,292
+AD124,machine learning risk,Traditional,2026-08-17T14:37:41.013Z,"London, South East England",,,,Data Scientist,1,1,0,0,0,0,0,458
+AD125,data and ai governance,AI,2026-10-05T19:13:20.243Z,"Wilmslow, North West England",,,,"Data, Analytics & AI Manager",1,1,0,0,1,0,1,743
+AD126,ai regulation,AI,2026-10-07T14:35:05.413Z,"London, South East England",65000,80000,72500,"AI Advisory Manager, Technical AI Consultant, Claude, Cloud Technologies, Consulting Background",0,1,1,0,0,0,1,487
+AD127,data and ai governance,Traditional,2026-10-06T11:19:32.000Z,"St. Albans, South East England",,,,Associate Data Science Analyst,1,1,0,0,1,0,1,652
+AD128,ai product risk,Traditional,2026-09-03T16:42:36.167Z,"Salford, North West England",,,,Strategy Manager,0,1,0,0,0,0,0,550
+AD129,model governance,Traditional,2026-09-09T11:14:00.817Z,"Birmingham, West Midlands (Region)",66627,85845,76236,Head of Capital Governance & Treasury,0,0,1,0,0,0,1,510
+AD130,ai controls,Traditional,2026-09-18T17:18:01.000Z,"London, South East England",,,,Full Stack Product Engineer,0,1,0,0,0,0,0,654
+AD131,ai product risk,Traditional,2026-08-24T07:41:08.740Z,"London, South East England",,,,SEO Lead,1,1,0,0,0,0,1,655
+AD132,machine learning risk,Traditional,2026-10-12T18:16:50.733Z,"London, South East England",55000,65000,60000,Applied Data Scientist - Fraud Prevention,1,1,0,0,0,0,0,301
+AD133,ai controls,Traditional,2026-09-18T17:18:01.000Z,"London, South East England",,,,Data Scientist & Engineer,1,1,1,0,0,0,0,674
+AD134,ai regulation,Traditional,2026-10-05T10:14:58.240Z,"London, South East England",,,,"Senior Data Privacy, Governance & Protection Manager",0,1,1,1,1,1,1,316
+AD135,model governance,Traditional,2026-09-14T08:15:59.183Z,"London, South East England",80000,90000,85000,Senior Decision Scientist (Lending),1,1,1,0,1,0,1,457
+AD136,machine learning risk,Traditional,2026-09-29T17:16:56.303Z,"London, South East England",55000,65000,60000,Data Scientist - Fraud,1,1,0,0,0,0,0,355
+AD137,ai assurance,AI,2026-10-02T10:32:00.277Z,"Leatherhead, South East England",22000,24780,23390,AI Developer & Automation Apprentice,1,1,0,0,1,0,0,603
+AD138,ai policy,Traditional,2026-09-29T11:12:18.833Z,"Edinburgh, Scotland",,,,Platform Engineer,0,1,0,0,1,0,1,708
+AD139,ai product risk,Traditional,2026-09-29T09:56:00.700Z,"Bedford, South East England",60000,70000,65000,Product and Consumer Knowledge Manager,0,1,1,0,0,0,1,594
+AD140,ai policy,Traditional,2026-10-07T09:30:09.970Z,"London, South East England",65000,75000,70000,Credit and AR Manager (Change),0,1,0,0,1,0,1,311
+AD141,model governance,Traditional,2026-10-07T11:10:15.687Z,"London, South East England",49010,56865,52937.5,Governance Manager,0,0,0,0,0,0,1,623
+AD142,machine learning risk,Traditional,2026-09-09T10:07:06.037Z,"Ringwood, South East England",,,,IT Senior Service Manager,0,0,0,0,0,0,0,496
+AD143,ai controls,Traditional,2026-08-06T14:20:00.000Z,"Newcastle Upon Tyne, North East England",,,,Data Platform Manager,1,1,0,1,0,0,1,823
+AD144,ai regulation,Traditional,2026-03-19T14:49:02.067Z,"Wetherby, Yorkshire and Humberside",55000,65000,60000,Design Engineering Manager,0,1,1,0,1,0,1,491
+AD145,ai controls,Traditional,2026-10-12T15:13:45.890Z,"Edinburgh, Scotland",60000,85000,72500,Enterprise Agile Coach,0,1,1,0,0,0,1,636
+AD146,ai assurance,AI,2026-09-10T13:18:06.237Z,"London, South East England",,,,AI Creative Director,0,1,0,0,0,0,0,705
+AD147,model governance,Traditional,2026-09-28T12:22:52.123Z,"Basildon, South East England",450,475,120250,Data Governance & Controls Lead,0,0,1,0,0,0,1,465
+AD148,ai controls,Traditional,2026-10-01T15:52:04.117Z,"London, South East England",,,,Senior Engineer (Agentic Developer),1,1,1,0,1,0,1,795
+AD149,ai product risk,Traditional,2026-09-15T10:23:27.790Z,"Milton Keynes, South East England",,,,Credit Controller,0,1,0,0,0,0,0,578
+AD150,ai assurance,Traditional,2026-10-12T14:39:37.403Z,"Edinburgh, Scotland",55000,60000,57500,Business Analyst,0,1,1,0,1,0,0,643
+AD151,ai regulation,Traditional,2026-10-07T13:51:09.283Z,"Louth, East Midlands",,,,Data Manager,0,1,1,0,0,0,1,727
+AD152,ai controls,Traditional,2026-09-09T12:54:27.720Z,"Ipswich, East Anglia",40000,60000,50000,Data Engineer,1,1,0,0,1,0,0,713
+AD153,ai product risk,Traditional,2026-10-02T15:13:04.640Z,"London, South East England",,,,Senior FP&A Analyst,0,1,0,0,1,1,0,1014
+AD154,model governance,Traditional,2026-10-01T14:59:39.953Z,"Newcastle Upon Tyne, North East England",27000,30000,28500,Junior Finance Analyst,0,0,0,0,1,0,1,437
+AD155,machine learning risk,Traditional,2026-10-12T14:55:32.823Z,"Slough, South East England",25483,27284,26383.5,Technician - Construction,0,0,0,0,0,0,0,622
+AD156,ai product risk,Traditional,2026-10-02T15:13:04.640Z,"London, South East England",,,,FP&A Manager (FTC),0,1,0,0,1,1,0,1024
+AD157,ai product risk,Traditional,2026-10-02T15:13:04.640Z,"London, South East England",,,,Senior FP&A Analyst,0,1,0,0,1,1,0,1014
+AD158,ai product risk,Traditional,2026-09-25T16:13:00.960Z,"City of London, South East England",,,,Senior Assistant - Payments & Data Solutions,1,1,1,0,1,0,1,531
+AD159,model governance,Traditional,2026-10-06T16:26:56.077Z,"Reading, South East England",,,,Senior Data Architect,1,1,0,1,0,0,1,838
+AD160,machine learning risk,AI,2026-10-02T15:33:05.723Z,"London, South East England",120000,160000,140000,"Staff Machine Learning Engineer | Permanent | Up to £160,000 + Bonus",1,1,1,0,0,0,1,533
+AD161,ai product risk,Traditional,2026-10-05T16:09:21.433Z,"Bedford, South East England",,,,Statistician,1,0,1,0,0,0,0,748
+AD162,ai assurance,Traditional,2026-06-26T13:08:49.250Z,"London, South East England",,,,QA Engineer,1,1,1,0,0,0,0,680
+AD163,ai assurance,Traditional,2026-10-05T12:59:00.617Z,"London, South East England",,,,Senior HR Advisor (9-12 month maternity cover contract),1,1,0,0,1,0,0,632

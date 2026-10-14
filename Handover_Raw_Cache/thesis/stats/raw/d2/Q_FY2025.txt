@@ -1,0 +1,5713 @@
+ANNUAL
+REPORT
+2025
+1 - AIB ANNUAL REPORT 2025
+
+Contents
+Reports from Members, Applicants & Observers
+Foreword		
+3
+Austria - E-Control - electricity and gas				
+AIB’s 2025 in Numbers		
+4
+Belgium Brussels - Brugel - electricity				
+Statistical highlights		
+5
+Belgium Federal - CREG - electricity				
+2025 Achievements 		
+8
+Belgium Flanders - VEKA - electricity and gas			
+
+26
+27
+28
+29
+Belgium Wallonia - SPW - electricity				
+30
+Officials, board, units and scheme groups		
+Bosnia and Herzegovina - OIEiEK - electricity			
+31
+AIB officials		
+14
+Bulgaria - SEDA - electricity				
+32
+AIB secretariat 		
+15
+Croatia - HROTE - electricity				
+33
+Information Systems Unit		
+16
+Cyprus - TSOC - electricity				
+34
+EECS Unit		
+18
+Czech Republic - OTE - electricity and gas			
+35
+Electricity Scheme Group		
+20
+Denmark - Energinet - electricity and gas 				
+36
+Gas Scheme Group		
+22
+Estonia - Elering - electricity and gas				
+37
+Communication		
+24
+Finland - Finextra - electricity				
+38
+Finland - Gasgrid - gas				
+39
+Sustainability Statement		
+71
+France - EEX - electricity and gas				
+40
+Georgia - GSE - electricity				
+41
+Germany - UBA - electricity				
+42
+Greece - DAPEEP - electricity				
+43
+Hungary - MEKH - electricity				
+44
+Iceland - Landsnet - electricity				
+45
+Ireland and Northern Ireland - Gas Networks Ireland - gas
+46
+Ireland and Northern Ireland - SEMO - electricity		 47
+Italy - GSE - electricity and gas				
+48
+
+Kosovo* - ERO - electricity			
+Latvia - AST - electricity			
+Latvia - Conexus - gas			
+Lithuania - Amber Grid - gas			
+Lithuania - Litgrid - electricity			
+Luxembourg - ILR - electricity 			
+Montenegro - COTEE - electricity 			
+Netherlands - Verticer - electricity and gas 		
+North Macedonia - MEMO Ltd - electricity 		
+Norway - Statnett - electricity			
+Portugal - REN - electricity and gas			
+Serbia - EMC - electricity			
+Slovakia - OKTE - electricity			
+Slovakia - SPP Distribúcia - gas			
+Slovenia - Agencija za energijo - electricity		
+Spain - CNMC - electricity			
+Spain - Enagas - gas			
+Sweden - Swedish Energy Agency - electricity and gas
+Switzerland - Pronovo AG - electricity and gas		
+Ukraine - NEURC - electricity			
+EU - CertifHy - gas			
+Albania - ERE - electricity			
+Romania - ANRE - electricity and gas			
+
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+70
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.
+2 - AIB ANNUAL REPORT 2025
+
+Foreword
+Strengthening foundations and advancing to a data-driven
+energy market
+However, this year of progress started with a major transition in our
+leadership. We began the year by bidding farewell to Lukas Groebke,
+Chair of the AIB Board and long-time representative of Pronovo AG
+from Switzerland. After nearly two decades of dedicated service to both
+Pronovo and AIB, and leaving behind a vivid legacy, Lukas handed the
+baton to me.Following my official appointment at the General Meeting in
+May, I focused on maintaining this strategic momentum. Looking back at
+my first year in office, AIB’s achievements in 2025 are a testament to the
+robust foundation and the collective expertise of our members.
+
+Momentum continued as AIB worked alongside its members and the
+European Commission to determine a strategic Hub–UDB roadmap,
+agreeing on the next technical and governance steps for a potential future
+link between the UDB and the GO system.
+
+Without changing our direction, we accelerated our digital and multicarrier ambitions.
+
+AIB processed more than 70,000 transfers through the AIB Hub. And with
+1.161 TWh of Guarantees of Origin exchanged in 2025, AIB celebrated
+surpassing the milestone of 10.000 TWh of EECS GOs issued since
+its foundation. This marks a highlight for our system`s maturity and
+widespread impact.
+
+Key technological advances shaped the year
+
+Ann-Christin Austang
+Board Chair of AIB
+
+2025 marked a strategic
+momentum. We focused on
+fortifying the Guarantee of
+Origin (GO) system while
+preparing for a more integrated and data-rich
+European energy market.
+
+The year marked significant growth within the AIB community, as
+Romania, GNI Ireland, and Kosovo* joined. With these additions, AIB
+included almost all EU/EFTA government-appointed gas and electricity
+Issuing Bodies, except for Poland and Malta, underscoring the expansion
+of both the Electricity and Gas Schemes.
+Members finalized the details of message schema v81, setting the stage for
+GOs to transmit future data requirements. This evolution promises greater
+transparency, improved market support, and stronger interoperability
+across registries.
+The launch of the new AIB Hub and an upgraded data management
+platform in April connected 33 registries, representing a complete
+infrastructure overhaul. The team successfully re-tested every registry
+connection, reinforcing the reliability and trustworthiness of the system.
+
+Quality assurance remained our priority
+
+AIB conducted 22 audits—comprising 14 member reviews and 8
+technical audits—and certified two new registry connections. These
+measures demonstrated AIB’s dedication to consistency, integrity, and
+continuous improvement throughout the EECS ecosystem.
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.
+
+Preparations for deploying a dedicated Databricks platform also progressed, promising enhanced data processing and publication capabilities
+for greater efficiency and analytics.
+
+Market activity scaled remarkably
+
+These achievements are the result
+of collective effort
+
+I express sincere gratitude to all members, working group chairs,
+Secretariat, and fellow Board members for their leadership and
+commitment during a year of significant accomplishment and
+transition.
+Moving forward, AIB aims to continue fostering trust, increasing
+transparency, and supporting a more sustainable European energy
+market.
+With a growing GO market and a fast-changing environment, both
+in the regulatory and operational levels of the GO system, it is
+critically important that we make well-founded decisions and ensure
+democracy in the governance framework, to strengthen further
+development in all expert groups and organs in the association.
+We, AIB, are a unified association that is ready to meet the complexities
+of the future.
+
+3 - AIB ANNUAL REPORT 2025
+
+AIB’S 2025 IN NUMBERS
+Membership & coverage:
+
+Data rich GOs:
+
+Welcomed Romania, GNI Ireland, Kosovo ;
+AIB now includes (except Poland and
+Malta) all EU/EEA government appointed
+gas and electricity Issuing Bodies.
+
+33
+
+Agreed message schema v81, preparing
+Guarantees of Origin to carry substantially
+more data in the coming years.
+
+*
+
+registries
+
+22
+
+audits
+
+70000+
+
+Infrastructure renewal delivered:
+
+Quality strengthened:
+
+Scale & direction:
+
+New AIB Hub launched (April 2025)
++ new data platform, connecting 33
+registries; all registry connections
+re tested successfully.
+
+Delivered 22 audits (14 member reviews,
+8 technical audits) and certified two
+new registry connections.
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.
+
+transfers
+
+70 000 + transfers and 1 161 TWh exchanged
+in 2025; milestone of 10 000 TWh EECS GOs
+issued since foundation; advanced Hub-UDB
+roadmap and prepared Databricks rollout
+for improved analytics and publication.
+
+ANNUAL
+REPORT
+2025
+
+STATISTICAL HIGHLIGHTS
+
+STATISTICAL HIGHLIGHTS
+Guarantees of Origin in 2025:
+demand catches up with supply
+
+NEW IN 2025
+
+Explore the live numbers: the EECS GO Statistics dashboard
+
+Across the AIB area, EECS Guarantees of Origin (GOs) remained the backbone of Europe’s energy-attribute
+market. Issuance held near record levels while cancellations rose for a fifth straight year, narrowing the longstanding gap between certificates created and certificates redeemed. Below are the indicators we consider
+most telling for the year.
+KPI strip (five figures)
+
+This year AIB launched a new interactive EECS GO Statistics dashboard, replacing static spreadsheet
+downloads with a living view of the market. Anyone can now explore issuance, cancellation, expiry and
+cross-border transfers — filtered by country, technology, energy carrier and period, and switched between
+production-date and transaction-date views — directly in the browser.
+
+Value
+
+Indicator
+
+Change vs 2024
+
+It makes the figures in this report transparent, reproducible and always up to date: a meaningful step in
+AIB’s commitment to open, trustworthy market information.
+
+1,091 TWh
+
+GOs issued
+
+▼ 1.7%
+
+Explore at aib-net.org/facts/eecs-go-statistics
+
+978 TWh
+
+GOs cancelled (used)
+
+▲ 5.3%
+
+90%
+
+Cancellation as share of issuance
+
+▲ from 84% (2021)
+
+82%
+
+Renewable share of issuance
+
+nuclear rising
+
+1,197 TWh
+
+Cross-border transfers via the Hub
+
+▲ 5.6%
+
+SECTION 02 — what’s behind the certificates
+2025 issuance by technology, EECS-Electricity, TWh
+
+SECTION 01 — supply and demand are converging
+1200
+1000
+
+TWh
+
+800
+600
+
+Issued
+Cancelled (used)
+862
+
+835
+656
+
+748
+
+1110
+991
+
+978
+
+786
+
+200
+2021
+
+2022
+
+2023
+
+2024
+
+131
+
+Solar
+
+400
+
+0
+
+271
+
+Wind
+
+1091
+929
+
+424
+
+Hydro & Marine
+
+EECS-Electricity, transaction-date basis, TWh
+
+2025
+
+What this means
+For most of the GO market’s
+history, far more certificates
+were issued than were ever
+cancelled. That gap is closing:
+cancellations have climbed
+from 79% of issuance in 2021 to
+roughly 90% in 2025. Issuance
+dipped slightly, while demand
+kept rising. A tighter balance
+points to a maturing market in
+which a growing majority of the
+renewable electricity tracked
+is actually claimed by an end
+consumer.
+
+126
+
+Nuclear Radioactive Fuel
+65
+
+Biomass
+
+What this means
+Buyers can increasingly choose
+between low-carbon attributes,
+not just renewable ones.
+
+50
+
+Natural Gas
+8
+
+Hard Coal
+Unspecified & Other
+
+8
+
+Geothermal
+
+6
+
+0
+
+100
+
+200
+
+300
+
+400
+
+TWh issued, 2025
+
+Hydro remains the single largest source of EECS electricity GOs, followed by wind and solar. Together, renewables
+accounted for about 82% of issuance. The most striking structural shift is nuclear: GO issuance for nuclear
+electricity reached 126 TWh in 2025 — close to four times its 2021 level — as more member states allow nuclear
+plants to issue certificates. This is the main reason the renewable share eased even though renewable volumes
+stayed high.
+6 - AIB ANNUAL REPORT 2025
+
+STATISTICAL HIGHLIGHTS
+SECTION 03 — a genuinely European market
+
+SECTION 05 — a busier Hub: transfer activity keeps climbing
+
++172
+
+Germany
++35
+
+Netherlands
+Italy
+
++28
+
+Ireland
+
++22
++11
+
+Belgium (Flanders)
+Portugal
+
+-17
+
+Spain
+
+-26
+
+France
+
+-28
+-32
+
+Sweden
+Norway
+
+-119
+
+−150
+
+−100
+
+−50
+
+0
+
+50
+
+100
+
+150
+
+200
+
+Transfer transactions processed by the AIB Hub, per year
+What this means
+The system is doing
+exactly what it was
+designed to do: letting
+a consumer in one
+country reliably claim
+renewable generation
+produced in another,
+without double
+counting. Cross-border
+transfers reached
+~1,197 TWh.
+
+GOs flow from where renewable electricity is abundant to where demand for green claims is strongest. The
+Nordic hydropower countries are the engine room of supply: Norway alone was a net exporter of ~119 TWh,
+with Sweden and France close behind. Germany is the market’s centre of gravity on the demand side — the
+largest canceller (224 TWh) and by far the largest net importer (+172 TWh), reflecting strong corporate greenelectricity procurement against limited domestic GO supply. The Netherlands and Italy follow.
+
+SECTION 04 — renewable gas: small, but growing fast
+GO issuance for EECS-Gas, production-date basis, TWh
+6.4
+
+TWh issued
+
+6
+4
+2
+0
+
+3.5
+
+A constraint to keep in mind
+Gas data should be read with care. Transaction-dated gas figures are only
+reliably populated from 2025, and 2023 covers part-year reporting, so
+year-on-year gas comparisons are indicative rather than exact.
+
+0.7
+(3 mo)
+
+2023
+
+2024
+
+2025
+
+80000
+Transfer transactions
+
+Net cross-border GO flow in 2025, TWh (imports minus exports)
+
+68.8k
++31%
+
+60000
+40000
+
+41.0k
+
+46.4k
++13%
+
+73.0k
++6%
+
+52.4k
++13%
+
+20000
+0
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+Beyond the volumes of energy certified, the operational load on the Hub has grown markedly. The number of
+transfer transactions rose from about 41,000 in 2021 to ~73,000 in 2025 — a 78% increase, with the steepest
+jump in 2024 (+31%). Activity is highly seasonal: January is consistently the busiest month, as market parties
+move certificates ahead of annual disclosure deadlines.
+
+~73k
+
+transfer
+Transactions
+in 2025
+
++78%
+growth
+since 2021
+
++31%
+
+single jump
+in 2024
+
+What this means
+This counts transactions, not energy — a complement to the volume figures. More, and more frequent, transfers point to a
+more liquid, actively traded market and a steadily heavier workload on the Hub infrastructure.
+
+2023 reflects only three months of reporting. Almost all volume is biomethane
+
+Gas GOs are still a young segment, but momentum is clear: issuance rose ~83% between 2024 and 2025, to
+roughly 6.4 TWh on a production basis. Virtually all of it is biomethane, and activity is concentrated in Italy and
+the Netherlands, with early volumes from the Baltics and Czech Republic.
+
+Source: AIB Hub statistics, 2021–2025.
+7 - AIB ANNUAL REPORT 2025
+
+ANNUAL
+REPORT
+2025
+
+2025 ACHIEVEMENTS
+
+2025 Achievements
+By the end of 2025, AIB counted
+41 members from 36 European
+countries, covering the EU, EFTA
+and Energy Community.
+All are government-appointed
+Issuing Bodies, responsible
+for administering systems for
+Guarantees of Origin (GOs) for
+electricity and/or gas under
+the EECS framework.
+
+						Electricity
+
+					 Gas
+
+30 AIB members were active in the EECS Electricity Scheme, authorised
+to issue EECS GOs and transfer them via the AIB Hub. 4 members are
+preparing their application to the Electricity Scheme: ERE Albania, SEDA
+Bulgaria, Zyra Rregullative e Energjisë – ERO, Kosovo* and NEURC Ukraine.
+Observers in the Electricity Scheme are MEMO LTD - National Electricity
+Market Operator, North Macedonia, and ANRE - Romanian Energy
+Regulatory Authority, Romania.
+
+By the end of 2025, 13 AIB members were part of the EECS Gas Scheme:
+• Gasgrid (Finland)
+• Enagas (Spain)
+• Brugel (Belgium)
+• E-Control (Austria)
+• GSE (Italy)
+• REN (Portugal)
+• OTE (Czech Republic)
+• Elering (Estonia)
+• Conexus (Latvia)
+• Pronovo (Switzerland)
+• VertiCer (Netherlands)
+• Amber Grid (Lithuania)
+• EEX (France)
+
+Romania
+
+Romania has shared a timeline aiming for full AIB membership by 2027
+after fruitful talks with AIB in autumn 2025 in Bucharest. Regulatory
+development is foreseen for 2025-2026, covering electricity, renewable
+gases and thermal energy. No formal application has been submitted yet,
+but exchanges continue with the issuing body ANRE. Within the EU, only
+Malta and Poland remain outside the EECS electricity system.
+
+Poland
+
+Poland has a functioning national GO system but is not yet an AIB
+member. Cooperation between the Polish Energy Regulatory Office
+(URE) and registry operator TGe intensified in 2025. AIB engaged with
+both institutions and the Ministry of Climate and Environment. Market
+interest is strong, and steps towards alignment are ongoing, but there is
+no timeline for AIB membership.
+
+Further to this
+
+Gas Networks Ireland (ireland) joined AIB as a Observer and is preparing
+for Gas Scheme membership alongside 4 other members.
+Apart from Poland and Malta, all EU Issuing Bodies appointed by their
+government are now around the AIB table.
+
+Malta
+
+Malta remains the only EU member state without a functioning system
+for electricity GOs under the EECS framework. AIB is in regular contact
+with the national energy regulator, the Malta Resources Authority (MRA).
+However, given the country’s small market size and limited issuing needs,
+no immediate steps towards AIB membership are expected. Dialogue
+remains open. Among Energy Community countries, GO systems are
+under development. EMS Serbia continues as an active Electricity Scheme
+member and all contracting parties are involved in AIB. AIB remains in
+close contact with the secretariat of the Energy Community to assist them
+in advancing discussions with the European Commission on the roadmap
+towards mutual recognition of GOs from the contracting parties.
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.
+9 - AIB ANNUAL REPORT 2025
+
+FULL MEMBERS
+& APPLICANTS
+
+OBSERVERS
+
+OBSERVERS
+UNDER DISCUSSION
+
+Electricity Scheme Group
+Gas Scheme Group
+
+Map of AIB Members as of May 2026
+10 - AIB ANNUAL REPORT 2025
+
+2025 Achievements
+Quality assurance
+All current gas and electricity Scheme members operate under a
+governmental mandate and comply with the EECS quality and compliance
+requirements. This reflects a shared commitment to high standards and to
+the credibility of renewable energy claims, which AIB considers essential.
+
+By doing so, the GO system responds to ongoing evolutions and AIB
+members will be ready to implement the EN16325 when this comes into
+force. But we are already moving forward.
+AIB has finalized the specifications for the EECS GO message schema
+version 81. This update is a critical infrastructure improvement, introducing
+amongst others attributes for Conversion, Storage, and Bidding Zones.
+
+AIB representatives were speaking at several fora and conferences
+including the REC Market Meeting, RE-Source Poland, Green PPA
+Conference Romania, RE-Source 2025, Florence School of Regulation,
+and the European Hydrogen Week.
+
+Disclosure platform
+
+In 2025, AIB further strengthened the robustness of its system through a
+total of 22 audits. This included 14 member reviews and 8 full technical
+audits, as well as the certification of two new registry connections.
+
+Most importantly, further aligns our data model with the CEN EN 16325
+standard, ensuring all AIB-members remain compliant with relevant EU
+legislation.
+
+The Disclosure Platform serves as an informal forum for exchange between
+Issuing Bodies of Guarantees of Origin and Competent Authorities
+responsible for supervising energy disclosure by suppliers across Europe.
+
+A key milestone was the launch of the new AIB Hub. As part of this
+process, all existing registry connections were successfully re-tested,
+resulting in a full renewal of AIB’s core IT infrastructure.
+
+External cooperation
+
+Disclosure can be seen as the counterpart to Guarantees of Origin: while
+GOs provide proof of the renewable origin of energy, disclosure ensures
+that consumers receive clear and reliable information about the energy
+they purchase.
+
+AIB supports new applicants throughout the membership process,
+providing guidance during both the application and onboarding phases
+through a dedicated Single Point of Contact.
+The map on page 10 shows the countries of organisations that were
+AIB members, as well as those expressing interest in or actively pursuing
+membership, as at the end of 2025.
+
+Strategy
+In 2025 the AIB general meeting approved a new Vision 2025-2028 for
+the association. In previous years a lot of strategy development has been
+completed including a strong vision for 2021-2025 and three strategic
+roadmaps. In 2025, the execution of this strategy was finalised.
+As a part of the Hub roadmap that leads to gradually rebuilding the AIB
+Hub, a new Hub was launched in April 2025 connecting 33 GO registries.
+To increase the amount of information on European Guarantees of Origin,
+including after cross border transfer, the members implemented new
+data fields on the GO, with flexibility for further futureproofing in the
+continuously evolving legal landscape, called the v80 message schema.
+
+AIB’s long standing cooperation with the RECS Energy Certificate
+Association continued, speaking slots by AIB members and officials
+at the REC Market Meeting in April. In May we organised the annual
+Open Markets Committee together in Dessau, Germany. AIB continued
+its cooperation with ERGaR with a view to bringing closer together the
+certification of renewable gases.
+In 2025 AIB continued to foster cooperation with other standardisation
+organisations. We were involved in the revision process of EN16325
+in CEN, of the ISO book & claim standard and held meetings with the
+organisations operating the Greenhouse Gas Protocol, i-REC and GRI
+reporting standards.
+AIB is dedicated to collaborating with stakeholders by creating opportunities
+to collect expert opinions, which informs our vision and guides our policy
+recommendations. We also share our findings and suggestions with the
+public. In this respect, AIB representatives participated in the ENTSOG
+Prime Movers meetings.
+Also meetings with ACER, European Biogas Association EBA, European
+Council of Energy Regulators CEER, Europex, Energy Traders Europe,
+ENTSO-G, ENTSO-E and Eurelectric to name but a few.
+
+In practice, renewable electricity claims are verified through Guarantees
+of Origin, with national Competent Authorities overseeing how these
+claims are presented to consumers.
+However, limited harmonisation at European level means that, in some
+countries, the authority responsible for disclosure is not the same as
+the Issuing Body for Guarantees of Origin. This has, in the past, made
+structured regarding disclosure within AIB more difficult and led to the
+creation of the Disclosure Platform within AIB’s updated organisational setup, which also accommodates certification for additional energy carriers.
+Experience with electricity disclosure has highlighted a number of
+challenges and open questions. At the same time, disclosure frameworks
+for gases, hydrogen, and heating and cooling are still largely unexplored.
+The platform therefore provides a space to exchange knowledge and
+practical experience, including between more mature markets and those
+where disclosure systems and trust are still developing.
+
+11 - AIB ANNUAL REPORT 2025
+
+2025 Achievements
+Internal webinars
+We continued AIB’s established format “Tea Time Thursdays” throughout
+2025 with three dedicated webinars. The webinar focused on complex
+or emerging issues, such as Renewable Fuels of Non-Biological Origin
+(RFNBO) certification and the Power Purchase Agreement (PPA) Guarantee
+initiative of the European Investment Bank.
+The webinars gained very positive reactions from 34 participants from
+our members pool, joining them on average. The recordings are a popular
+learning resource with new member representatives.
+
+In April, AIB presented its position paper in response to
+the European Commission’s consultancy Consortium
+evaluation of the GO system under Article 19, 13a of
+the RED. It proposes key improvements to enhance
+transparency and reliability in the energy transition,
+including:
+• All renewable energy claims should be based on
+GOs to avoid double-counting and ensure trust.
+• Align all energy tracking instruments with the
+GO system for consistency across sectors and
+EU policies.
+
+AIB’s work on revising EN16325
+In 2025, AIB continued its active role as a liaison member in the CENCENELEC standardisation process. We ensured expert input to support
+the finalisation of the revision of the EN16325 standard for Guarantees
+of Origin (GOs), building on the principles and detailed practices of the
+EECS Rules.
+The framework for GOs is defined by the Renewable Energy Directive
+2018/2001 (EU), which mandates the issuance and cross-border
+transferability of GOs for electricity, gas (including hydrogen), and heating
+and cooling. EN16325 provides a harmonised foundation for this system,
+ensuring reliability across borders.
+AIB’s EECS Rules continue to serve as a flexible, high-quality reference
+for the operational aspects of the GO system, particularly as volumes
+and complexity increase. While the revised EN16325 was adopted by
+CEN in March 2025, the EECS framework remains essential for day-to-day
+governance and ongoing innovation.
+
+Participation in public
+consultations
+As an expert in the management of GO systems, AIB regularly contributes
+to policy and regulatory discussions where its practical experience adds
+value. In 2025, AIB participated in several public consultations to share
+practical insights and promote the role of GOs in emerging regulatory
+frameworks:
+
+April
+
+May
+
+In June, AIB submitted feedback to ISCC’s public
+consultation on mass balance rules, highlighting
+the need to include GOs in renewable energy tracking.
+Excluding GOs risks double-counting and regulatory
+inconsistency. We call for requiring GOs where they
+are issued, to ensure traceable, reliable claims across
+systems. Read our response now.
+
+In May, AIB members of the Gas Scheme Group
+created questions for DG ENER, and, where available,
+suggested answers regarding the framework for
+interaction between GO registries and the Union
+Database (UDB), Read the full questionnaire on
+DG ENER’s webpage, and in parallel, check out the
+possible scenarios.
+
+June
+
+August
+
+In August, AIB submitted a response to the public
+consultation of the Council of European Energy
+Regulators’ (CEER) on its strategy for the period of
+2026-2029. Given the multiple new EU-wide policy
+areas where energy tracking is relevant, work is needed
+to harmonize tracking frameworks across policy areas.
+In light of the risks of inconsistent energy origin claims
+and AIB calls for harmonised guidance across Member
+States and policy areas.
+
+12 - AIB ANNUAL REPORT 2025
+
+ANNUAL
+REPORT
+2025
+
+OFFICIALS, BOARD,
+UNITS AND SCHEME GROUPS
+
+AIB officials
+The AIB Board oversees the
+daily management of the
+Association, convening monthly
+to coordinate strategy through
+a mix of physical meetings and
+teleconferences.
+These sessions are bolstered
+by regular meetings between
+our Unit and Scheme Group
+chairpersons, making sure
+that all operations are aligned
+across our organization.
+
+A year of transition:
+The AIB leadership in 2025
+2025 marked a significant period of evolution for the AIB leadership
+team. After many years of dedicated service, Lukas Groebke (Pronovo,
+Switzerland) stepped down as Board Chair. Leading the new chapter,
+Ann-Christin Austang (Statnett, Norway) transitioned from her dual roles
+as Vice President and Vice Treasurer to become the new Board Chair.
+In November, Ilona Bruens (VertiCer, Netherlands) concluded her term
+as Treasurer, with Péter Vedres (MEKH, Hungary) stepping in as the new
+Treasurer to lead the Association’s finances.
+In May 2025, Miguel Jerónimo (REN, Portugal) was formally appointed as
+Strategic Board Member for Communications. While this marked a formal
+appointment to the Board, Miguel continued his long-standing and vital
+work leading the association’s communication strategy and outreach
+efforts.
+Additional changes occurred within our specialized units. Aigars Sīlis
+(AST, Latvia) stepped down from the Information Systems Unit (ISU)
+in November. In early 2025, Remco van Stein Callenfells (VertiCer,
+Netherlands) took the helm of the EECS Unit, succeeding Maria Koulouvari
+(DAPEEP, Greece).
+In December, Carmen Rodriguez (Enagás GTS, Spain) concluded her
+chairmanship of the Gas Scheme Group (GSG), with Lina Rudzianskiene
+(Amber Grid) and Anna Venema (VertiCer) stepping up as Co-Chairs.
+Maintaining momentum was provided by several returning leaders.
+Martina Gabriel (OTE, Czech Republic) continued to chair the Electricity
+Scheme Group (ESG), while Katja Merkel (UBA, Germany) the ISU. On the
+Board level, Elke Mohrbach (UBA, Germany) and River Tomera (Elering,
+Estonia) continued their vital work representing the ESG and GSG,
+respectively.
+AIB extends its warmest gratitude to all our representatives. Their
+shared dedication and collaborative spirit are what keep the Association
+grounded, forward-thinking, and focused on our collective purpose.
+
+AIB Board at the end of the year 2025 (left to right)*
+Miguel Jeronimo, REN, Portugal (since May 2025)
+Strategic Board Member for Communications
+Peter Vedres, MEKH, Hungary (since May 2025)
+Treasurer (since Nov 2025)
+Elke Mohrbach, UBA, Germany
+represents the Electricity Scheme Group
+Ann-Christin Austang, Statnett, Norway (since May 2025)
+Board Chair
+Liesbeth Switten, Secretary General
+Maria Maria Koulouvari, DAPEEP, Greece (since Nov 2025)
+represents the Information System Unit
+River Tomera, Elering, Estonia
+represents the Gas Scheme Group
+
+* The current board composition: Ann-Christin Austang, Elke Mohrbach,
+Heli Happea, Maria Koulouvari, Miguel Jeronimo, Peter Vedres.
+14 - AIB ANNUAL REPORT 2025
+
+AIB Secretariat
+The AIB Secretariat is the engine
+room of our organization. The AIB
+Secretariat is a small, dynamic,
+and highly dedicated team that
+supports the Association’s daily
+operations.
+Under the leadership of
+Secretary General Liesbeth
+Switten, acting on behalf of
+Liesbeth Switten BV, they help
+drive strategic initiatives and
+maintains close contact with
+stakeholders and policymakers
+across Europe.
+
+The backbone of the AIB:
+Our secretariat
+Ana Leandro joined the Secretariat in early 2025, stepping into the role
+of EECS Quality Officer. Throughout the year, she worked closely with
+members to support quality assurance, facilitate working groups, and
+drive the ongoing development of the European Energy Certificate System
+(EECS), ensuring its continued relevance and effectiveness.
+As AIB’s Administration Officer, Giulia Nicolini is the glue that holds everything together, finance, HR, governance, events, and all the paperwork
+in between. She expertly managed finance and HR processes, supported
+governance and events, and ensured seamless internal operations.
+As Chair of the Professional Reviewers Group and EECS Strategy
+Coordinator, Katrien Verwimp continued to provide invaluable strategic
+and regulatory guidance to the EECS Unit and both Scheme Groups
+in 2025. She represented AIB in key international platforms, including
+CEN, further strengthening AIB’s influence and expertise in the energy
+certificate landscape.
+Martin Štandera, AIB’s IT Application Officer played a key role as Product
+Owner in the successful launch of the new AIB Hub in April 2025, bringing
+structure, clarity, and coordination to this major IT renewal. He laid
+the groundwork for the EECS activity statistics dashboard, which was
+prepared for launch in early 2026, and contributed to the development
+and agreement on the new v81 message schema. Martin also continued
+to support the Information Systems Unit and served as a SuperUser for
+the AIB Hub
+Nicki Hoffmann joined the Secretariat as Communications and Policy
+Officer in January 2025. They restructured AIB’s communications, with a
+measurable plan and a unified editorial process, aligned visual identity,
+and member-engaging content. Their work established a coherent
+public voice for AIB and laid a solid foundation for consistent, impactful
+communication across the organization.
+
+AIB secretariat (left to right):
+Martin Štandera (IT Application Officer), Giulia Nicolini (Executive
+Assistant), Katrien Verwimp (EECS Strategy Coordinator), Liesbeth
+Switten (BV-Secretary General), Ana Leandro (EECS Quality Officer)
+
+Our professional reviewers
+
+Our member representatives conduct audits and reviews to check
+member compliance with the EECS framework. The following professional
+reviewers support them in this mission:
+Katrien Verwimp (Belgium) (Chair), Christos Toufexis (Cyprus), Emma Kelly
+(Ireland), Pierre-Yves Cornelis (Belgium), Phil Moody (United Kingdom)
+Chris Pooley (United Kingdom) and Erwin Cornelis (Belgium)
+Each of the professional reviewers has, during their career, worked with
+AIB or a member and has in-depth knowledge of EECS.
+
+15 - AIB ANNUAL REPORT 2025
+
+Information Systems Unit
+Highlights
+2025 was the year we launched the new AIB Hub and subsequently
+continued to making it even more robust, we finalized the v81 specification
+and several technical audits and made several key governance decisions.
+In parallel, the activity over the AIB Hub kept growing, with more than
+70.000 transfers and 1.161 TWh of Guarantees of Origin exchanged in
+2025. We also passed the symbolic threshold of 10.000 TWh of EECS GOs
+issued since AIB was founded.
+
+Technical audits of registries
+
+• Approved technical audits for multiple registries: Amber Grid 		
+(Lithuania, gas), EEX France (electricity), TSO Cyprus (electricity), 		
+VertiCer Netherlands (gas), Pronovo Switzerland (gas, import-only), and
+REN Portugal (extension to gas/hydrogen GOs), DAPEEP (electricity).
+• Purpose: confirm compliance of national registries and Hub 		
+connections with EECS technical and security requirements.
+
+Prepare for v81
+
+Aligning the AIB Hub with EU standards ISU has finalized the specifications
+for the EECS GO message schema version 81. This update is a critical
+infrastructure improvement, introducing amongst other attributes for
+Conversion, Storage, and Bidding Zones. Most importantly, v81 aligns our
+data model with the CEN EN 16325 standard, ensuring all AIB-members
+remain compliant with relevant EU legislation.
+
+And much more
+New Hub live from April 2025
+
+(operated by Unicorn)
+• In April 2025, the Information Systems Unit (ISU) successfully 		
+completed one of the AIB’s most significant IT projects:
+the comprehensive redesign of the AIB Hub. We launched a new IT
+transfer Hub and data management platform, connecting 33 registries.
+• Modular design: one module for data/controls (reporting, VAT‑fraud
+checks, statistics)- data management platform, one for the actual
+transfer processes – AIB Hub.
+
+• Responsible for the technical milestones in the Hub-UDB roadmap for
+a potential future connection between the UDB and the GO system.
+• Decided to replace PKI certificates for AMQP communication with
+mutual TLS (mTLS) certificates to strengthen security.
+• Agreed on three fixed yearly timeslots for major Hub releases to 		
+improve planning and system stability for all members.
+• Nominated Maria Koulouvari (DAPEEP) as ISU representative to the
+AIB Board to make sure ISU input is being considered by board.
+
+Martin Štandera and Katja Merkel (Co-Chairs of the ISU Working Group)
+
+• Thank you to Aigars Silis (AST), who has stepped down after 3 years
+as ISU board representative.
+
+• New communication option for members: AMQP + JSON instead 		
+of SOAP + XML, to reduce congestion and improve resilience; rollout
+expected over 1–2 years.
+• Upgrade to latest‑generation Java for better long‑term sustainability
+and security.
+• Transition period extension (member deadline to implement V81,
+AMQP, statistics) by one year to end of October 2027.
+
+16 - AIB ANNUAL REPORT 2025
+
+Information Systems Unit
+Challenges, ongoing work
+and goals for 2026
+• Finalizing the Hub V81 implementation project.
+• Update the SD03 HubCom - AMQP, JSON, API, statistics extension,
+transfer issues handling, security procedures.
+• Fully automate the collection, generation (including data clearing) and
+publication of the AIB statistics: new Databricks dashboard in the DMe.
+• Opening Data Management environment (DMe) to all AIB Members.
+• Update the Technical audit process and template.
+• ISU participation in
+		 1. the AIB Hub - UDB roadmap work for milestone 1/3 and 		
+				 responsible tracks
+		 2. the GGO roadmap
+		 3. design of the GO Plus certificate type
+• Data Strategy topics, interaction between AIB Hub and European 		
+Commission’s UDB, and potential work on the new GO Plus certificate
+type. ISU will cooperate on these topics when the discussions in other
+Units are mature enough to need technical specifications.
+• With a focus on management and considering the many 		
+changes regarding responsibilities and professionalization within
+the association, the work group will undergo a reorientation: more
+member driven approach.
+• Improving ISU’s involvement in the discussion and decision-making
+processes of the other AIB Scheme groups and units is the top priority
+hereby.
+
+ISU Group Photo taken in Lisbon, November 2025
+
+17 - AIB ANNUAL REPORT 2025
+
+EECS UNIT
+Highlights
+1.		 Completion of a major update of the Domain Protocol (DP) template
+		 documented in Fact Sheet (FS) 10a supporting more consistent audits
+		 and reviews.
+2.		 Agreement on key EECS positions for the EN16325 GO standard
+		 revision (exports/Union DB, HHV/LHV, temporal matching, small
+		 PD aggregation).
+3.		 Approval of and phasing in a revised FS 05 (technology & fuel
+		 codes) and related implementation approach.
+4.		 Progress on HubCom v8.1 rule changes and on practical 		
+		 implementation topics, eg aggregation of small production devices
+		 and production period length
+5.		 In February 2025, Remco van Stein Callenfels was appointed EECSU
+		 Chair, superseding Maria Koulouvari (Μαρία Κουλουβάρη) who held
+		 the position for the past five years. Remco would like to thank Maria
+		 on behalf of the EECS Unit for her extensive contributions.
+Early 2025, the Members of CEN CENELEC adopted standard CEN EN
+16325:2025 on GOs, which revised the 2015 version.
+Adhering to the standard is mandatory for EU Member States. Thus, it is
+essential for the EECS Rules to be compatible with the standard.
+
+Even during the drafting phase of CEN EN 16325:2025, it became apparent
+that not all topics could be finetuned in time to be included in that
+version. This is why AIB is already liaising once again with CEN CENELEC
+to collaborate on the upcoming revision of the standard - work that we
+already kicked-off in 2026.
+AIB sees the interaction between EN 16325 and the EECS Rules bidirectional. We continuously improve our own EECS Rules to adapt to
+evolving regulatory and market needs. Subsequently, new insights gained
+within AIB should ideally feed into the ongoing improvement of EN 16325.
+We welcome the opportunity to contribute to the revision, the EECS Unit
+agreed on key positions regarding e.g. exports of GOs (including to the
+Union Database), the issuance of GOs for gases based on higher versus
+lower heating value, temporal matching, simplifying information on GOs
+for small production devices, and more.
+As such, the EECS Unit’s challenges for 2026 are already laid out before
+us. Moreso than only this next revision, we are looking for a way to make
+continuous improvement a constant for the EN 16325 just as much as it
+always has been for the EECS Rules. This includes also our own processes
+for peer review, which we mean to review to determine in light of the
+standard adoption.
+
+Maria Koulouvari
+(DAPEEP, Greece)
+
+Remco Van Stein Callenfels
+(VertiCer, the Netherlands)
+
+The job will never be finished until the GO scheme is no longer needed.
+Until then, we continue to improve our system.
+
+In 2025, the AIB EECS Unit therefore integrated within its Fact Sheet (FS)
+05 such changes to the categorisation of energy sources and technologies
+as necessitated by the standard. This ensures that GOs can be transferred
+across Europe with an indisputable understanding of the technology and
+energy source from which energy is being produced.
+
+18 - AIB ANNUAL REPORT 2025
+
+EECS UNIT
+Challenges for 2026
+Further aligning the EECS Rules with CEN EN 16325.
+
+Following and contributing to the upcoming revision
+of CEN EN 16325.
+
+As well as finding a way to keep improving the
+EECS framework; and
+
+Having such improvement feed into the ongoing development of 		
+CEN EN 16325. It’s being revised now, but more likely it should 		
+continue to be improved upon. The EECS Rules are never finished,
+so neither should the standard be.
+
+Determining which impact the CEN standard should have on how
+we audit Members.
+
+EECS Unit Group Photo taken in Lisbon, November 2025
+
+19 - AIB ANNUAL REPORT 2025
+
+Electricity Scheme Group
+Highlights
+• ESG strengthened governance:
+		 - Nominated Elke Mohrbach from UBA (Germany) as new ESG 		
+			 representative to the Board.
+		 - Advising updated Terms of Reference for Units & Scheme Groups.
+• ESG oversaw the approval of multiple audits and updated Domain
+Protocols.
+		 - Elering, DAPEEP, SEA, MEKH, Landsnet, VertiCer, Pronovo, Finextra,
+			 TSO Cyprus.
+		 - Ensures continued compliance and reliability of the EECS Electricity
+			 Scheme.
+• ESG supported cross‑scheme and multi‑carrier developments
+		 - ESG approved protocols that also cover gas (Pronovo, VertiCer).
+		 - And clarified geographic application for new domains: Acknowledge
+			 that the Domain Protocols applies to the whole of Cyprus, 		
+			 but that it is suspended in areas where the Cypriot government
+			 (Government of the Republic) does not exercise effective control.
+• ESG endorsed rule changes for Electricity and HubCom v8.1.
+		 - asking ISU to implement the technical updates.
+		 - approving amendments to key EECS Rules articles.
+• ESG further developed the electricity GOs, while allowing members
+to seek for lessons learnt and share their best practices, that can 		
+then become a base for EECS rules update and / or implementation
+in different domains:
+		 - Discussion and exchange resulting in EECS rules update
+			 (in compliance with the CEN standard) concerning the aggregation
+			 of small production devices.
+		 - Experience sharing concerning the issuance of GO for storage
+			 (to be continued in 2026).
+
+Martina Gabriel (OTE, Czechia)
+
+Key orientation points for 2026
+• Maintain the quality standard and further develop the robustness of
+the EECS framework.
+		 - Perform audits and examine DP updates.
+• Reflect and where appropriate procede / support / facilitate concrete
+implementations.
+		 - Participate to harmonize EECS rules and the new CEN standard
+			 (under the expertise of EECS group).
+		 - Explore modialities for issuing Storage GOs, leveraging experience
+			 of members and the work being done in the dedicated subgroup.
+
+20 - AIB ANNUAL REPORT 2025
+
+Electricity Scheme Group
+The ESG’s core mandate
+The ESG manages the day-to-day quality and technical evolution of
+European electricity tracking. The group regularly reviews member audits
+and shapes the onboarding process for new countries.
+To keep the EECS Standard accurate, members constantly update practical
+rules, including solar technology criteria and data exchange protocols.
+The ESG also prepares the association for regulatory changes. The group
+is currently developing the framework for granular GOs and adapting EECS
+rules to align with new CEN standards for small-scale generation.
+By bringing together diverse experts, from TSOs to regulatory bodies, the
+ESG turns varied national insights into unified European standards.”
+ESG Group Photo taken in Brussels, September 2025
+
+ESG Meeting in Brussels, September 2025
+
+21 - AIB ANNUAL REPORT 2025
+
+GAS Scheme Group
+A new chapter for
+European Gas Certification
+The Gas Scheme Group (GSG) is evolving. After successfully harmonizing
+the joint approach to RED II under the leadership of Carmen Rodriguez
+Valdes (Enagas, Spain), the GSG is proud to introduce Anna Venema
+(VertiCer, Netherlands) and Lina Rudzianskiene (Amber Grid, Lithuania)
+as our new co-chairs.
+Ana and Lina emphasize a member-led agenda for the AIB Gas Scheme
+to strengthen the credibility of renewable gas certification – all the
+while staying ahead of EU legislative shifts. With 15 members now on
+board and a focus on integrating new energy carriers like hydrogen and
+bio-LNG. The GSG is proactively engaging in the development towards
+interaction between the GO system and the Union Database, recognizing
+that important regulatory and operational elements are still under
+development.
+
+Highlights from 2025
+
+• Introduced enhanced data fields for gas GOs, including optional 		
+ESR tags, developed an updated structure for referencing the carbon
+footprint method on the GO (FS24), and inclusion of biogenic CO2 in
+composition criteria that can be mentioned on the GO (FS22)”.
+• Engaged with EU and international stakeholders on GO-UDB 		
+interactions and biomethane standards, specifically defining technical
+interaction scenarios with DG ENER and ISO.
+• Audited and welcomed new members to the GSG, expanding the
+group’s geographical reach and diversity of expertise.
+• Refined operational processes to improve data quality and facilitate
+more efficient cross-border transfers via the AIB Hub.
+• Initiated the transposition of the CEN EN 16325 standard into the EECS
+Gas Scheme rules to ensure technical alignment across Europe.
+• Strengthened GSG governance by electing new co-chairs and updating
+the group’s Terms of Reference.
+
+What we tackle in 2026
+
+• Partnering with the European Commission to facilitate the technical
+connection of national gas registries to the UDB.
+• Integrating hydrogen, e-fuels, and bio-LNG into the EECS framework to
+expand the scope of renewable gas tracking.
+• Finalizing the CEN standard transposition into the EECS Gas Scheme
+rules to ensure full regulatory alignment across Europe.
+• Expanding cross-border transfer volumes via the AIB Hub to support a
+more liquid and transparent European gas market.
+
+All current AIB Gas Scheme Members
+1.			 E-Control, Austria
+2.
+Brugel, Belgium-Brussels
+3.
+OTE, Czechia
+4.
+Elering, Estonia
+5.
+Gasgrid, Finland
+6.
+GSE, Italy
+7.
+Conexus, Latvia
+8.
+VertiCer, Netherlands
+9.
+REN, Portugal
+10. Enagas GTS, Spain
+11. Pronovo, Switzerland
+12. Amber Grid, Lithuania
+13. EEX, France (to be connected to the AIB Hub)
+14. SPP Distribucia, Slovakia
+15. MEKH, Hungary
+
+Anna Venema (VertiCer, Netherlands) and
+Lina Rudzianskiene (Amber Grid, Lithuania)
+
+Plus applicants and observers
+Date: 30 May 2026.
+
+“We’re committed to driving a clear,
+member-led agenda and strengthening
+the credibility of renewable gas
+certification across Europe.”
+Anna Venema and Lina Rudzianskiene
+
+GSG facilitators next to the co-chairs: Katrien Verwimp
+and Ana Leandro from the AIB Secretariat
+
+22 - AIB ANNUAL REPORT 2025
+
+GAS Scheme Group
+Gas & Electricity
+Gas IB Seperate
+Observer to AIB
+
+AIB Issuing Bodies for Gas in Europe
+
+GSG Group Photo taken in Dessau, May 2025
+
+23 - AIB ANNUAL REPORT 2025
+
+Communication
+
++ 1 000
+
+> 1 000
+
+Followers
+on LinkedIn
+
+Newsletter
+Recipients
+
+The year AIB found its voice
+For years, AIB’s external communication was a quiet ambition. In 2025,
+we turned the volume up. This was the year we moved from ambition
+to execution, translating strategy into delivery, and establishing a
+communications function that is truly operational, structured, and visible.
+The year began with the onboarding of a dedicated Communications
+Officer and the definition of a communications plan that was successfully
+implemented.
+
+The transformation is already clearly visible!
+AIB now communicates more regularly, consistently and professionally.
+From a mere profile, our LinkedIn account has become a more credible
+channel a platform for active exchange, with high-quality content driving
+increased visibility and engagement. Both the internal and external
+newsletters have been upgraded and are now recognized as important
+communication tools for the association. And this very Annual Report has
+also been redesigned to reflect the clarity we bring to the energy market.
+Building on this progress, the main objective for 2026 is to scale impact
+and strengthen AIB’s positioning as the go-to reference for Guarantees
+of Origin and energy attribute tracking. 2025 made communication
+operational! 2026 will scale its impact!”
+
+almost
+
++ 100 000
+Website
+Visitors
+
+To achieve this, four major pillars will drive
+the next phase:
+
+1
+2
+3
+
+4
+
+Nicki Hoffmann (Communications- & Policy Officer) and
+Miguel Jerónimo (Board member responsible for communication)
+
+Expand digital reach - Strengthen AIB’s digital presence, particularly
+on LinkedIn, with clear targets for audience growth and engagement;.
+Enhance content impact - Elevate the content of our newsletters to
+increase value and impact to members and stakeholders;
+Transform our digital gateway - Improve our “front door” by 		
+transforming AIB’s website into a clear, accessible and user-oriented
+digital entry point;
+Mobilise the members’ network - Leverage our members’ network
+by actively integrating their voice into the process, ensuring that our
+communications are aligned with their expectations and priorities and
+amplifying AIB’s collective voice.
+
+		 2025 was the year we made communications 		
+		 operational! 2026 will scale its impact!
+
+Communications Workshop for Members held in Dessau, May 2025
+
+24 - AIB ANNUAL REPORT 2025
+
+ANNUAL
+REPORT
+2025
+
+REPORTS FROM
+MEMBERS, APPLICANTS & OBSERVERS
+
+Focus in 2026
+
+We will launch the new Austrian GO registry in the course of
+2026 and are already looking forward on the new technology
+and the improved practical handling within the registry.
+
+Area of operation:
+Austria
+AIB Member of the
+Electricity and Gas
+Scheme Group
+Representatives to AIB:
+Angela Tschernutter
+(Member representative)
+Viola Neubauer
+(Deputy)
+
+Highlights from 2025
+
+• We started working on the implementation of a new Austrian
+GO registry for electricity, gas and hydrogen, called
+“GO Live 2026”.
+
+Scope of national participation in EECS
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+558 577
+
+10 918
+
+Electricity - wind
+
+961
+
+5 057
+
+Electricity - hydro
+
+4 002
+
+19 456
+
+Electricity - biomass
+
+427
+
+1 922
+
+Electricity - other RES
+
+795
+
+1 391
+
+Electricity - Fossil
+
+184
+
+12 881
+
+Gas - Biomethane (Anaerobic
+Digestion)
+
+19
+
+43
+
+Gas - Biomethane (Thermal
+Gasification)
+
+1
+
+5
+
+Gas – Hydrogen from biomass
+gasification
+
+2
+
+4
+
+Gas – Other fossil gases
+
+1
+
+765
+
+Energy carrier and type
+
+• The number of registered plants and issued volumes
+of biomethane and gas grew in 2025.
+• The advanced electricity disclosure system lived up to its
+professional reputation in 2025 as well.
+
+Domain’s 2025 GO update
+
+Currently, we have approximately 680 000 production plants registered,
+mainly electricity power plants of renewable and fossil sources, but also
+gas power plants (biomethane, fossil gas and hydrogen; all including
+sustainability information). All of them contribute to issuing GOs in the
+Austrian GO registry.
+
+post: Rudolfsplatz 13a, 1010 Wien
+web: www.e-control.at
+contact: office@e-control.at
+26 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+In 2026, BRUGEL focuses on full compliance with the
+CEN 16325 standard and the implementation of the
+Renewable Energy Directive (RED) III.
+
+Area of operation:
+Belgium (Brussels)
+AIB Member of the
+Electricity Scheme Group
+and Gas Scheme Group
+
+Highlights from 2025
+
+Scope of regional* participation in EECS
+
+of the total consumption. The number of installations eligible for EECS
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+The share of green electricity continues to grow, accounting for 65.44%
+Guarantees of Origin (GO) kept growing at a steady pace. The main GO
+driver for the GO market is still the obligation for suppliers to report on
+
+Bekay Chihi
+Representatives to the General
+Meeting, EECSU, ESG, GSG
+Attila Acs
+Representatives to the General
+Representative to the ISU
+
+Total capacity installed
+per technology (MW)
+
+2 416
+
+84
+
+Electricity - biomass
+
+1
+
+51
+
+Electricity - Fossil**
+
+210
+
+6
+
+their use of renewable energy.
+Electricity - solar
+
+Representatives to AIB:
+
+Laura Rebreanu
+Representatives to the General
+Meeting, EECSU, ESG, GSG, ISU
+
+Number of
+production devices
+
+Energy carrier and type
+
+Domain’s 2025 GO update
+
+Despite annual marked fluctuations, the overall pace of transactions
+continues to rise in 2025, reflecting an active and well-established
+market. GO import volumes evolve closely in parallel with cancelled
+GO volumes, which confirms that the market is still largely shaped by
+suppliers’ green reporting obligations. While suppliers and traders seem
+interested, there is yet no active market for Gas GOs.
+
+88
+Number of account
+holders in their
+EECS registry
+
+post: Avenue de l’Astronomie 14, 1210 Brussels, Belgium
+web: FR: https://brugel.brussels/themes/infos-pour-le-secteur-de-l					 energie-13/garanties-d-origine-716
+				NL: https://brugel.brussels/nl_BE/themes/info-voor-de						 energiesector-13/garanties-van-oorsprong-716
+contact: info@brugel.brussels - greenpower@brugel.brussels
+
+* The numbers here are only for the Brussels Region.
+** Electricity poduced by HEC with natural gas
+27 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+Relaunching and completing the tendering of wind farm
+concessions in the Princess Elisabeth Zone, as well as
+deciding on the final shape of MOG II and the Nautilus
+interconnection.
+
+Area of operation:
+Belgium
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+
+Philip Godderis
+The Electricity Scheme Group
+Yves Poncelet
+The Gas Scheme Group
+
+Highlights from 2025
+
+• Beginning of construction on the energy island (project MOG II) in
+the Princess Elisabeth Zone, intended as a hub to connect the new
+wind farms and to host a new interconnector between Belgium and
+the UK (project Nautilus).
+• Refinement of the federal legal framework for the Princess Elisabeth
+
+Scope of national participation in EECS
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+10
+
+2 266
+
+Electricity - wind
+
+Zone tenders following the postponement.
+
+Domain’s 2025 GO update
+
+CREG is entrusted with the task of issuing Guarantees of Origin (GO) for
+renewable electricity produced in the Belgian sea area and managing
+the corresponding registry. The CREG registry has been fully operational
+since 2015 and is comprised of all offshore wind producers in Belgium.
+Disclosure and the residual mix calculation are not within CREG’s legal
+remit.
+
+11
+Number of account
+holders in their
+EECS registry
+
+post: Rue de l’Industrie 26-38, 1040 Brussels, Belgium
+web: www.creg.be
+contact: info@creg.be
+28 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+We focus on joining the AIB Gas Scheme Group to respond
+to the growing demand for trading gas GOs to and from
+Flanders. In addition, we look forward to the implementation
+of the Renewable Energy Directive (RED) III.
+
+Area of operation:
+Belgium (Flanders)
+AIB Member of the
+Electricity Scheme and
+Observer to the Gas
+Scheme Group
+Representatives to AIB:
+
+Kirsten Van der Stappen (VNR)
+Project Owner Green Energy
+and Representative to ISU & GM
+Elise Verstraelen (VEKA)
+Project Leader Guarantees
+of Origin and Representative
+to ESG & EECSU
+Sam Tessens (VEKA)
+Expert Guarantees of Origin
+and Representative to GSG
+
+Highlights from 2025
+
+• Vlaamse Nutsregulator and VEKA initiated the development
+of a partnership.
+• Flanders issued circa 19.5 million electricity Guarantees of Origin
+(GO), exported 10.5 M GOs, and cancelled approximately 31 M GOs.
+• We experienced a massive growth in the gas GO market. Flanders
+issued 193 328 gas GOs, compared to the 7 638 in 2024, and 		
+cancelled 45 910 gas GOs.
+
+Domain’s 2025 GO update
+
+In 2025, we strengthened the collaboration between Vlaamse
+Nutsregulator and VEKA. With this collaboration, we can together track
+
+Scope of national participation in EECS
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+37 317
+
+4 190
+
+Electricity - wind
+
+539
+
+2 545
+
+Electricity - hydro
+
+8
+
+3
+
+Electricity - biomass
+
+17
+
+247
+
+Electricity - other RES
+
+112
+
+201
+
+Gas – Renewable methane
+without confirmed
+sustainability criteria met
+
+7
+
+47
+
+Energy carrier and type
+
+market evolutions, while tackling our shared challenges: the connection
+to the Union Database, the growing interest in trading gas GOs, and a
+framework for GOs for battery storage behind the access point, etc.
+
+Vlaamse Nutsregulator (VNR)
+post: Koning Albert II-laan 7, 1210 Sint-Joost-ten-Node, Belgium
+contact: contact@vlaamsenutsregulator.be
+VEKA, Vlaams Energie en Klimaatagentschap
+(Energy and Climate Agency of Flanders)
+status: Agent of Vlaamse Nutsregulator
+post: Havenlaan 88, 1000 Brussel, Belgium
+contact: https://apps.energiesparen.be/contact
+
+284
+Number of account
+holders in their
+EECS registry
+
+web: www.vlaamsenutsregulator.be & www.vlaanderen.be
+29 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+SPW is an applicant to the GSG while we adapt our system to
+meet AIB requirements. We aim to become a full member, to
+connect to the AIB Hub, and be able to exchange gas GO with
+other AIB gas members connected to the Hub.
+
+Area of operation:
+Belgium (Wallonia)
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+Mélanie Hoogewijs
+GM, EECS Unit & ESG
+Inès Gancedo Tarano
+GM, EECS Unit, ESG & GSG
+Emile Jeanmart
+GSG
+Annie Desaulniers
+ISU
+Raphaël Rigoni
+ISU
+
+Highlights from 2025
+
+• Following a legislative change aligned with the Renewable Energy
+Directive (RED), we no longer issue Guarantees of Origin (GO) for
+production periods that have ended over 12 months ago. After a
+security breach, our registry was temporarily disconnected from
+
+Scope of regional participation in EECS
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+3 568
+
+695
+
+Electricity - wind
+
+207
+
+1 564
+
+Electricity - hydro
+
+69
+
+116
+
+Electricity - biomass
+
+105
+
+282
+
+Energy carrier and type
+
+the AIB Hub after which we reinforced our security measures.
+• Meanwhile, we have also been adapting our system for gas GOs
+to join the AIB Gas Scheme (GSG).
+
+Domain’s 2025 GO update
+
+In Wallonia, we use a certificate￼ based support system to stimulate
+investments in green electricity production. Since June 1, 2024, the new
+scheme CPMA (Discounted Average Production Cost) applies to all new
+projects. This system also influences the new Production Devices (PD)
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+that are registered for the issuance of GOs in our Domain.
+
+Electricity - Fossil (High
+Efficiency Cogeneration - HEC)
+
+143
+
+120
+
+In total, Wallonia issued 3 695 859 EECS GOs for electricity in 2025.
+
+Gas - Biomethane
+(Anaerobic Digestion)
+
+3
+
+N/A
+
+post: Rue des Brigades d’Irlande, 1 B-5100 Jambes, Belgium
+web: https://energie.wallonie.be/home/les-marches-et-les-acteurs/
+				le-marche-des-garanties-d-origine/les-garanties-d-origine-de				l-electricite-et-du-gaz.html
+contact: contact.lgo@spw.wallonie.be
+30 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+In 2026, Operator za OIEiEK focuses on the
+public procurement of electronic platform
+services for GOs.
+
+Area of operation:
+Bosnia and Herzegovina
+Observer to the
+Electricity Scheme Group
+Representatives to AIB:
+Almir Muhamedbegović
+Power engineer
+Saša Čolić
+IT engineer
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+Herzegovina has started to use OIEiEK’s data of Guarantees of Origin
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+
+The Regulatory Commission for Energy in the Federation of Bosnia and
+(GO) to implement a rulebook on the methodology of determining the
+origin of electricity, calculation and publication of the structure of the
+remaining electricity in the Federation of Bosnia and Herzegovina.
+
+Domain’s 2025 GO update
+
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+15
+
+33
+
+Electricity - wind
+
+4
+
+219
+
+Electricity - hydro
+
+7
+
+873
+
+The EU’s launch of CBAM on January 1, 2026, triggereda surging
+demand for GOs. During 2025, Energy Community contracting parties
+successfully operationalise a regional coupled system to streamline GOs.
+
+post: Adema Buća 34, 88 000 Mostar, Bosnia and Herzegovina
+web: www.oieiek.ba
+31 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+Achieving full membership in the Electricity Scheme Group
+and launching live AIB Hub operations.
+
+Area of operation:
+Bulgaria
+AIB Member and applicant
+to the Electricity Scheme
+Group
+Representatives to AIB:
+
+Ivaylo Aleksiev
+CEO of SEDA, Decision Maker
+Nikola Tsankov
+Secretary General, Head of
+Administration, and Supervisor
+of all Activities, including
+AIB Membership
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+• Achieved record volumes of issued and transferred GOs.
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+• Progressed towards ESG membership and HUB connection.
+• Strengthened coordination with IBEX for GO auctions.
+
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Domain’s 2025 GO update
+
+Electricity - solar
+
+10 851
+
+5 199
+
+In 2025, SEDA recorded a surge in issued and traded GOs, driven by new
+
+Electricity - wind
+
+178
+
+1 270
+
+production capacity and the strategic role of the Independent Bulgarian
+
+Electricity - hydro
+
+247
+
+7 274
+
+Electricity - biomass
+
+27
+
+45
+
+Energy Exchange (IBEX). IBEX now operates a specialized, auctionbased market for GOs in close coordination with SEDA, enhancing
+market liquidity and transparency.
+
+9 412
+
+Ivan Pelov
+Director of Department
+“Control and Information”
+of SEDA, Head of Technical
+Operations, GO Registry, and
+all related GO services (issue,
+transfer, cancellation, etc.)
+
+Number of account
+holders in their
+EECS registry
+
+post: 11 Serdika str., Sofia, 1000, Bulgaria
+web: www.seea.government.bg
+contact: office@seea.government.bg
+32 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+In 2026, HROTE plans to further enhance and develop new
+functionalities of the registry by introducing additional
+components and expanding existing capacities.
+
+Area of operation:
+Croatia
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+Boris Dokmanović
+Representative to the GSG
+& EECS Unit
+Dubravka Brkić
+Representative to the ISU
+& EECS Unit
+
+Highlights from 2025
+
+• In 2025, we recorded a significant increase in the registration
+of solar power plants.
+• We see a very positive trend that further energizes the market
+and confirms its continuous development.
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+23
+
+69
+
+• It strengthens sector competitiveness and encourages further 		
+
+Electricity - wind
+
+19
+
+627
+
+investments in renewable energy sources, with 34 MW of new 		
+
+Electricity - hydro
+
+27
+
+2 148
+
+capacity registered.
+
+Electricity - biomass
+
+5
+
+7
+
+Domain’s 2025 GO update
+
+HROTE is currently finalizing the regulatory and technical documentation
+Ida Žužić
+Representative to the ESG
+& EECS Unit
+
+Scope of national participation in EECS
+
+to integrate White Certificates into the national registry system. This
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+development aims to provide a standardized, transparent platform for
+
+Electricity - solar
+
+1 111
+
+49
+
+tracking energy efficiency obligations, mirroring the reliability of the
+
+Electricity - wind
+
+12
+
+433
+
+existing GO system.
+
+Electricity - hydro
+
+13
+
+5
+
+Electricity - biomass
+
+67
+
+127
+
+Electricity - geothermal
+
+1
+
+10
+
+31
+post: Ulica grada Vukovara 284, Zagreb, Croatia
+web: https://www.hrote.hr
+contact: hrote@hrote.hr and go@hrote.hr
+
+Number of account
+holders in their
+EECS registry
+
+33 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+As the Authorized Body we want to keep improving our
+services to meet the increased demand for certified
+use and production of RES electricity.
+
+Area of operation:
+Cyprus
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+Michalis Syrimis
+Member Representative
+
+Zena Scotti Nikolaou
+Alternate Member Representative
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+• Successful maintenance of 100% compliance with EECS technical
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+• Steady growth in the registration of new solar PV installations.
+standards.
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+38
+
+101
+
+Electricity - wind
+
+6
+
+158
+
+Domain’s 2025 GO update
+
+Electricity - biogas
+
+3
+
+2
+
+Registry of Guarantees of Origin (GO) in Cyprus.
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+
+Furthermore, four solar plants (14 MW total) were registered in the EECS
+
+Energy carrier and type
+
+• Continued expansion of the domestic GO market for retail electricity
+
+Energy carrier and type
+
+suppliers.
+• Processing of 252 GWh in GO cancellations for local consumption.
+
+In 2025, nine solar plants (10MW total) were registered in the Electronic
+
+Scheme. With that, we reached a total installed capacity of 443 MW in
+the electronic registry.
+
+Electricity - solar
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+165
+
+195
+
+44
+Number of account
+holders in their
+EECS registry
+
+post: Evangelistrias 68, Strovolos, 2057, Nicosia, Cyprus
+web: www.tsoc.org.cy
+			 https://tsoc.org.cy/electricity-market/supplier-energy-mix-disclosure-2/
+contact: msyrimis@dsm.org.cy and zsnikolaou@dsm.org.cy
+34 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+In 2026, we will launch auctions for Guarantees of Origin
+(GO) with state sales of supported production, and
+develop the link of our national database to the EU Union
+Database (UDB) for gaseous fuels.
+
+Area of operation:
+Czech Republic
+AIB Member of the
+Electricity Scheme Group
+and the Gas Scheme Group
+Representatives to AIB:
+Martina Gabriel
+General Meetings
+and Chair to the ESG
+Tomáš Veverka
+ESG, GSG, EECSU
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+• GOs for nuclear electricity: 10.86 M issued (84% of total; +200% YoY)
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+• Electricity GOs issued: 12.87 M (+121% YoY)
+• International transfers: + 43 % in / + 44 % out via the AIB Hub
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+2 814
+
+2816
+
+Electricity - wind
+
+89
+
+385
+
+Electricity - hydro
+
+718
+
+2 273
+
+Electricity - biomass
+
+76
+
+2 455
+
+first imports via the AIB Hub. OTE runs a multi-domain EZP registry
+
+Electricity - nuclear
+
+2
+
+4 346
+
+(electricity/biomethane/heat/hydrogen).
+
+Electricity - Fossil
+
+730
+
+9 311
+
+Gas – Other renewable gases
+
+11
+
+25
+
+• Biomethane GOs: 170 668 issued (+194%)
+
+Domain’s 2025 GO update
+
+Electricity GO issuance was dominated by nuclear (10.86m; 84% of
+12.87m) and mainly exported, while domestic consumption relied on
+imported RES GOs. Biomethane grew (170,668 issued) and 2025 saw
+
+Petr Bican
+ISU
+
+Energy carrier and type
+
+Petra Jindrová
+ISU
+
+2 874
+Number of account
+holders in their
+EECS registry
+
+post: a.s. Jihlavská 1558/21, Praha 4 Michle, PSČ 140 00, Česká republika
+web: https://www.ote-cr.cz/en/gos_and_allowances/guarantees-of-origin/
+			 important-information?set_language=en
+contact: zaruka@ote-cr.cz
+35 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+Energinet will update the guidelines for issuing electricity GOs
+in 2026 to enable the issuance of GOs for co-located and hybrid
+production devices without requiring additional metering.
+
+Area of operation:
+Denmark
+AIB Member of the
+Electricity Scheme Group
+and the Gas Scheme Group
+Representatives to AIB:
+
+Jeppe Bjerg
+Representative to the General
+Meeting, GSG and EECS Unit
+Sofie M. Skov, Kristoffer M. Mitens
+and Lea E. Djurhuus
+Representatives to the ESG
+
+Highlights from 2025
+
+• Revised a national executive order including GOs for small 		
+production devices (<50 kW).
+• Progress in developing a connection-model that links gas GOs
+with PoS in the Union Database (UDB).
+• The number of account holders in the Danish electricity register
+grew to 55.
+• Released simplified disclosure guidelines for electricity.
+
+Domain’s 2025 GO update
+
+Energinet issues both EECS electricity GOs and gas GOs. In 2025,
+
+Scope of national participation in EECS
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+871
+
+3 385
+
+Electricity - wind
+
+3 416
+
+7 382
+
+Electricity - hydro
+
+3
+
+5
+
+Electricity - biomass
+
+108
+
+3 101
+
+Electricity - other RES
+
+1
+
+79
+
+Energy carrier and type
+
+Energinet issued GOs for 100% of all renewable gas injected into the
+gas system and for more than 90% of renewable electricity. Most issued
+electricity GOs were wind-based, with wind GOs accounting for 67%
+
+Dorte G. Kristiansen
+Representative to the GSG
+
+of total issuance in 2025.
+
+55
+Number of account
+holders in their
+EECS registry
+
+post: Tonne Kjærsvej 65, 7000 Fredericia, Denmark
+web: Common questions, documents and forms including Energinet’s domain
+				protocol for electricity: https://en.energinet.dk/electricity/green				electricity/guarantees-of-origin/
+				Energinet’s annual magazine: https://en.energinet.dk/about-our-reports/
+				reports/annual-magazine-2025/
+contact: afregning@energinet.dk (contact e-mail for electricity GOs)
+						 gascertifikat@energinet.dk (contact e-mail for gas GOs)
+36 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+Our primary objective is facilitating biomethane GO transfers
+via the AIB Hub, while further promoting the harmonization of
+cross-border solutions and accounting frameworks for gas
+certificates.
+
+Area of operation:
+Estonia
+AIB Member of the
+Electricity Scheme Group
+and the Gas Scheme Group
+Representatives to AIB:
+River Tomera
+Member of the Board,
+General Meeting, GSG
+Anne Mändmets
+ESG & EECS Unit
+
+Highlights from 2025
+
+• Biomethane production and issued Guarantees of Origin (GO) 		
+increased 10%
+• Kicked off the issuance of hydrogen GOs
+
+Scope of national participation in EECS
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+6 550
+
+797
+
+Domain’s 2025 GO update
+
+Electricity - wind
+
+42
+
+693
+
+After having joined AIB’s Gas Scheme in 2024, all biomethane GOs
+
+Electricity - hydro
+
+17
+
+6
+
+issued from 2025 onwards are recognised as EECS GOs.
+
+Electricity - biomass
+
+20
+
+397
+
+Electricity - other RES
+
+3
+
+1
+
+We launched a dedicated webpage, www.elextra.ee, to provide greater
+
+Electricity - Fossil
+
+16
+
+1 167
+
+transparency on energy production and consumption in Estonia.
+
+Gas - Biomethane
+(Anaerobic Digestion)
+
+9
+
+48
+
+• Expanded GO issuance to fossil-based electricity
+
+In 2025, Elering started to issue hydrogen GOs (RFNBO, renewable, and
+fossil).
+
+Krisli Kõrgesaar
+GSG
+
+Energy carrier and type
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+
+Heidi Hüüs
+ISU, Technical contact
+
+Energy carrier and type
+
+Gas - Electrolytic hydrogen
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+1
+
+1
+
+888
+post: Kadaka tee 42, 12915, Tallin, Estonia
+web: www.elextra.ee/en
+contact: go@elextra.ee
+
+Number of account
+holders in their
+EECS registry
+37 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+The Finnish regulation on Guarantees of Origin for
+Energy will be revised due to RED III and CEN EN 16325:
+2025 implementation.
+
+Area of operation:
+Finland
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+to 57% while nuclear energy contributed 40%. Almost all, 97%, of Finnish
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+In 2025, Finland’s share of renewable electricity production amounted
+electricity production is eligible for GO issuance. Most new power plants
+that joined the registry in 2025 produce wind and solar energy.
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+33
+
+274
+
+Energy carrier and type
+
+Kaija Niskala
+GM & EECS Unit
+
+Domain’s 2025 GO update
+
+Electricity - wind
+
+405
+
+9 527
+
+Finland operates a multidomain setup with three government-appointed
+
+Electricity - hydro
+
+168
+
+3 292
+
+Veea Pulkkinen
+EECS Unit, ESG
+
+Issuing Bodies (IB): Fingrid Oyj for electricity, Gasgrid Finland (gas/
+
+Electricity - biomass
+
+72
+
+4 383
+
+Electricity - nuclear
+
+3
+
+4 394
+
+Samuli Konttinen
+ISU
+
+closely. All three IBs cooperate closely across domains.
+
+Electricity - other RES
+
+6
+
+384
+
+hydrogen), and the Energy Authority (heating/cooling). Fingrid has
+appointed this task to its fully owned subsidiary Finextra Oy to operate
+
+Guided by our values of openness, integrity, efficiency, and responsibility,
+we continuously improve by collecting customer feedback.
+
+91
+Number of account
+holders in their
+EECS registry
+
+post: Läkkisepäntie 21, 00620 Helsinki Finland
+web: https://www.fingrid.fi/en/electricity-market/guarantees-of-origin/
+			 https://www.fingrid.fi/en/electricity-market-information/transactions-of-gos2/
+contact: go@finextra.fi
+38 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+RED III implementation related to Guarantees of Origin
+updates national legislation and clarifies compliance
+with the CEN EN 16325: 2025 standard.
+
+Area of operation:
+Finland
+
+Highlights from 2025
+
+• Strengthened our role in the European GO market as cross-border
+activity increased.
+
+AIB Member of the
+Gas Scheme Group
+
+• Issued the first Finnish hydrogen GOs.
+
+Representatives to AIB:
+
+• Continued to develop our customer service, with customer feedback
+
+Heli Haapea
+General Meeting, EECS Unit
+and GSG
+
+• Saw strong growth in biomethane use, with imported volumes 		
+increasing.
+indicating a very high level of service.
+
+Scope of national participation in EECS
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Gas - Biomethane
+(Anaerobic Digestion)
+
+2
+
+*
+
+Gas - Electrolytic hydrogen
+
+1
+
+*
+
+Gas - Other renewable gases
+
+1
+
+*
+
+Domain’s 2025 GO update
+
+The Finnish gas GO market extended from only biogas to including
+hydrogen with the first hydrogen GOs issued, while demand of biogas
+GOs continued to grow. Finish market transparency and tradability are
+supported by separate Issuing Bodies: Fingrid/Finextra for electricity,
+Gasgrid Finland for gas and hydrogen, and the Energy Authority for
+heating and cooling.
+
+post: Keilaranta 13-19 B, 02150 Espoo, Finland
+web: www.gasgrid.fi/en/
+contact: customerservice@gasgrid.fi
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Gas - Biomethane
+(Anaerobic Digestion)
+
+17
+
+N/A
+
+Gas - Electrolytic hydrogen
+
+1
+
+N/A
+
+* ‘Cannot be published due to limited number of production facilities.
+39 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+EEX is driving the cross-border exchange of biogas via the AIB
+Hub. Meanwhile we are scaling the power GO market through
+improved registry API, more auctions, and a wider range of
+futures products.
+
+Area of operation:
+France
+AIB Member of the
+Electricity Scheme Group
+and Gas Scheme Group
+Representatives to AIB:
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+June 2025 marked the launch of France’s CPB registry by EEX, with
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+In 2025, EEX issued more than 12.5 TWh of biogas GOs to 132 members.
+2 TWh issued. The power registry migrated to G-REX, with over 100TWh
+issued. It recorded a total of 75 TWh of cancellations and 31,000
+production devices.
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+26 509
+
+17 481
+
+Electricity - wind
+
+2 192
+
+22 745
+
+Electricity - hydro
+
+2 309
+
+24 097
+
+Electricity - biomass
+
+943
+
+1 926
+
+Electricity - geothermal
+
+1
+
+2
+
+Energy carrier and type
+
+Lena Mueller Lohse
+Business developer – Biogas
+
+Domain’s 2025 GO update
+
+Aude Filippi
+Director of Business Development
+
+power GO registry to the API driven platform G-REX, EEX joined the AIB
+Production (CPB) was launched. 2025 also saw GO trading at EEX
+
+Electricity - nuclear
+
+18
+
+61 650
+
+Blaise Farrokhi
+Senior Business Developer – Power
+
+surging, with 40 TWh in power auctions, 0.6 TWh in biogas auctions,
+
+Electricity - other RES
+
+1
+
+240
+
+Gas - Biomethane
+(Anaerobic Digestion)
+
+28
+
+38
+
+Gas - Biomethane
+(Thermal Gasification)
+
+769
+
+1 725
+
+Valentine Deroche
+Business developer
+(to be replacing Lena)
+
+2025 was a year of major developments for France: Migration of the
+Gas Scheme for biogas GOs, and the registry for Certificates of Biogas
+
+and 36 TWh in the GO futures market.
+
+339
+post: 5 bd Montmartre, 75002 Paris, France
+web: https://www.eex.com/fr/markets/energy-certificates/registre			 des-garanties-dorigine-du-biogaz
+			 https://www.eex.com/en/markets/energy-certificates/french-power-gos
+contact: presse@eex.com
+
+Number of account
+holders in their
+EECS registry
+
+40 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+We continue to strengthen the integration into the EU GO
+market, continue to scale GO adoption within the corporate
+banking sector, and prepare further for the future recognition
+of Georgian GOs by European markets.
+
+Area of operation:
+Georgia
+Observer to the
+Electricity Scheme Group
+Representatives to AIB:
+
+Highlights from 2025
+
+• Recorded surging market interest in GO and a growing number of
+GO cancellations.
+• Removed major barriers to EU GO recognition with a draft
+Energy Community decision.
+
+Zviad Gachechiladze
+Member of Board of Directors
+
+Domain’s 2025 GO update
+
+Nodar Ruadze
+Head of Department
+
+banking sector adopted GOs for corporate sustainability reporting.
+
+Onise Chichinadze
+Senior Specialist
+
+connection, Georgian GOs continue to gain international recognition.
+
+Scope of national participation in EECS
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - wind
+
+1
+
+21
+
+Electricity - hydro
+
+52
+
+2 649
+
+Energy carrier and type
+
+2025 saw a surge in Georgian GO demand, particularly as the
+Our electricity-only registry is now better aligned with EU standards
+following a series of regulatory reforms. Despite a lack of physical grid
+
+Nutsa Osiashvili
+Leading specialist
+
+post: 2 Nikoloz Baratashvili St, T’bilisi, Georgia
+web: https://www.gse.com.ge/Balancing-Market/Guarantees_of_origin_
+			 (GO)_for_Electricity/
+contact: onise.chichinadze@gse.com.ge
+41 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+Design and implementation of the new registries
+for gas (hydrogen) and heating/cooling takes
+the top priority.
+
+Area of operation:
+Germany
+
+Scope of national participation in EECS
+
+Highlights from 2025
+
+• Run a pilot project to integrate HKNR with the National Once-Only1
+
+AIB Member of the
+Electricity Scheme Group
+
+• Revised HkRNDV3, e.g. to prohibit the individual use of expired GOs
+
+Representatives to AIB:
+
+• Draft legislation for German gas disclosure currently in consultation
+
+Elke Mohrbach
+AIB Board, EECSU, ESG and
+Disclosure Platform
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+Technical-System (NOOTS2) to exchange data
+
+every year
+
+Domain’s 2025 GO update
+
+Katja Merkel
+ISU Chair and GSG
+
+In 2025, we issued 46 million EECS electricity GOs and importing 217
+
+Lukas Jany
+ESG
+
+grew by a staggering 271%.
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+2 025
+
+13 794
+
+Electricity - wind
+
+4 371
+
+25 910
+
+Electricity - hydro
+
+326
+
+4 987
+
+Electricity - biomass
+
+180
+
+11 333
+
+Energy carrier and type
+
+• New legal mandate: Electricity disclosure must be published by 1 July
+
+million GOs makes Germany the largest importer of GOs in Europe.
+Since UBA joined AIB as a full member in 2016, the number of imports
+
+6 167
+
+Since the 2024 GWKHV mandate, the UBA’s competence has evolved
+from electricity into a multi-carrier registry authority. We now also
+govern the legal and technical frameworks for gas, hydrogen, and
+
+Number of account
+holders in their
+EECS registry
+
+heating/cooling GOs. We hold full mandate over registry operations,
+framework compliance, and fee structures across all energy carriers.
+
+Herkunftsnachweisregister: the German GO registry for renewables
+The “Once-Only” system is a major EU/National digital initiative so that citizens/companies
+only have to provide data to the government once.
+3
+Herkunftsnachweis-Register-Durchführungsverordnung: the ordinance governing the registry’s
+operation
+1
+
+post: P.O. Box 1406, 06813 Dessau-Roßlau, Germany
+web: www.umweltbundesamt.de
+			 www.hknr.de
+
+2
+
+42 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+In 2026, our key focus is expanding the registry to
+biogas/biomethane and RFNBOs, alongside regulatory
+amendments enabling biogas/RFNBO GO issuance,
+transfer and cancellation.
+
+Area of operation:
+Greece
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+
+Highlights from 2025
+
+• In 2025, we conducted eight auctions with a total of 5.5 TWh
+of Guarantees of Origin (GO) being sold.
+• We issued 25 TWh of GOs, while 4 TWh GOs were exported and
+21 TWh GOs were cancelled.
+
+Scope of national participation in EECS
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+22 105
+
+8 401
+
+Energy carrier and type
+
+Maria Koulouvari
+Member of the Board,
+General Meeting, EECS Unit, ESG
+
+Domain’s 2025 GO update
+
+Electricity - wind
+
+413
+
+5 193
+
+2025, GOs issued for electricity produced from RES and HEC production
+
+Electricity - hydro
+
+155
+
+4 253
+
+devices remained broadly stable at 2024 levels, while imports increased
+
+Electricity - biomass
+
+138
+
+139
+
+Giorgos Antonopoulos
+ISU, GSG
+
+significantly to around 3 TWh. Demand was primarily driven by
+
+Electricity - Fossil
+
+48 (HEC)
+
+481
+
+suppliers, with traders showing strong interest, supported by ongoing
+policy developments, PPAs and ESG-related requirements.
+
+163
+Number of account
+holders in their
+EECS registry
+
+post: 72, Kastoros str., Piraeus, GR 185 45, Greece
+web: www.dapeep.gr
+contact: go@dapeep.gr
+43 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+Our primary focus for 2026 is the formal adoption and
+implementation of the Gas Amendment to the Hungarian
+Domain Protocol, which will enable us to issue and trade
+EECS GOs for the gas sector.
+
+Area of operation:
+Hungary
+Observer to the
+Electricity Scheme Group
+Representatives to AIB:
+Dr. Nikoletta Nagy
+Representative to the
+GM, GSG, EECS Unit
+Péter Luzsányi
+Representative to the
+GM, EECS Unit
+Bence Sólyom
+Representative to
+ESG, Communications
+Dr. Miklós Budai
+Representative to ESG
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+renewable electricity generation capacity and more than 70% of green
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+
+In Hungary, solar power plants accounted for more than 85% of installed
+electricity generation.
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+3 168
+
+5 950
+
+providers) aggregating household size production devices. 25.16 TWh
+
+Electricity - wind
+
+61
+
+287
+
+of electricity GOs were issued in 2025 (nearly four times more than in
+
+Electricity - hydro
+
+22
+
+51
+
+Electricity - biomass
+
+30
+
+1 088
+
+Electricity - geothermal
+
+4
+
+3
+
+Electricity - nuclear
+
+1
+
+2 026
+
+Energy carrier and type
+
+In 2025 the amendment of the Hungarian Domain Protocol was
+concluded to include issuing nuclear GOs and (for universal service
+
+2024 – mainly due to the electricity production of the household size
+production devices and the nuclear GOs.)
+
+Domain’s 2025 GO update
+
+The Hungarian GO market underwent a major expansion in 2025
+by introducing tracking for nuclear energy and implementing an
+aggregation model for small-scale household producers. By enabling
+this bundling, we successfully integrated decentralized solar generation
+into the national tracking system increasing market transparency and
+the volume of available low-carbon certificates.
+
+Diána Árki
+Representative to GSG
+
+Number of account
+holders in their
+EECS registry
+
+Amelita Galambos-Kovács
+Communications, Statistics,
+Data Management
+Dr. Tibor Orova
+Representative to ISU
+Bálint Nyilas
+Representatives to ISU
+
+218
+
+post: Hungary 1054 Budapest, Bajcsy-Zsilinszky út 52
+web: https://mekh.hu/home
+				https://mekh.hu/guarantees-of-origin
+				https://mekh.hu/megujulo-gaz-szarmazasi-garancia (Hungarian version)
+contact: go@mekh.hu & gazgo@mekh.hu
+44 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+In 2026 the focus will be to further build on the 2025
+regulatory updates by strengthening the reliability
+of GO issuance and improving supporting processes.
+
+Area of operation:
+Iceland
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+
+Highlights from 2025
+
+• We updated the regulatory framework for Guarantees of Origin
+(GO) plant certification
+• Formalised procedures governing GO issuance processes
+• Implemented standardised application form for GO requests
+• Strengthened information requirements for GO applicants
+
+Ragnar Sigurbjörnsson
+Þorvaldur Jacobsen
+
+Domain’s 2025 GO update
+
+Scope of national participation in EECS
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - wind
+
+2
+
+4
+
+Electricity - hydro
+
+67
+
+2 113
+
+Electricity - geothermal
+
+13
+
+758
+
+Energy carrier and type
+
+The Icelandic GO market has remained stable, with consistently
+high issuance volumes and a predictable renewable generation mix.
+Increasing cancellation activity by power intensive industries signalled
+stronger in domain use of GOs.
+
+12
+Number of account
+holders in their
+EECS registry
+
+post: Gylfaflöt 9, 112 Reykjavík, Iceland
+web: https://landsnet.is/vidskipti/upprunaabyrgdir/
+contact: landsnet@landsnet.is
+45 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+New registry software procurement to commence
+issuing GO’s and allow for connection to the
+AIB Gas Scheme Group.
+
+Area of operation:
+Ireland
+AIB Member and Applicant
+of the Gas Scheme Group
+Representatives to AIB:
+
+Brendan O’Riordan
+Green Gas Certification Lead
+Padraig Fleming
+Biomethane Program Manager
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+Guarantees of Origin (GO) in 2022. The Commission for the Regulation
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+
+Gas Networks Ireland was appointed as Issuing Body for renewable gas
+of Utilities published the Supervisory Framework for the Issuance
+of renewable gas GOs in March 2026. Gas Networks Ireland is now
+procuring new software to commence issuing GOs in Q1 2027.
+
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Gas - Biomethane
+(Anaerobic Digestion)
+
+2
+
+120
+
+Domain’s 2025 GO update
+
+Gas Networks Ireland has operated a voluntary registry, issuing book
+and claim, and mass-balance type certificates since 2020. Two GWh
+of biomethane was imported monthly in 2025 from Germany via the
+Nabisy database and mass-balanced through the EU gas grid to Ireland
+for use as a renewable transport fuel.
+
+post: Gas Networks Ireland Headquarters Gasworks Road Cork, T12 RX96, Ireland
+web: www.gasnetworks.ie/network/biomethane/registry
+contact: rngcertificates@gasnetworks.ie
+46 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+For 2026, SEMO is exploring, in conjunction with
+the regulator, the feasibility of implementing
+GO issuance for a new fuel type: Biomass.
+
+Area of operation:
+Ireland
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+Glen Kelly
+Market Controller
+Ronan Byrne
+Market Controller
+
+Highlights from 2025
+
+• SEMO saw an increase of 11% in registered scheme participants and
+an increase of 8% in registered production devices from 2024.
+• The volume of cancelled Guarantees of Origin (GO) rose significantly
+from 49% in 2024.
+• Market participants signalled strong interest in expanding GO 		
+issuance to new renewable fuel types.
+
+Domain’s 2025 GO update
+
+SEMO has seen continued growth in the GO market in 2025, with a 20%
+
+Scope of national participation in EECS
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+26
+
+650
+
+Electricity - wind
+
+121
+
+1 677
+
+Electricity - hydro
+
+41
+
+241
+
+Energy carrier and type
+
+increase in GOs issued from 2024.
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+
+The Single Electricity Market (SEM) is the all-island wholesale electricity
+
+Energy carrier and type
+
+market operating in Ireland and Northern Ireland. SEMO is a contractual
+joint venture between EirGrid plc. (The Transmission System Operator
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+1
+
+85
+
+Electricity - wind
+
+for Ireland) and SONI Limited (the System Operator for Northern
+Ireland).
+
+99
+Number of account
+holders in their
+EECS registry
+
+post: EirGrid plc, The Oval, 160 Shelbourne Road, Ballsbridge Dublin, D04 FW28, Ireland
+web: www.sem-o.com
+contact: guaranteesoforigin@sem-o.com
+47 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+GSE has defined the GO-process in Heating and
+Cooling sector that will be fully implemented in
+2026. Also, GSE is working on the transposition
+of the EU Directive 2023/2413.
+
+Area of operation:
+Italy
+AIB Member of the
+Electricity Scheme Group
+and Gas Scheme Group
+Representatives to AIB:
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+among energy-intensive companies, encouraging emission cuts and
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+
+Italian energy regulation promotes energy efficiency and renewable use
+cleaner energy sources. The Energy Release mechanism also supports
+new renewable capacity, creating a new category of end users whose
+consumption is certified through GO cancellation.
+
+Attilio Punzo
+Head of Settlement Management
+
+Domain’s 2025 GO update
+
+Gianmarco Piamonti
+General meeting, EECS, ESG
+
+for electricity. It has also registered 114 million GOs cancelled for
+
+Floriana Furno
+GSG
+
+end customers.
+
+In 2025, GSE issued 116 million GOs, 5 million for gas and 111 million
+consumption period 2025 (+24% respect to the previous year). This
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+258 059
+
+29 571
+
+Electricity - wind
+
+5 328
+
+12 469
+
+Electricity - hydro
+
+4 891
+
+21 345
+
+Electricity - biomass
+
+3 103
+
+4 062
+
+Electricity - geothermal
+
+34
+
+817
+
+Energy carrier and type
+
+confirms a growing awareness of green energy consumption among
+
+Marta Grassilli
+ISU
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Gas - Biomethane
+(Anaerobic Digestion)
+
+134
+
+1 104
+
+9 800
+post: Viale Maresciallo Pilsudski, 92, 00197 Rom, Italy
+web: https://uuapp.plus4u.net/uu-webkit-maing02/b2590aa7399f4726
+			 a99ff12b32d9805e/home
+contact: direzione.rit@gse.it
+
+Number of account
+holders in their
+EECS registry
+
+48 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+During 2026, the Board of ERO will adopt the Rules on Guarantees
+of Origin and the fee for GOs. This will be the legal basis for parties
+to apply to ERO for GOs.
+
+Area of operation:
+Kosovo*
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+AIB Member of the
+Electricity Scheme Group
+
+transposed into the Law on RES, and the secondary legislation for
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+
+Representatives to AIB:
+
+with feed-in tariffs for some of the RES generators has expired in 2025,
+
+Ymer Fejzullahu
+Formal member representative
+to the GM
+Petrit Pepaj
+Alternate to GM
+Hysnije Rexhaj
+Representative to the ESG, EECS
+Unit and Alternate for annual report
+& Communication topics; HUB
+Environment and Technical Contact;
+Statistics
+
+Provisions of the EU Renewable Energy Directive (RED) have been
+Guarantees of Origin (GO) was drafted. We are focused on aligning our
+framework for a future transition towards the issuance of EECS GO. PPA
+so they can apply to ERO for Guarantees of Origin from 2026.
+
+Domain’s 2025 GO update
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+14
+
+35
+
+Electricity - wind
+
+3
+
+137
+
+Electricity - hydro
+
+25
+
+128
+
+Electricity - biomass
+
+1
+
+1
+
+Energy carrier and type
+
+On 26 November 2025, ERO officially became an AIB Member and an
+Applicant to the Electricity Scheme Group. Since then, we have been
+aligning our national legislation to prepare for full scheme membership
+soon. With the support of AIB as the European backbone for GOs,
+Kosovo* is preparing to certify, trade, & grow its renewable energy future.
+
+Artan Selmani
+Representative to ISU and Alternate
+to the EECS Unit
+Petrit Krasniqi
+Representative to HUB Environment
+and Technical Contact; Alternate to
+ESG, ISU, and Statistics
+
+post: Str. Bekim Fehmiu (ex-Fazita Building) 2nd floor, Prishtina, 10000, Republic of Kosova*
+web: www.ero-ks.org
+
+Lindita Daija
+Annual Report & Communication
+topics
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.
+49 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+In 2026, work will focus on optimizing audit procedures
+within the GO system.
+
+Area of operation:
+Latvia
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+
+Aigars Sīlis
+AIB Member and member of
+GM, ISU, EECS, ESG
+Elīna Stalgēviča
+(Alternative) - AIB Member
+and member of ISU, EECS, ESG
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+enabled Guarantees of Origin (GO) with “Battery Energy Storage
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+We launched our five-year audit, updated our Domain Protocol and
+Systems” (BESS), a major technical milestone. Our registry is now
+capable of issuing GOs for energy that has been stored in a battery
+before being fed back into the grid.
+
+Domain’s 2025 GO update
+
+2025, the GO market in Latvia developed further through improvements
+to the national framework. The updated Domain Protocol introduced a
+framework for issuing GOs where BESS is installed at a production unit
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+101
+
+371
+
+Electricity - wind
+
+39
+
+137
+
+Electricity - hydro
+
+82
+
+1 580
+
+Electricity - biomass
+
+60
+
+118
+
+Electricity - fossil
+
+7
+
+858
+
+Energy carrier and type
+
+and clarified cases where audits are not required, reducing compliance
+costs for market participants.
+
+261
+Number of account
+holders in their
+EECS registry
+
+post: 86 Darzciema str., Rīga, LV-1073, Latvia
+web: www.ast.lv/en/content/guarantees-origin
+contact: go@ast.lv
+50 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+In 2026, the market is expected to further develop
+alongside anticipated growth in biomethane production
+volumes and increased number of issued EECS GOs.
+
+Area of operation:
+Latvia
+AIB Member of the
+Gas Scheme Group
+Representatives to AIB:
+
+Ance Ansone and Jānis Eisaks
+General Meeting, GSG
+and EECS Unit
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+• The number of our registered account holders increased from
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+• The number of registered production devices grew from 4 to 9.
+10 to 17.
+• We expanded our active cross-border transfers across the EU 		
+markets. Our exports reached Austria, Spain, Finland, Czech
+Republic and the Netherlands.
+
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Gas - Biomethane
+(Anaerobic Digestion)
+
+9
+
+52
+
+Domain’s 2025 GO update
+
+In 2025, the Guarantees of Origin (GO) market in Latvia showed
+steady growth, driven by increased participation and cross-border
+activity. A multi-domain setup enabled efficient transfers across several
+EU countries, supporting transparent tracking of renewable energy
+attributes.
+
+17
+Number of account
+holders in their
+EECS registry
+
+post: Stigu iela 14, Riga, LV-1084, Latvia
+web: https://conexus.lv/guarantees-origin
+contact: go@conexus.lv
+51 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+In 2026, we are connecting new biomethane plants to
+the gas infrastructure in Lithuania. On top of that, we
+expect the entry of new traders to boost the growth of
+cross-border trade.
+
+Area of operation:
+Lithuania
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+AIB Member and Applicant
+to the Gas Scheme Group
+
+on August 28, 2025. We then connected to the AIB Hub on December
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+Representatives to AIB:
+
+Lina Rudzianskiene
+Renewable energy project manager
+General meetings and Working
+GroupsCo-Chair to the GSG
+
+Amber Grid became an official member of the AIB Gas Scheme Group
+19, 2025.
+
+Domain’s 2025 GO update
+
+Amber Grid’s membership in the AIB Gas Scheme Group enables the
+
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+8
+
+58
+
+Gas – Renewable methane
+with confirmed sustainability
+criteria met
+
+exchange of Guarantees of Origin (GOs) with other EU registries. By that,
+we ensure efficient trade of renewable gas for Lithuanian biomethane
+market participants across Europe to the registries connected to the
+AIB Hub.
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+8
+
+58
+
+Gas – Renewable methane
+with confirmed sustainability
+criteria met
+
+27
+Number of account
+holders in their
+EECS registry
+
+post: Laisves pr. 10, 0425 Vilnius, Lithuania
+web: https://ambergrid.lt/en/green-gas/guarantees-of-origin/626
+52 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+We are introducing fractional cancellation to allow GOs to be
+used in 1 kWh increments. By that, we modernize our registry
+and align with emerging international standards for highresolution environmental attribute tracking.
+
+Area of operation:
+Lithuania
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+Rimgailė Baliūnaitė
+General meetings
+and Working Groups
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+implementing RED III. With that we introduced rules for hybrid plants and
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+10 Oct 2025, Lithuania adopted updated Ministerial Order No. 1-298
+storage in the Guarantees of Origin (GO) system. These require network
+operators to provide plant data with producer authorization, and allow
+storage operators to use purchased GOs to prove the renewable origin
+of energy.
+
+Domain’s 2025 GO update
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+171
+
+575
+
+Electricity - wind
+
+184
+
+2 207
+
+Electricity - hydro
+
+77
+
+1 028
+
+Electricity - biomass
+
+29
+
+126
+
+Energy carrier and type
+
+2025, the GO market expanded compared to 2024. GOs issuance rose
+by about 20% from 4.78 TWh in 2024. The number of registered power
+plants increased by 70%, and the installed capacity by 33%. Currently,
+wind power dominates the mix, accounting for 56% of total installed
+capacity.
+
+256
+Number of account
+holders in their
+EECS registry
+
+post: Karlo Gustavo Emilio Manerheimo g. 8, LT-05131 Vilnius, Lithuania
+contact: go@litgrid.eu
+web: www.litgrid.eu/index.php/services/certification-of-origin/
+			 the-guarantee-of-origin-administration/582
+53 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+To enable ILR to issue GOs for many small renewable power
+plants, we are currently developing an automated interface
+between the national energy data hub and the Luxembourg
+GO register.
+
+Area of operation:
+Luxembourg
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+Claude Hornick
+Pamela Boeri
+Stéphane Schweich
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+registered in the Luxembourgish registry.
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+The volume of cancelled GOs continued to increase in 2025, with a total
+
+Energy carrier and type
+
+2025, three new account holders and one new production registrar were
+
+amount of 4 219 875 MWh, in comparison to 2024 (3 697 691 MWh) and
+2023 (3 768 605 MWh).
+
+Domain’s 2025 GO update
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+31
+
+33
+
+Electricity - wind
+
+23
+
+217
+
+Electricity - hydro
+
+2
+
+21
+
+Electricity - biomass
+
+6
+
+88
+
+2025 has not seen any significant changes for the Luxembourgish
+domain. GOs for electricity remained the only ones issued in Luxembourg.
+The significant increase in the volume of GOs used for cancelation
+underline the interest of suppliers to prove the renewable origin of their
+supplied energy.
+
+13
+Number of account
+holders in their
+EECS registry
+
+post: 17, rue du Fossé L-1536 Luxembourg, Luxembourg
+contact: info@ilr.lu
+web: https://www.ilr.lu/secteurs-activites/energie/electricite/
+				energie-renouvelable-partage/garanties-origine/
+54 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+We are focusing on securing a decision for the mutual
+recognition of our GO in the EU. By that, we will unlock
+international market access and solidify Montenegro’s
+role in the European energy transition.
+
+Area of operation:
+Montenegro
+AIB Member and Applicant
+to the Electricity Scheme
+Representatives to AIB:
+
+Branislav Banovic
+Formal member representative
+at the General Meeting
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+• Surging investor demand for EECS and EnC-compliant GO standards.
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+
+• Advanced national legislation to align with RED II renewable tracking.
+• Strategic integration of the national registry with regional EnC 		
+systems.
+• Enhanced collaboration with Energy Community Secretariat on GO
+issuance.
+
+Domain’s 2025 GO update
+
+Dusan Vucic
+Alternate representative to the GM
+
+In 2025, Montenegro’s GO market pivoted toward international
+
+Ana Zarkovic
+Representative for the ISU
+
+framework with EECS and EnC standards.capacity.
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+6
+
+6
+
+Electricity - wind
+
+2
+
+120
+
+Electricity - hydro
+
+34
+
+697
+
+Energy carrier and type
+
+standardization to meet surging demand for credible tracking. Driven
+by its role in the Energy Community, we focused on aligning our national
+
+Danilo Simovic
+Representative in the CPAU
+
+post: Radosava Burica 2/18, 81000, Podgorica, Montenegro
+web: www.cotee.me
+55 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+The new Dutch Energy Act just entered into force. Further, the EU
+requires Member States to introduce gas disclosure as of 2026.
+This year, we will focus on implementing such new legislation.
+
+Area of operation:
+The Netherlands
+
+Highlights from 2025
+
+• In 2025, VertiCer merged its registries for electricity, thermal energy
+and gases.
+
+AIB Member of the Electricity
+and Gas Scheme Group
+
+• On top of that, we became a member of the AIB Gas Scheme.
+
+Representatives to AIB:
+
+Domain’s 2025 GO update
+
+Scope of national participation in EECS
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+35 117
+
+14 778
+
+Electricity - wind
+
+1 663
+
+11 912
+
+Gas producers, in particular, have had to adapt. Though change is always
+
+Electricity - hydro
+
+20
+
+36
+
+a challenge, we are now better positioned to move forward and keep
+
+Electricity - biomass
+
+638
+
+18 306
+
+Electricity - nuclear
+
+1
+
+482
+
+Anna Venema
+GSG Co-Chair
+
+Electricity - other RES
+
+2
+
+2
+
+Gas - Biomethane
+(Anaerobic Digestion)
+
+120
+
+615
+
+Jerney Lubbers
+Natasja Godschalk-Kramer
+ISU Members
+
+Gas - Biomethane
+(Thermal Gasification)
+
+3
+
+80
+
+Ilona Bruens
+Former Treasurer
+
+Remco van Stein Callenfels
+EECS Unit Chair / ESG Member
+
+Energy carrier and type
+
+Merging our registries has significantly impacted our market participants.
+
+pace with legislative updates and market demands.
+
+Note:
+VertiCer cannot differentiate between renewable and fossil-based production facilities
+solely based on their registration data. The renewable or fossil attribution of their output
+is determined by the monthly energy sources actually utilised, rather than any inherent
+
+visiting: Lange Amerikaweg 55, 7332 BP Apeldoorn, Netherlands
+post: P.O. box 718, 6800 AS Arnhem, Netherlands
+web: www.verticer.eu
+
+technological characteristic. Consequently, all such facilities are aggregated and classified as
+renewable capacity within the system. Please note, however, that this classification pertains
+exclusively to installed capacity and does not reflect the actual renewable production share
+in the final output.
+56 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+MEMO strives for the AIB membership and establishing
+the GO market in 2026 following the implementation
+of the RES Law.
+
+Area of operation:
+North Macedonia
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+
+Zoran Gjorgjievski
+CEO - Scheme Observer
+representative to the General
+meeting
+
+Highlights from 2025
+
+• In April 2025, the National Electricity Market Operator MEMO, 		
+established the GO Registry in cooperation with Grexel.
+• In May, MEMO officially issued the first GOs for electricity generated
+by hydropower facilities.
+• We registered 23 producers with 202 MW installed capacity, 17 AH
+and more than 190.000 issued GOs.
+
+Scope of national participation in EECS
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+21
+
+83
+
+Electricity - hydro
+
+2
+
+119
+
+Energy carrier and type
+
+Denko Rafajlovski
+Head of Renewables energy unit
+Representative to the Electricity
+Scheme Group
+Mitko Ognenoski
+Head of Department for Renewable
+energy and organized market
+The Alternate
+
+post: Maksim Gorki 12, 1000 Skopje, North Macedonia
+web: www.memo.mk
+57 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+In 2026, we aim to stay technologically ahead for our users and
+committed to the adjustment of EECS rules to meet CEN EN16325
+and RED requirements to also maintain compliance for
+Norwegian producers.
+
+Area of operation:
+Norway
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+
+Ann-Christin Austang
+Board Chair, General Meeting,
+EECSU, ESG
+Kristian Røst Hagen
+ISU
+
+Highlights from 2025
+
+• Statnett issued 156.7 TWh of GOs after Norway produced a record
+161.8 TWh of electricity.
+• NECS has 190 registered accounts, reflecting Certigy’s technical
+quality and ease of use.
+• Norway adopted RED II under the EEA, June 2025, ensuring its
+role in Europe’s renewable energy transition.
+
+Domain’s 2025 GO update
+
+Scope of national participation in EECS
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+101
+
+76
+
+Electricity - wind
+
+64
+
+5 096
+
+Electricity - hydro
+
+1 500
+
+34 074
+
+Electricity - biomass
+
+6
+
+58
+
+Energy carrier and type
+
+In 2025, 1285 TWh of EECS GOs were traded through 68 640 transactions.
+In the NECS registry, demonstrating the value and reliability of the
+Norwegian system for the diverse market parties. Therefore, access to
+the AIB hub is cruical in such a large-scale operation, ensuring secure
+and efficient transfers with other registries.
+
+190
+Number of account
+holders in their
+EECS registry
+
+post: Nydalen allé 33, 0484 Oslo, Norway
+contact: opprinnelsesgarantier@statnett.no
+web: https://necs.statnett.no/
+58 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+We focus on enabling GO issuance for gases and the
+development of this sector, expanding the procedures
+to auto-consumption, storage and simplified registration
+for small production devices.
+
+Area of operation:
+Portugal
+AIB Member of the Electricity
+and Gas Scheme Group
+Representatives to AIB:
+Isabel Fernandes
+General Meeting
+
+Miguel Jerónimo
+AIB Board Member, General
+Meeting and EECS Unit
+Joana Pereira
+GSG
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+• First Biomethane GO operations – 1st import in April
+and 1st cancellation in May.
+• Cancellations increased 8%, making 2025 the fifth consecutive
+year of growth.
+• Registered production devices increased 18%, mainly driven
+by solar expansion.
+
+Domain’s 2025 GO update
+
+In 2025, the GO market stabilized after five years of growth, with
+slightly lower issuance but continued growth in cancellations, reflecting
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+728
+
+4 261
+
+Electricity - wind
+
+297
+
+5 927
+
+Electricity - hydro
+
+154
+
+8 284
+
+Electricity - biomass
+
+68
+
+710
+
+Electricity - Fossil
+
+70
+
+557
+
+Energy carrier and type
+
+sustained demand. The system expanded to renewable gases, enabling
+the first operations in this segment.
+Key upgrades in the EEGO system (dashboards, MFA, API, bulk cancel-
+
+Catarina Silva
+ESG
+
+lation) and harmonized processes improved efficiency, transparency
+and user experience.
+
+Thomas Rijo
+ISU
+
+474
+Number of account
+holders in their
+EECS registry
+
+post: Avenida dos Estados Unidos da América, 55 1749-061 Lisboa, Portugal
+contact: eego@ren.pt
+web: https://eego.ren.pt
+59 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+Our focus for 2026 is the launch of an online register for
+accounts and plants, enhancing market transparency
+and management efficiency.
+
+Area of operation:
+Serbia
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+Kovica Bibić
+EMS JSC representative,
+(GM, EECS Unit, ESG, ISU)
+
+Ivan Vasiljević
+Replacement member
+(GM, EECS Unit, ISU,
+Communication and Public
+Affairs Unit)
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+participated in a study on high-efficiency cogeneration. Together,
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+During 2025, together with the Ministry of Energy and Mining, we
+we developed a detailed plan, and we identified necessary legal
+amendments to enable the smooth start of HEC Guarantees of Origin
+(GO) issuance in Serbia.
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+9
+
+30
+
+Electricity - hydro
+
+34
+
+2 221
+
+Energy carrier and type
+
+Domain’s 2025 GO update
+
+As a third‑country under RED III, Serbia has faced challenges in the GO
+market in 2025, due to the lack of agreements with other EU member
+states. Once such agreements, mutual recognition of GOs issued in
+the EU and compatible GO systems established in that third country
+are in place, our GOs will be accepted for export. We expect this to
+significantly increase our GO trading volumes.
+
+55
+Number of account
+holders in their
+EECS registry
+
+Nikola Tošić
+Representative for Communication
+Marko Zarić
+Replacement member ESG
+
+post: 11 Kneza Miloša Street, 11000 Belgrade, Serbia
+contact: go@ems.rs
+web: https://ems.rs/en/guarantee-of-origin-2/
+60 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+OKTE is about to refurbish its GO auctions and open the
+sellers’ side to the market, by that, producers will gain
+the opportunity to offer their GOs in an auction.
+
+Area of operation:
+Slovakia
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+
+Highlights from 2025
+
+• Finalised the implementation of Guarantees of Origin (GO)
+for heating and cooling
+• Added the option to request GO issuance automatically
+• Changed the pricelist & cancelled the yearly fee for account 		
+administration
+
+Ondrej Kulich
+EECS, ESG and ISU
+Marek Pokrývka
+EECS, ESG and ISU
+Simona Kalinová
+EECS, ESG and ISU
+
+Domain’s 2025 GO update
+
+The Slovak GO market in 2025 was influenced by long droughts. That
+significantly lowered the amount of GOs issued for hydro power and
+raised the percentage of nuclear power in the energy mix of issued GOs.
+
+Scope of national participation in EECS
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+155
+
+79
+
+Electricity - wind
+
+2
+
+3
+
+Electricity - hydro
+
+56
+
+1 660
+
+Electricity - biomass
+
+4
+
+169
+
+Electricity - nuclear
+
+2
+
+2 475
+
+Electricity - Fossil
+
+1
+
+5
+
+Energy carrier and type
+
+Source: Slovenské elektrárne, a.s.
+
+179
+Number of account
+holders in their
+EECS registry
+
+post: Mlynské Nivy 48, 821 09, Bratislava, Slovakia
+contact: zpe@okte.sk
+web: www.okte.sk/en/guarantees-of-origin/
+61 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+We expect to connect five to seven additional Slovak
+biomethane plants to our DSO network, joining the
+AIB Gas Scheme Group (GSG) and starting gas
+EECS GO transfers via the AIB Hub.
+
+Area of operation:
+Slovakia
+
+Highlights from 2025
+
+• Submission of the Slovak Domain Protocol for gas Guarantees of
+Origin (GO) to AIB at the end of 2025.
+
+AIB Member and Applicant
+of the Gas Scheme Group
+
+• Two new biomethane plants connected to the SPPD DSO network.
+
+Representatives to AIB:
+
+Domain’s 2025 GO update
+
+Jergus Vopalensky
+Head of Public Affairs, Marketing
+Communication and Business
+Development
+Julius Roth
+Senior Environment & Energy
+Strategy Specialist
+
+Scope of national participation in EECS
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Energy carrier and type
+
+In 2025, the gas GO market in Slovakia grew significantly, with issued
+
+Gas – Renewable methane with
+confirmed sustainability
+criteria met
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+3
+
+8
+
+volumes increasing by approximately 57% year-over-year. As there is
+no direct operational support for biomethane production in Slovakia,
+enabling the export of GOs to demand centres, mainly in Western
+Europe, is essential. Hence, we strongly welcome the opportunity to
+begin the process of connecting the Slovak domain to the AIB HUB.
+
+Source: Slovenské elektrárne, a.s.
+
+Nina Mackovicova
+Green Energy Strategy and
+Marketing Specialist
+
+post: Platennicka 19013/2, 821 09 Bratislava 26, Slovakia
+contact: distribucia@spp-distribucia.sk
+web: www.spp-distribucia.sk/dodavatelia/register-obnovitelnych			 plynov/registry-of-renewable-gases/
+62 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+The biggest focus in 2026 for the Energy Agency
+of Slovenia will be the legislative and operational
+transfer of duties and responsibilities as the official
+Slovenian GO Issuing Body to Borzen.
+
+Area of operation:
+Slovenia
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+of Renewable Energy Sources has come into force, which defines
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+Since December 30, 2025, the New Act on the Promotion of the Use
+
+AIB Member of the
+Electricity Scheme Group
+
+that Borzen, the Slovenian Electricity Market Operator, will issue all
+Guarantees of Origin (GO) going forward from 2027.
+
+Representatives to AIB:
+
+There were 9 031 TWh of EECS GOs of transfers (imports and exports)
+
+Dejan Tasic
+Representative at GM,
+EECS Unit and ESG Unit
+
+through the AIB Hub.
+
+Domain’s 2025 GO update
+
+While we did not record major changes in the GO market, it is noticeable
+that the Slovenian transfers of EECS GOs throughout the AIB Hub have
+been steadily increasing over the past few years.
+
+Energy carrier and type
+
+Number of
+production devices
+
+Electricity - solar
+
+170
+
+27
+
+Electricity - hydro
+
+71
+
+1 037
+
+Electricity - biomass
+
+2
+
+2
+
+Electricity - nuclear
+
+1
+
+696
+
+Electricity - Fossil
+
+83
+
+21
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Energy carrier and type
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+3 043
+
+297
+
+Electricity - solar
+Electricity - wind
+
+3
+
+3
+
+Electricity - hydro
+
+261
+
+70
+
+57
+
+Electricity - biomass
+Electricity - Fossil
+
+Angleška izvedba
+
+Slovenska izvedba
+
+Total capacity installed
+per technology (MW)
+
+198
+
+30
+1 227
+
+5
+post: Strossmayerjeva 30, 2000 Maribor, Slovenia
+contact: info@agen-rs.si
+
+10
+
+Number of account
+holders in their
+EECS registry
+
+63 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+Continue issuing GOs to a growing number of hybrid
+storage facilities with renewable generation.
+
+Area of operation:
+Spain
+AIB Member of the
+Electricity Scheme Group
+Representatives to AIB:
+Jose Miguel Unsion
+GM, ESG, EECS Unit, ISU
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+for GO operations has been published on the GO website, allowing
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+An estimated schedule (typically every two weeks) of approval dates
+participants to predict transactions.
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+62 866
+
+35 612
+
+Electricity - wind
+
+1 753
+
+32 515
+
+Electricity - hydro
+
+1 749
+
+19 861
+
+Energy carrier and type
+
+In October 2025, a change was made to the regulation, allowing the
+export of GOs to those facilities that were receiving funding from a
+support scheme.
+
+Mateo Gine
+GM, ESG, EECS Unit. ISU
+
+Domain’s 2025 GO update
+
+Electricity - biomass
+
+246
+
+1 293
+
+Electricity - other RES
+
+2
+
+5
+
+Jose Antonio Castro
+GM, ESG, EECS Unit
+
+such as the entry into the GO system of hybrid storage facilities with
+
+Electricity - Fossil
+
+863
+
+5 257
+
+We anticipate that progress has been made in new types of issuing,
+renewable generation. In addition, interaction with the renewable gas
+GO system has continued, particularly through the conversion of GO in
+
+Francisco Javier Martinez
+ISU, Hub, Statistics, DMe
+
+electrolysers to produce renewable hydrogen.
+
+post: C/ Alcalá 47, 28014 Madrid, Spain
+web: https://gdo.cnmc.es/CNMC/
+64 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+2026 will be a pivotal year for the GO system as the REDIII
+transposition extends the scope to low-carbon gases
+and enables key updates for PoS and UDB integration.
+
+Area of operation:
+Spain
+AIB Member of the
+Gas Scheme Group
+Representatives to AIB:
+
+Highlights from 2025
+
+• 49 new account holders joined the Guarantees of Origin (GO) 		
+system, reaching 228 in total.
+• 2 547 GWh of GOs were transacted.
+• First-ever issuance of RFNBO GOs.
+
+Cecilia Perez Mazuela
+ISU representative
+
+Domain’s 2025 GO update
+
+Carmen Rodríguez Valdés
+GSG, EECSU and
+GM representative
+
+and a growing number of registered participants. The first issuance
+
+In 2025, the GdO market expanded strongly, with rising transactions
+of RFNBO hydrogen GOs marked a key milestone, and cross-border
+exchanges increased significantly through new countries joining the AIB
+Hub.
+
+Scope of national participation in EECS
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Gas – Renewable methane with
+confirmed sustainability
+criteria met
+
+18
+
+113
+
+Gas – Renewable methane
+without confirmed
+sustainability criteria met
+
+1
+
+3
+
+Gas - RFNBO renewable
+hydrogen
+
+4
+
+25
+
+Gas - Other renewable gases
+
+35
+
+198
+
+Energy carrier and type
+
+228
+Number of account
+holders in their
+EECS registry
+
+post: Paseo de los Olmos 19, Madrid, Spain
+web: www.gdogas.es
+contact: gdo_gts@enagas.es
+65 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+Sweden will start issuing gas GOs and become a full
+member of AIB’s Gas Scheme Group (GSG), on top of
+following the development with the Union Database
+(UDB).
+
+Area of operation:
+Sweden
+AIB Member of the
+Electricity Scheme Group
+and Observer of the
+Gas Scheme Group
+Representatives to AIB:
+
+Stefan Brolin
+Policy Adviser,Representative ISU
+Johan Forsman
+Policy Adviser, Representative GSG
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+(RED) II and III by preparing the new legislation in an orderly process
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+We have finalized the transposition of the Renewable Energy Directive
+that allows stakeholders to give input on the draft legislation. From
+2026, we will be issuing national Guarantees of Origin (GO) also for gas
+and heating/cooling, according to the new legislation.
+
+Domain’s 2025 GO update
+
+In 2025, legislation changed so that starting with the calculations
+for 2025, the National residual mix will be used instead of the Nordic
+residual mix
+
+Energy carrier and type
+
+Lina Lindegren
+Policy Adviser, Representative ESG
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+50
+
+381
+
+Electricity - wind
+
+1 899
+
+15 586
+
+Electricity - hydro
+
+377
+
+12 511
+
+Electricity - biomass
+
+17
+
+684
+
+Electricity - nuclear
+
+6
+
+7 072
+
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Energy carrier and type
+
+Petra Lindblom Haddad
+Policy Adviser, Representative GM
+
+Number of
+production devices
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+1 495
+
+497
+
+Electricity - wind
+
+1 075
+
+2 315
+
+Electricity - hydro
+
+784
+
+4 890
+
+Electricity - biomass
+
+172
+
+4 435
+
+Claudia Schnitter
+Policy Adviser, Representative EECSU
+
+483
+post: Box 310, 631 04 Eskilstuna Sweden
+web: www.energimyndigheten.se/en/
+contact: registrator@energimyndigheten.se
+
+Number of account
+holders in their
+EECS registry
+
+66 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+In 2026, Pronovo will focus on preparing its GO
+system for the quarterly electricity disclosure
+requirements entering into force in 2027.
+
+Area of operation:
+Switzerland
+AIB Member of the
+Electricity Scheme Group
+and Gas Scheme Group
+Representatives to AIB:
+
+Highlights from 2025
+
+Scope of national participation in EECS
+
+		 (GO system F) in January.
+
+Registered EECS production devices and total capacity installed per energy
+carrier and type
+
+•		 Successful launch of the new Guarantees of Origin system for fuels
+•		 Connection to the AIB hub for Gas GOs in November.
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+Electricity - solar
+
+317 404
+
+8 148
+
+Electricity - wind
+
+71
+
+100
+
+Electricity - hydro
+
+1 514
+
+17 207
+
+Pronovo operates GO systems for electricity and for renewable fuels. In
+
+Electricity - biomass
+
+455
+
+349
+
+2025, around 53 000 new photovoltaic installations received national
+
+Electricity - nuclear
+
+4
+
+3 015
+
+Electricity - other RES
+
+27
+
+328
+
+Electricity - Fossil
+
+208
+
+1 517
+
+Gas – Other renewable
+hydrogen
+
+5
+
+9
+
+Gas – Other renewable gases
+
+49
+
+73
+
+•		 CO2 emissions added to the cancellation statements of
+		 electricity GOs.
+
+Andrea Miksch
+GM, ESG, EEECSU,
+alternate to GSG
+
+Domain’s 2025 GO update
+
+Milada Mehinovic
+GSG, alternate to GM,
+ESG and EECSU
+
+subsidies, bringing the electricity GO system to roughly 320 000
+registered devices with 29 146 MW of installed capacity. The GO system
+for fuels comprises 54 renewable production devices, totalling 82 MW.
+
+Sabrina Philipp
+ISU
+
+Energy carrier and type
+
+Veronika Holzwarth
+alternate for ISU
+
+3 310
+post: Dammstrasse 3, 5070 Frick, Switzerland
+web: www.pronovo.ch/de/herkunftsnachweise/information/
+			 herkunftsnachweise-hkn/
+contact: info@pronovo.ch
+
+Number of account
+holders in their
+EECS registry
+
+67 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+Ukraine aims to enable future GO trade with the EU
+and the Energy Community, based on the principle
+of reciprocity, ensuring full compliance with EECS
+Rules and a reliable disclosure system.
+
+Area of operation:
+Ukraine
+AIB Member and Applicant of
+the Electricity Scheme Group
+Formal member
+representatives:
+
+Ruslan Slobodian,
+Olena Golembivska
+Representatives to GM
+Serhii Forostianyi,
+Kateryna Tychko
+Representatives to ESG,
+EECS Unit and ISU
+
+Highlights from 2025
+
+• Since 2024, NEURC has been running the Guarantees of Origin (GO)
+Registry, with over 1 500 RES units and more than 17 M GOs issued
+by the end of 2025. In 2025, over 14.8 M GOs were issued, with 13.7 M
+transferred and 141 thousand cancelled.
+• Cross-registry transfers with Albania, Georgia, and Montenegro
+
+Scope of national participation in EECS
+National-only certificates (non-EECS). Registered production devices
+and total capacity installed per energy carrier and type
+Energy carrier and type
+
+Electricity - (RES including
+hydro)
+
+Number of
+production devices
+
+Total capacity installed
+per technology (MW)
+
+1 515
+
+14 155
+
+became technically possible in October 2025.
+
+Domain’s 2025 GO update
+
+The GOs market is steadily developing in Ukraine. Trading platforms
+operated by the Market Operator and the Ukrainian Energy Exchange
+are in place, with free market prices.
+The Registry currently operates within the Ukrainian domain, gradually
+
+Ihor Horovykh, Taisiia Zaika
+CPA representatives
+
+developing cooperation with other countries. NEURC has applied to the
+AIB Electricity Scheme Group (ESG) and is currently undergoing the
+AIB review process.
+
+Address: 19 Simi Brodskykh Street, Kyiv, 03057, Ukraine
+Web: www.nerc.gov.ua
+Section “Electricity”// Subsection “RES Electricity Guarantees of Origin”
+Contact: box@nerc.gov.ua
+68 - AIB ANNUAL REPORT 2025
+
+Focus in 2026
+
+CertifHy stays focused on achieving recognition for its
+Low-Carbon Scheme, expanding interconnectedness
+with CBs, CTPs, and international players, and improving
+operational efficiency across all schemes.
+
+Area of operation:
+Currently operational in
+Germany & France, with
+potential availability in
+eligible EU/EEA countries.
+Observer to the Gas
+Scheme / Independent
+Criteria Scheme (ICS)
+under review
+
+Highlights from 2025
+
+•		 Issued first-ever CertifHy EU RFNBO certification
+		 (Tyczka Hydrogen) in April.
+•		 Certified world’s first RFNBO e-methane producer
+		 (Hy2gen Deutschland).
+•		 Recognized 5 Certification Bodies (CB) and partnered with Atmen,
+		 the first Compliance Technology Provider (CTP) for CertifHy 		
+		RFNBO.
+•		 Launched development of the CertifHy EU Low-Carbon Voluntary
+		Scheme.
+
+Representatives to AIB:
+Emma Andersson
+Certification & Academy
+Product Manager
+GSG
+Matthieu Boisson
+Managing Director
+GSG
+
+Domain’s 2025 GO update
+
+2025 marked the shift from regulatory development to implementation,
+with the first RFNBO certifications taking place. Since then, CertifHy
+has worked to strengthen the certification ecosystem by developing
+Guidance Documents via its Working Groups, engaging with CBs, and
+CTPs to streamline RFNBO compliance. The adoption of the the LowCarbon Fuels Delegated Act advanced regulatory clarity and set the
+direction for CertifHy’s future activities.
+
+post: Boulevard Saint-Lazare 4, 1210 Saint-Josse-ten-Noode Belgium
+web: https://www.certifhy.eu/our-mission-and-vision/
+69 - AIB ANNUAL REPORT 2025
+
+Area of operation:
+Albania
+AIB member and
+Applicant to the
+Electricity Scheme Group
+
+post: Rruga “Irfan Tomini”,
+				 Njësia Administrative Nr.7, 		
+				Tiranë, Albania
+contact: erealb@ere.gov.al
+web: www.ere.gov.al/en
+
+Area of operation:
+Romania
+Observer to the Gas and
+Electricity Scheme Group
+
+post: Str. Nacu Constantin, 3,
+				Bucuresti-Sector 2,
+				030167 București, Romania
+contact: anre@anre.ro
+web: https://anre.ro/
+
+Representatives to AIB:
+
+Elton Radheshi
+Representative to the General
+Meeting
+Gledis Kalemi
+Representative to the EECSU
+& AIB Hub / Alternate
+representative to the General
+Meeting
+Elvis Himçi
+Alternate representative to the
+EECSU and Statistics
+Lorenc Kosta
+Representative to the ESG
+Erald Kunxhiu / Alternate
+representative to the ESG
+Jurgen Myrtaj
+Representative to the ISU
+Athanasia Lila
+Alternate representative to the
+ISU
+Jurgen Myrtaj & Athanasia Lila
+Technical Contact
+Erato Sinani & Edita Hoxha
+Communications
+Egita Alliu
+Statistics
+
+70 - AIB ANNUAL REPORT 2025
+
+Sustainability Statement
+As an international organisation
+dedicated to the energy
+transition, AIB strives to lead
+by example.
+
+We take responsibility for our activities, aiming to make our structures and operations
+environmentally and socially friendly, including our communications and meetings
+across Europe. Since 2012, AIB has committed to sustainability and enhanced its impact
+through the following steps:
+• Flights - Sustainable aviation fuel is used whenever possible.
+• Other Travel - Public transport is mandatory for all other travel.
+• Printing Publications - We limit printing to the absolute minimum, and when we
+do - basically only for the EECS Rules - we use an environmentally dedicated 		
+printing company.
+• For physical meetings, we choose venues with environmental management 		
+certification, prioritizing those that improve energy efficiency, reduce environmental
+impact, and support social responsibility. We also prefer regional food with ample
+vegetarian and vegan options.
+
+71 - AIB ANNUAL REPORT 2025
+
+Group photo of the general meeting taken in Lisbon in November 2025.
+
+72 - AIB ANNUAL REPORT 2025
+
+Association of Issuing Bodies ivzw
+The AIB is a non-profit-making international association
+Telephone: +32 (0) 486 558 301
+Website: www.aib-net.org
+Email: info@aib-net.org
+Registered offices
+Koloniënstraat 11
+B-1000 Brussels
+Belgium
+Enterprise number 0864.645.330 - RPR Brussels
+
+

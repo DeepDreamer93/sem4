@@ -1,0 +1,155 @@
+                                  CENTRE FOR DISTANCE AND ONLINE
+                                            EDUCATION
+                                  ANNA UNIVERSITY, CHENNAI – 600025
+                             Contact: 044 22357210 / 8838169895
+                              Email: onlinecde@annauniv.edu
+______________________________________________________________________
+
+                      PROJECT PROPOSAL(CY24 – BA/GM Batch)
+
+
+
+Title of the Project : AI-Driven Transformation in Banking GRC: Implications on Human
+
+Behavioral Adaptation
+
+
+Student’s Name        : Narentheran S
+
+
+Roll No.              : 2406OBA0034
+
+
+Reg. No.              : 69124100089
+
+
+
+
+1. NEED FOR THE STUDY:
+
+The global banking sector is undergoing a significant transformation as Artificial Intelligence
+(AI) and Agentic AI are increasingly integrated into Governance, Risk, and Compliance (GRC)
+functions. Regulatory bodies worldwide are actively shaping frameworks around AI adoption in
+financial services, including the Digital Operational Resilience Act (DORA) in the European
+Union. While AI promises enhanced efficiency in compliance monitoring, risk assessment, and
+regulatory reporting, there is limited empirical research examining how these technological shifts
+are reshaping GRC practices on the ground - and, critically, how the people working in GRC are
+adapting to them. This study addresses this gap by first empirically analyzing publicly available
+data, questionnaires, and expert interviews on AI-driven changes in banking GRC, and then
+deriving human behavioral adaptation implications by grounding those findings in behavioral-
+science literature, with workforce management as a supporting dimension.
+2(a). PRIMARY OBJECTIVE:
+
+To empirically analyze, using publicly available data, questionnaires, and industry-expert
+interviews, how AI is transforming Governance, Risk, and Compliance (GRC) in banking - and
+to derive, through behavioral-science literature, how the GRC workforce is behaviorally adapting
+to that transformation.
+
+2(b). SECONDARY OBJECTIVES
+
+(i) To identify the key AI and Agentic AI technologies adopted in banking GRC functions and
+quantify their adoption trends using publicly available data.
+
+(ii) To assess how AI and Agentic AI integration is altering the operational landscape of GRC -
+including changes in compliance workflows, risk-assessment methodologies, governance
+structures, and regulatory frameworks across the global banking sector using data analysis.
+
+(iii) To derive, through literature review and behavioral-science frameworks, the human
+behavioral adaptation to these AI-driven GRC shifts (trust in AI, resistance to change, decision-
+making dynamics, and role and skill evolution), with workforce management as a supporting,
+reduced-weight dimension.
+
+
+
+3. METHODOLOGY
+
+This study adopts a mixed-methods design: an empirical data analysis of how AI is transforming
+banking GRC, whose output then feeds a focused literature review to conclude on human
+behavioral adaptation.
+a. Research Design: Mixed-methods, sequential explanatory - quantitative and qualitative
+empirical analysis first, followed by a behavioral-science literature review that interprets the
+empirical output.
+b. Research Approach: Primarily inductive - deriving behavioral-adaptation conclusions from
+observed data patterns, then triangulating against established behavioral theory (Technology
+Acceptance Model, Diffusion of Innovations, Change Management).
+c. Data Sources: (1) Public data - regulatory filings, DORA/FSB/Basel publications, global-bank
+annual reports, AI-adoption surveys, patent filings, and banking-GRC job postings; (2) Primary
+data - structured questionnaires to GRC practitioners and semi-structured interviews with
+industry experts.
+d. Sampling Method: Purposive sampling of GRC professionals across risk, compliance, and
+governance roles in banking; snowball sampling via expert referrals for interviews; stratified by
+role and tenure where possible.
+e. Data Collection: Online questionnaire (Likert-scale and open-ended items); recorded expert
+interviews; systematic extraction from public documents into a structured dataset.
+f. Data Analysis Tools: Descriptive and inferential statistics (Excel/SPSS/Python) for
+questionnaire and adoption-trend data; thematic and sentiment analysis (NVivo/Python NLP) for
+interview and open-text data; cross-tabulation of adoption intensity against behavioral and skill
+signals; the combined output is then interpreted through the behavioral-science literature review
+to conclude on human behavioral adaptation.
+
+How the analysis derives human behavioral adaptation:
+• Job-posting and skills-trend analysis (GRC roles over time) → role redefinition and reskilling
+as structural workforce adaptation.
+• Thematic and sentiment analysis of interviews and open-ended responses → trust in AI and
+resistance to change (mapped to the Technology Acceptance Model).
+• Likert-scale statistical analysis → quantified acceptance versus resistance, segmented by role
+and tenure.
+• Adoption-curve analysis → practitioners' position on Rogers' innovation-adoption curve.
+• Content analysis of regulatory filings and annual reports → 'human-in-the-loop' accountability
+norms.
+• Cross-tabulation (adoption intensity × behavioral signal) → the keystone link: rising AI
+penetration in a GRC function corresponds to a measurable behavioral or skill response,
+interpreted through behavioral theory.
+
+
+
+
+4. EXPECTED DELIVERABLES
+
+• An empirical analysis report on AI adoption trends in global banking GRC
+• A mapping of AI and Agentic AI technologies to specific GRC function transformations
+• A derived framework linking AI-driven GRC shifts to human behavioral adaptation patterns
+• Evidence-based recommendations for banks on managing the human dimension of AI
+integration in GRC
+• Final research dissertation/report
+
+
+
+
+5. REFERENCES
+
+1. Odedina, E. (2025). Redefining Governance, Risk and Compliance (GRC) in the Digital Age:
+Integrating AI-Driven Risk Management Frameworks. ResearchGate.
+https://www.researchgate.net/profile/Eniola-Odedina/publication/392194337
+2. AI in Regulatory Compliance and Banking Technology (2025). IEEE Xplore, Document
+11465937. https://ieeexplore.ieee.org/document/11465937
+3. AI-Driven Transformation in Banking GRC. SSRN, Abstract 6003655.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6003655
+4. European Union - Digital Operational Resilience Act (DORA), Regulation (EU) 2022/2554.
+5. Financial Stability Board (2017). Artificial Intelligence and Machine Learning in Financial
+Services.
+6. Basel Committee on Banking Supervision. Implications of Fintech Developments for Banks
+and Supervisors.
+7. Davis, F.D. (1989). Perceived Usefulness, Perceived Ease of Use, and User Acceptance of
+Information Technology. MIS Quarterly.
+8. Kotter, J.P. (1996). Leading Change. Harvard Business School Press.
+9. Rogers, E.M. (2003). Diffusion of Innovations (5th ed.).
+
+
+
+
+6. COMPANY PROJECT- Indicate, Yes & Upload Company permission letter
+
+(Only for company project)
+
+No
+
+
+
+7. PROJECT PROPOSAL - GUIDE APPROVAL STATUS –Indicate, YES/NO: YES
+
+
+
+
+                                                                      (Signature of Student)
+

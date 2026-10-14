@@ -1,0 +1,2572 @@
+This document contains both information and navigation buttons. To read information, use the Down Arrow from a form field.
+
+Thomson Reuters
+
+Future of
+Professionals
+Report 2025
+Strategic AI Adoption:
+Unlocking Innovation
+and Maximizing Returns
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Foreword
+By Thomson Reuters President and Chief Executive Officer Steve Hasker
+Generative AI will transform the legal,
+risk, compliance, tax, accounting, and
+audit professions, along with global
+trade over the next three years. Already,
+professionals report increased efficiency,
+productivity, and cost savings as the most
+significant benefits, making AI a crucial
+tool for organizations navigating a rapidly
+evolving set of business challenges.
+
+Now in its third year, our Future of Professionals
+report highlights AI’s impact on professional work,
+helping individuals navigate uncertainty with
+confidence. It includes year-over-year comparisons
+and key insights from Thomson Reuters, which we
+hope will help shape the decisions our customers
+will make over the next three to five years.
+Organizations must constantly consider how to
+maintain their competitive edge, but the efficiency
+gains offered by AI are particularly significant in
+today’s evolving business landscape. Now, as AI
+adoption reaches a pivotal stage, it’s clear that a
+widening competitive gap is emerging. Firms that
+reinvent and automate entire business processes
+using AI will prevail with superior customer
+experiences and lower costs compared to those
+organizations that move slowly.
+Consider this: Based on the current predicted
+pace of AI adoption, our report shows that the
+legal professionals we surveyed expect to free up
+nearly 240 hours per year, up from 200 in 2024.
+This unlocks an average annual value of $19,000
+per professional. In the US, this contributes to a
+$32 billion combined annual impact for the legal
+and tax & accounting sectors. As the leaders in the
+AI adoption race reap these savings and provide
+greater value to their clients, the value gap
+continues to widen.
+
+Key findings
+This year’s report highlights a new divide among
+organizations: Those that adopt an AI strategy
+and those that do not. Our research shows that
+organizations with visible AI strategies are twice as
+likely to experience revenue growth as a direct or
+indirect result of AI adoption compared to those
+with more informal or ad-hoc adoption approaches.
+That puts those organizations that haven’t developed
+an AI strategy at risk of being left behind within a
+matter of years.
+
+“The future isn’t just about whether
+organizations should be adopting
+AI – it’s about how they can do so
+strategically to get the most benefit
+from advanced technology.”
+Our report highlights the significant variance in AI
+adoption, even within the same organization. By
+creating a strategy to drive AI adoption and redeploy
+productivity gains, organizations will achieve
+sustained innovation, operational excellence, and
+revenue growth while empowering professionals to
+stay productive and relevant.
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+2
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+While organizations must evolve and adapt, the
+responsibility doesn’t stop there. Those professionals
+who fail to develop their individual AI proficiency risk
+falling behind in critical skills, creating a competitive
+gap that could limit their career growth. As I have
+said previously, AI will not replace professionals,
+but AI-powered professionals will. AI-enabled
+professionals will gain a competitive edge, boosting
+both their personal impact and their organization’s
+long-term value.
+Finally, the report highlights that while concerns
+about the responsible and ethical use of AI
+have eased slightly, professionals may have
+new perspectives on the potential negative
+consequences of AI. However, there were slight
+upticks in concerns about privacy, confidentiality,
+and transparency, as well as data security
+implications — a trend worth watching.
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+One of the areas I am most proud of is the
+controls we have put into our AI development
+here at Thomson Reuters — these ensure that our
+customers’ confidential information will not become
+output for a third party.
+We’re no longer predicting AI’s impact — we’re
+quantifying it. Organizations with clear, aligned
+strategies are unlocking real ROI: reclaiming time,
+cutting costs, and gaining ground. Professionals who
+are embracing AI are not just more productive —
+they’re staying relevant.
+This is the dividing line. Those who act with intention
+will lead. Those who wait will fall behind. The future
+isn’t just about adopting AI — it’s about doing
+so strategically.
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+3
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+The Future of Professionals highlights the key
+concerns shaping the professional landscape today
+Today’s knowledge workers across legal, risk,
+compliance, tax, accounting, audit, and trade
+professions face unprecedented challenges that
+include geopolitical turbulence and a complex web
+of regulatory and legislative changes that demand
+constant vigilance. Further, many organizations are
+simultaneously grappling with exponential growth in
+data volumes while adapting to fundamental shifts
+in workforce dynamics and expectations.
+Against this backdrop, however, artificial intelligence
+has emerged not merely as a technological
+advancement, but as a strategic ally. In Thomson
+Reuters third annual Future of Professionals
+survey report, we examine how this transformative
+technology empowers professionals to navigate
+uncertainty with greater confidence and precision.
+Most significantly, our research reveals a new and
+growing divide between organizations that adopt
+an AI strategy and those that do not. We found that
+organizations with visible AI strategies are twice as
+likely to experience revenue growth, whether directly
+
+or indirectly, as a result of AI adoption compared
+to those with more informal or ad-hoc adoption
+approaches. That puts organizations that haven’t
+developed an AI strategy at risk of getting left
+behind within a matter of years.
+The Future of Professionals report also highlights the
+remarkable opportunities AI presents, and points up
+a crucial perspective: Technology must serve as an
+enabler of broader organizational objectives, not an
+end in itself.
+The most successful organizations are those
+deploying AI within a coherent strategic
+framework — one that acknowledges today’s
+challenges while building resilience for tomorrow’s
+competitive landscape.
+
+Note: In this report, organization is the generic term used to
+describe: i) the firm, for those in private practice; ii) the corporation,
+for corporate C-Suite; and iii) the in-house department, for corporate
+and government professionals.
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+4
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+What are the forces impacting
+professions over the next five years?
+It’s a question we’ve asked over each iteration of
+this report, and we can clearly see that the impact
+of AI and GenAI continues to occupy critical space
+in professionals’ minds over the years. Today, 8 of 10
+professionals predict AI will have a transformational
+or high impact on their work in the coming five years.
+Indeed, the percentage of survey respondents citing
+AI’s impact as a transformational force was twice the
+percentage of any other category.
+Still, other forces are growing in concern as
+well, many linked to current macro-economic or
+geopolitical pressures, such as the rapid pace of
+regulatory change or fears of recession.
+Interestingly, while concerns over finding enough
+skilled labor increased in professionals’ minds,
+worries about both Millennials moving into
+management positions and Gen Zers entering the
+workforce dropped off significantly.
+
+AI and GenAI continue to occupy
+critical space in professionals’
+minds over the years.
+
+Forces with high/transformational impact
+Transformational
+
+High impact
+
+The rise of AI
+and GenAI
+
+Percentage point change
+44%
+
+36%
+
+Explosion in
+data volumes
+
+20%
+
+41%
+
+Velocity of change in
+regulatory environment
+
+22%
+
+37%
+
+Economic recession/
+cost of living
+
+10%
+
+44%
+
+Shortage of
+skilled labor
+
+12%
+
+Political climate
+within your country
+
+11%
+
+33%
+
+Baby Boomers and Gen
+X exiting the workforce
+
+10%
+
+31%
+
+Geopolitical
+instability
+
+10%
+
+31%
+
+42%
+
+Millennials moving
+into leadership
+
+8%
+
+30%
+
+Focus on sustainability
+and ESG
+
+10%
+
+22%
+
+Gen Z entering
+the workforce
+
+5%
+
+26%
+
+10
+
+‘23-‘24
+3
+
+‘24-‘25
+
+10
+
+‘23-‘24
+‘24-‘25
+
+3
+
+‘23-‘24
+
+3
+6
+
+‘24-‘25
+-3
+
+‘23-‘24
+
+4
+
+‘24-‘25
+N/A
+
+‘23-‘24
+
+3
+
+‘24-‘25
+‘23-‘24
+
+N/A
+
+‘24-‘25
+
+N/A
+
+‘23-‘24
+
+N/A
+
+‘24-‘25
+
+N/A
+
+‘23-‘24
+
+N/A
+
+‘24-‘25
+
+1
+
+‘23-‘24
+
+N/A
+-6
+
+‘24-‘25
+‘23-‘24
+
+9
+
+‘24-‘25
+
+-6
+N/A
+
+‘23-‘24
+‘24-‘25
+
+-9
+Source: Thomson Reuters 2025
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+5
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Bridging the
+gap between
+tech today and
+business tomorrow
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+6
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Are professionals on track to
+realize the future they envisioned?
+Clearly some professionals are taking the necessary
+steps toward realizing the AI-driven future they said
+they imagined in 2024. Others are not, pointing to a
+disconnect between the current pace of change and
+what they had envisioned.
+For example, while 80% of respondents said they
+see AI as having a high or transformative impact on
+their profession over the next five years, only about
+one-third of professionals (38%) said they expect
+that change to happen this year — and 3 out of 10
+said their organizations are moving too slowly in
+AI adoption.
+
+Disconnect between future aspiration and current pace
+
+80%
+
+38%
+
+believe that AI will
+have a high or even
+transformational
+impact on their
+profession within
+5 years, but…
+
+Only
+expect to see
+transformational
+or high levels of
+change in their
+organization
+this year.
+
+53%
+
+30%
+
+believe their
+organization is
+already experiencing
+at least one type
+of benefit from AI
+adoption, but…
+
+believe their
+organization
+is moving
+too slowly in
+AI adoption.
+
+Source: Thomson Reuters 2025
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+7
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+More than half of organizations are already
+seeing ROI because of AI adoption
+Most importantly, if AI is going to have longevity
+among organizations, they have to be able to show
+a viable return on investment (ROI) as a direct result
+of their investment in AI. The survey shows that
+more than half (53%) of professionals said their
+organizations are already seeing ROI directly or
+indirectly tied to their AI investment. This ROI is
+showing itself in many different forms, most often
+as improved efficiency and productivity, as well as
+improved response times and a reduction in errors.
+When GenAI burst upon the public scene just 2½
+years ago, many professionals initially thought about
+ROI just in terms of efficiency, most commonly
+measured in time and cost saved. Not surprisingly,
+that is still where we’re seeing many organizations
+chalk up their early ROI victories.
+However, the more advanced organizations now are
+starting to also see wider ROI opportunities, even as
+they still reap the benefits of AI-driven automation
+that’s pushing their work processes faster. Now,
+however, many forward-looking organizations are
+starting to leverage AI to work in new ways and
+produce better quality outputs — and many are
+already seeing quantifiable financial gains.
+
+AI has shown measurable benefits by allowing
+professionals to improve their work/life balance
+by removing burdensome manual work through
+automation, and to accelerate their training
+and skills-building with AI-enhanced learning
+programs. And all of this AI use can contribute
+to an organization’s ability to
+attract and retain high-quality
+professionals because many
+individuals are seeking out
+those organizations which
+53% report
+encourage advanced
+already
+technology use in
+seeing ROI
+the workplace.
+from AI
+As organizations seek
+higher levels of return on
+investment (ROI), having a
+strategic plan for AI adoption
+and implementation is becoming the
+single most distinguishing factor in their
+future success. Further, this pursuit of ROI
+needs to be a collaborative effort among
+organizational leadership, professionals, and
+operational support staff.
+
+• Efficiency
+
+Faster
+
+• Response times
+• Freed up time
+
+• Client experience
+• Communication
+
+Better
+
+• Accuracy
+• Advanced analytics
+• Innovative solutions
+• Risk mitigation
+
+Talent
+
+• Work-life balance
+• Skill-building
+
+opportunity
+
+• Attraction &
+
+retention
+
+Top and
+bottom
+line
+
+• Cost reduction
+• Revenue growth
+
+Source: Thomson Reuters 2025
+
+For example, in the area of talent — which only has
+increased in importance for many organizations —
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+8
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+How to achieve ROI from AI
+Our research shows that organizations are more
+likely to achieve stronger benefits from their AI if
+they successfully engage four layers in an AI
+strategy roadmap:
+Strategy — Organizations with a visible AI strategy
+were almost four times more likely to already be
+experiencing benefits compared to firms without
+any significant plans for AI adoption.
+Leadership — Organizations with leaders who lead
+by example when introducing change, have added
+new roles to their governance and are actively
+investing in AI are seeing more benefits than those
+organizations that don’t.
+Operational — Although it may look different for
+different types of organizations, those that are
+making changes to how they deliver their work in
+terms of resourcing and pricing models, adapting
+workflow and processes, and adding new roles and
+skills to support will see more success.
+Individual — When individual professionals
+understand AI and feel empowerment, ownership,
+and accountability, organizations will see results not
+only in terms of adoption but in ultimate ROI.
+
+The AI Success Pyramid
+
+Let’s examine how each of these
+four layers can help organizations
+achieve the maximum benefits
+from their AI use.
+
+Strategy
+
+Leadership
+
+Operations
+
+Individual Users
+Source: Thomson Reuters 2025
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+9
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Layer 1: Having a clear AI strategy is
+strongest lever for success
+Organizations that craft a strategic
+plan for their AI adoption and
+implementation are 3.5-times as
+likely to experience critical AI benefits
+compared to those that do not.
+Further, those organizations with a strategic AI plan
+are almost twice (1.9-times) as likely to already be
+experiencing revenue growth as a result of their
+AI investment than those organizations that are
+adopting AI informally.
+This applies not only to firms but also to in-house
+departments within corporations and government
+agencies. Departments that have their own AI
+strategies are also seeing more ROI than those
+without a strategy or those that are simply
+following their organization’s overall AI strategy.
+
+AI adoption strategies
+Level 2:
+Unstructured
+experimentation
+
+Level 3:
+Tailored strategy
+
+Level 1:
+Lagging behind
+
+31%
+
+43%
+
+22%
+
+Have no significant
+plans for organizational
+AI adoption
+
+Adopting AI without
+a strategy
+
+Have a visible AI
+strategy
+
+23%
+
+64%
+
+81%
+
+Already experiencing
+ROI from AI
+
+Already experiencing
+ROI from AI
+
+Already experiencing
+ROI from AI
+
+Those with a visible AI strategy are 3.5x as likely to be experiencing at least one form of ROI
+compared to those without any significant plans for AI adoption.
+Source: Thomson Reuters 2025
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+10
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Layer 2: Strong leaders lead by
+example in times of change
+
+46% report their org. has
+
+Impact
+
+Our research shows that forward-looking firms are
+examining whether their current governance aligns
+with their projected future, for example moving away
+from lawyer-only Executive Committees and adding
+new roles such as Chief Operations Officers and
+Chief Transformation Officers to their highest levels
+of decision-making.
+
+Active investment in AI
+
+Progress
+
+In fact, those respondents who said their leaders
+were leading by example, were 1.7-times as likely
+to see the benefits of AI compared to those
+professionals who said their leaders were not
+leading by example.
+
+Leadership levers for success
+
+The gap
+
+The strongest leaders, according
+to our survey, are those who most
+consistently lead by example,
+especially when introducing
+new changes.
+
+invested in new
+AI-powered tech in
+past year
+
+37%
+
+unaware of any
+plans to invest in
+the next year
+
+Professionals at firms that are
+actively investing in new tech are
+2.0x as likely to be experiencing
+benefits from AI
+
+Firm governance
+aligned to vision
+
+Lead by example
+
+15% of law and tax/audit firms
+
+69% of professionals agree
+
+have added additional
+roles to leadership/
+governance in past year
+
+79%
+
+unaware of any
+plans to add
+additional roles
+in the next year
+
+Professionals at firms that have
+added new governance roles are
+1.5x as likely to be experiencing
+benefits from AI
+
+leaders in their org.
+consistently lead by
+example when
+introducing changes
+
+13%
+
+disagree that
+leaders lead by
+example
+
+Professionals who agree that
+leaders lead by example are
+1.7x as likely to be experiencing
+benefits from AI as those who
+disagree
+Source: Thomson Reuters 2025
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+11
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Layer 3: Adjusting operations can
+gain the most benefits from AI
+Organizations and their operational
+support staff will need to adjust
+their models and work processes
+to thrive in the future, taking into
+consideration not just the rise of
+AI, but the impact of other pressures as well. These
+changes will involve how talent is deployed, how
+work is done, and what and how services are
+offered, as well as how they’re priced. While these
+changes are likely to be iterative over the next few
+years, the most progressive organizations are already
+making changes and reaping the benefits.
+Organizations making these changes are seeing
+more ROI gains than those that have yet to begin
+their operational transformation.
+
+Operational levers for success
+Roles and
+skills:
+
+Processes &
+workflows:
+
+Services
+offered:
+
+Delivery
+models:
+
+Pricing
+models:
+
+To fulfill future vision
+
+To maximize efficiency
+
+Meeting needs of orgs.
+of the future
+
+To make best use of
+clients’ finite budgets
+
+That accurately reflect
+value of work to client
+
+Around a quarter
+to a third have
+recruited new roles,
+appointed external
+consultants and/
+or increased the
+number of existing
+roles. 10-15%
+anticipate these
+changes coming in
+the next year.
+
+Just under a third
+have experienced
+changes to their
+team’s workflows
+and processes in
+the past 12 months,
+with a further
+quarter anticipating
+changes in the
+next 12 months.
+
+26% of firms have
+started offering
+new advisory or
+consultancy services
+in the last 12 months
+and 30% of inhouse corporate
+and government
+professionals have
+started purchasing
+these types of
+services.
+
+1/5 in-house
+departments has
+significantly altered
+the proportion of
+work that is carried
+out in-house. Slightly
+fewer have changed
+their outsourced
+work allocation.
+
+Third of firms
+increasing the
+proportion of work
+billed other than
+by hourly rates.
+Quarter of in-house
+professionals have
+increased work with
+firms because of
+fee arrangements
+offered. A similar
+proportion have
+dropped a firm for
+lack of flexibility fee
+arrangements.
+
+Only around one in
+ten have begun:
+– Decreasing the
+number of existing
+types of roles
+(including reducing
+annual intake
+of juniors)
+– Moving roles
+to lower cost
+geographies
+– Redefinition of
+existing roles
+
+AI-powered
+services: only 13%
+of firms have started
+offering AI-powered
+services – although
+23% of in-house
+professionals report
+having purchased
+these services.
+
+Few firms have
+started including
+individuals with
+non-traditional
+qualifications or in
+lower cost locations
+in their client teams,
+or outsourcing/
+partnering with
+third parties.
+
+Source: Thomson Reuters 2025
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+12
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Layer 4: Proactive professionals
+find ways to leverage AI
+
+Progress
+
+Individual levers for success
+
+More impact
+
+The gap
+
+It will require a strong foundation in
+basic AI operations to establish an
+understanding and culture that
+encourages change among
+individual professionals. Yet, those
+organizations that offer individuals room to improve,
+a depth of organizational AI understanding, regular
+AI utilization, and personal goal setting will be the
+ones that move their professionals into the forefront
+of skill development and improved productivity.
+
+Learning
+
+Empowerment
+
+Ownership
+
+Accountability
+
+Usage
+
+How to get the most
+out of AI
+
+Explore new ways
+of working
+
+Helping shape
+AI policy
+
+Personal goals
+linked to AI
+
+AI as a starting
+point/to edit
+
+96% have at least a
+basic awareness of
+AI capabilities
+
+80% encouraged
+to try new ways
+of working
+
+54% feel they have
+sufficient input into
+how organization
+plans to use AI
+
+39% have personal
+goals linked to AI
+adoption
+
+81% have now tried
+using AI tech
+
+61% of
+professionals
+do not have
+personal goals
+linked to AI adoption
+
+70% of
+professionals
+not yet using
+AI tools regularly
+
+21% of professionals
+with AI goals using AI
+at least once a week
+
+Regular users of AI
+tools are 2.4x as
+likely to be seeing
+organizational
+benefits from AI,
+compared to nonregular users
+
+74% empowered to
+make changes
+
+Baby Boomers less
+likely to have good
+understanding
+
+6% do not feel
+encouraged to
+explore new
+ways of working, 8%
+not empowered to
+make changes. GenZ
+feel less encouraged/
+empowered
+
+Professionals with
+good/expert AI
+knowledge are 2.8x
+as likely as those
+with basic or no
+knowledge to be
+seeing organizational
+benefits from AI
+
+Professionals who
+feel encouraged to
+explore new ways of
+working are 1.9x as
+likely to be seeing
+benefits, those
+encouraged to make
+changes 1.6x as likely
+
+71% feel they
+do not have a
+good understanding of practical
+applications of AI.
+
+17% do not
+feel they have
+sufficient input
+Millennials and GenZ
+least likely to feel they
+have input
+
+Professionals who
+feel they have
+sufficient input are
+1.7x as likely to be
+seeing benefits from
+AI, compared to
+those who feel they
+have no input
+
+Professionals who
+have AI adoption
+goals are 1.8x as
+likely to be seeing
+organizational
+benefits
+
+Source: Thomson Reuters 2025
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+13
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Examining the disconnect:
+The danger of a mismatch
+between strategic and
+individual goals
+Two thirds (65%) of respondents who said
+they have their own personal goals for AI
+adoption also said they aren’t aware of their
+organization having an AI strategy. This means
+they’re being asked to adopt new technology
+without critical guidance as to what they are
+trying to achieve for their organization by doing
+so. This disconnect makes it highly likely that
+such individual AI adoption will be inconsistent
+and inefficient.
+Conversely, more than one-third (38%) with
+an AI strategy also reported that they don’t
+have any personal goals for AI adoption. This,
+too, increases the risk that the organization’s
+AI strategy cannot be effectively implemented
+if there is a lack of accountability and
+communication at all levels.
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+14
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Thomson Reuters Views
+
+Organizations that reinvent will prevail
+Organizations without an AI
+strategy risk falling behind as
+others harness AI to transform
+operations. Success requires
+not just adoption, but a clear
+plan to reinvest productivity
+gains—driving innovation,
+efficiency, and growth in
+an increasingly competitive
+landscape.
+
+Organizations without significant AI adoption plans
+are already experiencing a widening competitive
+gap by missing efficiency opportunities and facing
+declining employee engagement as top
+talent seeks more innovative environments.
+AI adoption in many organizations resembles a
+corporate gold rush — individuals and teams
+prospecting independently with their own tools and
+methods. While some find valuable nuggets (such
+as efficiency gains), they lack the infrastructure,
+coordination, and expertise to develop sustainable
+mines (transformative value). Meanwhile, those
+organizations using a more strategic approach are
+building comprehensive mining operations with
+railroads, refineries, and supply chains that create
+enduring value ecosystems.
+Like prospectors who might find initial success but
+ultimately get outcompeted by organized mining
+companies, those functions within organizations that
+are implementing AI tools without full organizational
+alignment may see some short-term wins, but
+that heightened experience will quickly plateau,
+resulting in missed opportunities for cross-functional
+synergies and transformative outcomes.
+
+organizations with visible AI strategies are twice as
+likely to be experiencing revenue growth as a direct
+or indirect result of AI adoption compared to those
+with ad-hoc or informal adoption approaches.
+Indeed, effective AI strategies must be integrated
+into the overall organizational vision rather than
+existing as standalone technology initiatives. The
+process begins with identifying strategic positioning
+in the evolving landscape, then determining how AI
+capabilities can best enable that vision.
+As our research clearly underscores, an AI strategy
+remains essential regardless of where an
+organization positions itself on the adoption curve.
+A deliberately measured approach aligned with
+organizational goals constitutes a valid strategy.
+However, the flip side of this assertion is alarming.
+Our data shows that those organizations that fail to
+develop an AI strategy this year risk falling behind
+within three years as peers and competitors leverage
+their own AI investment to transform their operations
+and service delivery. Shockingly, according to our
+data, this could put almost one-third of organizations
+on the path to failure.
+
+Our research shows organizations with visible
+AI strategies are already experiencing a broader
+spectrum of benefits. For example, those
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+15
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+The jagged
+edge of
+AI adoption
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+16
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Organizations follow different paths
+toward AI adoption
+Our survey clearly underscores that for many
+organizations adoption of AI is not easy. Sometimes
+even within the same organization, there can be
+great disparity in how AI adoption and usage are
+carried out. Even in this jagged edge of AI adoption,
+one clear factor has shone through: Organizations
+that articulate and execute an AI adoption plan
+will see a return on their AI investments, and
+organizations that fail to do so will see their ability to
+sustain AI-driven value hindered.
+In our research, we measure the overall pace of
+AI adoption on two dimensions: organizational
+and individual. Forty-six percent of professionals
+reported that their organization has invested in new
+AI-powered technologies in the past 12 months. At
+an individual level, 30% say they are now regularly
+using AI-powered tools to provide a starting point on
+tasks and/or to edit text they have drafted.
+On the following page, we examine the extreme
+variation in AI adoption trajectories.
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+17
+
+Foreword
+
+Varied pace of
+AI adoption
+Size of bubble indicates
+average % of individuals
+using AI regularly
+
+Bridging the gap between tech today and business tomorrow
+
+Organizational
+approach to
+AI adoption
+
+Laggards
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Late
+majority
+
+Early
+majority
+
+Canada
+
+Latin America
+Respondent
+location
+
+Increasing
+percentage of
+respondents
+reporting
+organizational
+AI investment
+
+US
+
+Type of
+organization
+
+Tax, Audit &
+Accounting
+firms
+
+Early
+adopters
+
+Methodology
+
+Innovators
+
+Mainland Europe
+
+UK
+
+Australia & New Zealand
+Middle East & Africa
+
+Asia
+
+Government
+
+Looking forward: How to ensure a bright future
+
+Law
+firms
+
+Corporate Risk, Fraud &
+Compliance depts.
+
+Corporate
+legal depts.
+
+Corporate C-Suite
+
+Corporate Tax, Acct. & Trade depts.
+
+Source: Thomson Reuters 2025
+
+Respondents reported their perceptions of
+their organization’s approach to AI adoption.
+Unsurprisingly, innovator organizations – those
+striving to lead and identify new opportunities for
+AI – are ahead in both investment and individual
+adoption. Notably, even among the ‘early majority’ –
+organizations using new technologies once proven
+by others – most have already started investing in
+AI. The ‘late majority,’ who wait until technologies
+are mainstream, should note that AI adoption is
+accelerating faster than they may realize.
+
+Misalignment between individual and organizational
+adoption can cause issues:
+• Low investment but high individual use increases
+risk, as employees may use public tools
+without safeguards.
+• High investment but low individual use
+suggests poor change management and
+wasted investment.
+• Low awareness and low use indicate missed
+opportunities with AI.
+
+Typically, organizations in Mainland Europe, the
+Middle East and Africa are more likely to fall into
+the ‘wasted investment’ category, with many
+organizations investing in AI but few individuals
+regularly using the technology. In Asia and Latin
+America, high individual use but limited investment
+exposes organizations to risk. Corporate legal
+departments show high investment and usage, while
+government agencies have low levels on both fronts,
+missing opportunities to benefit from AI.
+Individual adoption rates also vary by demographic:
+Millennials are adopting AI at nearly twice the rate of
+Baby Boomers.
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+18
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+What are the biggest barriers to
+more robust AI adoption?
+Potentially hindering AI adoption further are
+concerns, both individually and organizationally,
+over how this technology will be used and
+aspects of the technology itself. Interestingly,
+we’ve seen a shift from the worries of the early
+days of AI, such as fears of widespread job loss
+or AI being used for malicious purposes. And
+while these still register as concerns, they’ve
+largely given way to a more nuanced fear that
+almost one-quarter of professionals expressed:
+The successful use of AI itself could lead to an
+overreliance on the technology that would crimp
+professional development.
+
+Accuracy, budget & security perceived barriers to investment
+Negative consequences of most concern
+
+Barriers to investment
+
+Overreliance on technology at
+the expense of professional
+skill development
+
+24%
+
+Demonstrable accuracy
+of AI-powered
+technologies
+
+50%
+
+Privacy, confidentiality and
+transparency concerns
+
+15%
+
+Available budget
+
+AI being used for malicious
+purposes, e.g., fraud
+
+14%
+
+Demonstrable data
+security of AI-powered
+technologies
+
+Data security implications
+
+13%
+
+Ethical concerns
+regarding the use of AI
+in your profession
+
+37%
+
+Time/resource required
+for implementation
+
+36%
+
+Widespread job loss
+
+9%
+
+45%
+
+42%
+
+Source: Thomson Reuters 2025
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+19
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+What standard of
+accuracy is acceptable?
+Accuracy concerns are the number one
+barrier to increased AI investment, but
+what standard of accuracy is deemed
+acceptable?
+The answer set a very high bar: A full 91% of
+professionals said they believe computers
+should be held to higher standards of
+accuracy than humans, including 41% who
+said that AI outputs would need to be
+100% accurate before they could be used
+without human review, meaning that it’s
+still critical that humans continue to review
+AI-generated outputs.
+Our research shows that those professionals
+who fail to develop a personal strategy
+for AI proficiency will struggle to remain
+relevant and effective in their roles. And, as
+the demand for tech-savvy, adaptable and
+interdisciplinary collaboration continues to
+grow, those professionals not honing their
+skills in this way may find themselves adrift.
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+20
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Thomson Reuters Views
+
+Intentional AI adoption leads to higher ROI
+Organizations that align AI
+adoption with functional needs
+and overarching goals—while
+coordinating implementation
+across all levels—will achieve
+greater transformation,
+efficiency, and value than those
+with an undirected approach.
+
+Our research unveils a complex, jagged-edged
+landscape of AI adoption, marked by significant
+disparities across and within organizations. While
+law firms and corporate tax departments, for
+example, may embark on distinct AI trajectories,
+this variance is even more pronounced at the
+individual level, at which professionals within the
+same organization follow vastly divergent paths in
+adopting AI technologies. This divergence, however,
+is not surprising, and, in fact, can be beneficial if
+managed strategically.
+The varied pace and scope of AI adoption should be
+a reflection of strategic differentiation rather than a
+patchwork of ad hoc decisions. Different functions
+within an organization have unique requirements. For
+example, those areas with standardized, repeatable
+tasks can benefit from rapid AI integration, while
+those areas that require tasks be approached with
+nuanced judgment and non-standardized analysis
+may need a more measured approach.
+The key, of course, is ensuring that these differences
+arise from deliberate, strategic choices that are
+aligned with the organization’s overarching goals.
+Without such strategic alignment, AI adoption
+risks becoming driven by individual preferences
+
+or technological comfort levels rather than
+organizational objectives. This lack of coordination
+can lead to inefficiencies and missed opportunities
+for the organization, as potential cross-functional
+synergies and transformative outcomes remain
+untapped, as well as for the professional within, as
+skills and technological prowess diminish.
+Those organizations that achieve the highest returns
+on their AI investments will be those that synchronize
+their adoption patterns with their strategic priorities.
+This alignment ensures AI tools are deployed where
+they deliver the greatest value and are tailored to
+the needs of specific professional functions. By
+doing this, organizations can accelerate their
+collective transformation.
+To intentionally shape the jagged edge of AI
+adoption, organizations must ensure that AI initiatives
+are not only aligned with strategic objectives but
+also executed with precision across all levels. This
+approach not only maximizes the value derived from
+AI technologies but also fosters a cohesive, forwardthinking culture that embraces innovation while
+respecting the distinct needs of each function and
+each team within the organization.
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+21
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+The modern
+professional
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+22
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+What makes a modern professional?
+Uses AI to analyze case law patterns and
+predict potential judicial outcomes based on
+historical rulings
+
+Uses AI to identify potential regulatory conflicts
+in proposed business strategies
+
+The
+mo
+de
+rn
+
+pr
+o
+
+Employs AI to simulate multiple
+tax planning scenarios to
+optimize client outcomes
+
+Uses AI to
+generate
+businessfriendly
+explanations
+of complex legal
+or tax concepts
+
+Employs AI tools to quickly compare
+
+complex tax regulations across
+chnology to a
+es te
+u
+s
+multiple jurisdictions for
+g
+u
+me
+l
+compliance analysis
+na
+nt
+o
+i
+s
+th
+s
+o
+fe
+Organizational &
+efficiency skills
+
+Technical domain
+expertise
+
+(Project management,
+efficiency, flexibility)
+
+(Legal, tax etc.)
+
+Interpersonal
+effectiveness
+(Communication,
+leadership, EQ)
+
+The
+traditional
+professional
+has core
+abilities:
+
+lities
+abi
+re
+co
+
+Interestingly, almost all (88%) of the respondents
+surveyed said they favor having a profession-specific
+AI assistant. However, opinions are divided on
+whether this will become an expected element for
+competitiveness (meaning the respondent believes
+that almost every professional will have an AI
+assistant over the next five years) or a differentiator
+(meaning respondents believe not all professionals
+will have an AI assistant over the next five years, but
+those who do will have a marked advantage over
+their competition). Other respondents believe that
+having an AI assistant will simply be a benefit.
+
+Examples:
+
+se
+
+Clearly, the skills needed to thrive in many service
+professions have dramatically changed over the
+years and will very likely continue to change. Today,
+a new modern professional is emerging, and while
+the core professional abilities remain the same, the
+modern professional uses tech and AI to augment
+their abilities. In fact, more than half (55%) of
+professionals said they’ve experienced significant
+changes in their day-to-day role over the past 12
+months or are expecting to within the next 12 months.
+
+Core practical
+abilities
+(Research, writing)
+
+Higher order
+thinking
+(Critical thinking,
+problem-solving,
+strategic thinking)
+
+Leverages
+AI to draft
+preliminary legal
+documents and
+contracts based
+on specific
+parameters
+Uses AI to
+extract and
+summarize key
+information
+from lengthy
+technical
+documents
+
+Implements AI-powered deadline management
+systems for regulatory filings
+Uses AI to prioritize client matters based on
+urgency, complexity, and resource requirements
+Source: Thomson Reuters 2025
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+23
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Addressing the skills gap among
+modern professionals
+The evolution of the
+modern professional
+
+While the skills needed in today’s modern professions
+include a level of technical expertise that would
+allow a professional to maximize the benefits they’re
+gaining from AI use, the existing gap in skills among
+different individuals across professions is a
+significant problem, according to our research.
+Further, some saw gaps in team
+members on critical so-called soft skills,
+such as responsiveness, efficiency, and
+interpersonal communications.
+
+More than 40% of
+professionals reported
+skills gaps on their teams in
+areas of technology & data
+knowledge and technical
+domain expertise.
+
+%
+31
+
+rep
+
+g
+or t
+
+in technology an
+aps
+dd
+ata
+s
+
+Does the generation
+gap exist?
+kil
+ls
+
+Organizational &
+efficiency skills
+
+Technical domain
+expertise
+
+4% report gaps
+
+10% report gaps
+
+Tech for efficiency,
+project management,
+responsiveness
+
+Technical knowledge
+(legal, tax etc.),
+experience
+
+46%
+
+Interpersonal
+effectiveness
+3% report gaps
+Communication,
+client relationship
+management,
+emotional
+intelligence,
+leadership
+
+report skills
+gaps within
+teams
+
+Core practical
+abilities
+3% report gaps
+Research, writing
+
+Higher order
+thinking
+2% report gaps
+Critical thinking,
+problem-solving,
+strategic thinking
+
+4% report ‘mindset’ gaps:
+Resistance to change; Work ethic
+
+Source: Thomson Reuters 2025
+© 2025 Thomson Reuters
+
+Our survey shows that Gen Z professionals
+are twice as likely as Baby Boomers to
+identify insufficient digital literacy among
+their colleagues, and some mention
+frustration around their teams’ ability
+to effectively use technology to drive
+further efficiency.
+However, Gen X professionals, comprising
+nearly half of the workforce, demonstrate
+stronger technological engagement than
+commonly assumed, according to our
+research, and participate in AI training at
+rates that exceed those of their younger
+colleagues. And while Baby Boomers do
+self-report lower AI proficiency and
+engage less in AI-focused learning, that
+may be somewhat understandable —
+though not entirely desirable — given their
+advanced career stage.
+
+NOTE: respondents were asked directly if they saw any skills gaps
+in their team (yes/no). Those who did report gaps were then asked
+specific types of skills that are lacking as an open question with no
+prompted response list.
+
+Future of Professionals Report 2025
+
+24
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+How can professionals supercharge
+their AI literacy?
+Over the three years of our survey, professionals
+have made tremendous gains in evaluating and
+improving their own critical AI skills. Now, almost
+all (96%) have at least a basic awareness of AI
+capabilities, although they also recognize their
+understanding still has room to develop. In fact, the
+majority said they don’t yet consider themselves to
+have a good understanding of how to apply AI in
+their daily work.
+So, how can professionals supercharge their AI
+literacy? Many respondents said they were improving
+their AI literacy in myriad ways, both through
+voluntary methods, such as reading, and those
+arranged and mandated by their organization, such
+as attending virtual training.
+Not surprisingly, those professionals who have had
+active involvement in how AI is being developed
+and used within their organization have shown
+themselves to be the most AI proficient. Of course,
+this may be more the case that those professionals
+most interested in new tech are also most likely to
+seek involvement with it.
+Beyond this, the methods of learning most
+associated with higher levels of AI knowledge are
+active training, both in-person and online.
+
+How professionals have been learning about the latest forms of AI
+Mandated
+
+Both mandated and voluntary learning
+
+Voluntary
+
+87%
+
+Read written materials such as reports, articles
+
+77%
+
+Learned through experimentation with AI tools
+
+76%
+
+Informal learning from peers or team
+Attended virtual training
+
+72%
+
+Using new AI features with software already in use
+
+71%
+68%
+
+Attended events such as seminars or webinars
+
+64%
+
+Took part in group discussions
+
+54%
+
+Attended in-person training
+
+50%
+
+Completed online training course
+
+33%
+
+Active involvement in how AI is being developed
+Learned in another way
+
+20%
+Source: Thomson Reuters 2025
+
+The biggest predictor of AI proficiency is engaging in a wide variety of
+learning methods, both on an organizational and personal level.
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+25
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+How can organizations craft modern teams?
+As organizations across all industries confront a
+more AI-driven future, how their leaders choose to
+reconfigure their workforce around this new
+technology may indicate a lot about future success.
+Clearly, the establishment of new roles and a
+rethinking of old roles is in order, and those
+organizations that move ahead quickly on this will
+find themselves in better standing, especially
+when it comes to hiring the kind of tech-savvy
+professionals needed to ensure future
+organizational success.
+
+Business
+development &
+marketing
+
+Tech & AI
+
+Law firms
+and tax &
+accounting
+firms are
+recruiting:
+Specialist
+professionals
+
+Risk &
+compliance
+
+Client
+experience
+
+Tech & AI
+
+Corporate and
+government
+in-house
+teams are
+recruiting:
+
+Sustainability/
+ESG
+
+Operations
+Innovation &
+transformation
+
+Operations
+
+Innovation &
+transformation
+Source: Thomson Reuters 2025
+
+Those organizations that move quickly to establish new roles and rethink
+old ones will find themselves better able to hire the kind of versatile,
+tech-savvy professionals needed to ensure their future success.
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+26
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Thomson Reuters Views
+
+The modern professional must use AI
+to maintain relevance
+Reskilling at all levels requires
+a multifaceted approach
+to AI learning—blending
+formal training, hands-on
+experimentation, collaboration,
+and a mindset of adaptability.
+AI-enabled professionals
+will gain a competitive edge,
+boosting both their personal
+impact and their organization’s
+long-term value.
+
+Today’s modern professional landscape is
+characterized by rapid technological advancements,
+evolving business needs, and shifting workforce
+demographics. To remain competitive, individual
+professionals must prioritize continuous learning
+and development, with a particular focus on
+AI proficiency. Our research shows that those
+professionals who embrace a multifaceted approach
+to AI learning and combine formal training with
+hands-on experimentation and collaboration, will
+gain a significant advantage over their peers. Indeed,
+this proactive approach will not only increase their
+efficiency and effectiveness but also position them
+as valuable assets within their organizations, where
+they will be sought after for their ability to leverage AI
+to drive innovation and achieve strategic goals.
+
+Whether a professional is just beginning to explore
+AI or is already actively using AI tools, a proactive
+approach — one, as we’ve said, that needs to be
+aligned with organizational goals — is essential. For
+those professionals new to AI, this means setting
+clear goals for learning and experimentation, seeking
+out training opportunities, and collaborating with
+colleagues who have more experience. For those
+already using AI, it means continuously seeking
+new ways to leverage these technologies, sharing
+what you learn with others, and advocating for
+the responsible and ethical use of AI within their
+organization. Overall, today’s modern professionals
+take ownership of their AI journey, driving their own
+growth and contributing to the collective success of
+their team and organization.
+
+However, it’s important to remember that developing
+AI fluency is not just about learning new tools; it’s
+about integrating AI into the professional’s mindset
+and workflow. This may require a shift in perspective
+for some professionals, as they need to be moved
+from viewing AI as a threat (or, conversely, as
+irrelevant to their specific role) and toward seeing AI
+as a partner that can augment their abilities and free
+them from repetitive tasks. This new mindset also
+requires professionals be willing to experiment, learn
+from their (and others’) mistakes, and continuously
+adapt to the rapidly evolving AI landscape.
+
+These modern professionals also will increasingly
+work alongside other professionals in diverse roles, as
+well as among differing generational strengths and
+mindsets. To thrive in this environment, professionals
+must be actively aware of how their own strengths
+and those of others can work together in harmony in
+order to deliver the maximum efficiency and value to
+their organizations and their clients.
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+27
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Looking forward:
+How to ensure a
+bright future
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+28
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+What are we seeing for 2025 and beyond?
+When asked to look ahead to the next year and
+beyond, a large portion of professionals saw the kind
+of transformational change driven by AI within their
+organization and their industry as something that’s
+already happening. And many said they’re either
+already seeing the benefits of their organizations’ AI
+investment in their daily work or are expecting to see
+those benefits within the next 12 months.
+Overall, the strongest point that our research made
+is the clear principle that those professional services
+firms, corporate and government departments, and
+corporations that craft a clear AI strategy linked to
+their overall goals will be the ones reaping the
+benefits. To complement this, those professionals
+that seek to improve their AI proficiency will similarly
+reap the benefits of this effort.
+Meanwhile, those organizations and professionals
+that choose to move forward without a strategic
+approach or simply want to wait to see how the
+whole AI thing plays out will find themselves
+floundering and ultimately failing to maintain a
+competitive advantage or deliver value
+to their businesses or clients.
+
+53%
+5 hours
+per week
+
+believe their organization is
+already experiencing at least one
+type of benefit from AI adoption
+
+Anticipated
+savings due
+to AI:
+
+240 hours
+per year
+
+Around half expect to have begun
+their transformation journey
+in next 12 months
+Source: Thomson Reuters 2025
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+29
+
+Foreword
+
+Bridging the gap between tech today and business tomorrow
+
+The jagged edge of AI adoption
+
+The modern professional
+
+Looking forward: How to ensure a bright future
+
+Methodology
+
+Methodology
+Our third annual Future of Professionals report draws
+on comprehensive research across multiple sectors
+to provide actionable insights on how professionals
+can harness technological innovation while keeping
+sight of the fundamental organizational vision that
+must guide AI implementation within the organization.
+The data was gathered in February and March 2025
+from 2,275 responses to a survey sent to professionals
+in the legal, risk, compliance, tax, accounting, audit,
+and trade industries, both among outside firms and
+in-house corporate functions.
+
+UK:
+317 responses
+
+Canada:
+255 responses
+US:
+1,021 responses
+
+Middle East:
+43 responses
+
+Australia and
+New Zealand:
+135 responses
+
+Size of tax firm (total employees)
+
+Size of law firm (total employees)
+Total
+
+Legal
+
+Total
+
+2275
+
+1363
+
+594
+
+61
+
+257
+
+Firm
+
+1447
+
+985
+
+462
+
+—
+
+—
+
+Risk,
+Corporate
+Fraud &
+C-Suite
+Compliance
+
+Up to 100
+
+101-1000
+
+1001+
+
+1 to 3
+
+58%
+
+27%
+
+617
+
+197
+
+132
+
+41
+
+257
+
+Government
+
+211
+
+191
+
+—
+
+20
+
+—
+
+<$500m
+35%
+
+$500m-$5bn
+
+4 to 29
+
+19%
+
+16%
+
+30 or more
+33%
+
+45%
+
+Level of government
+
+Corporate revenue (USD)
+Business/
+corporation
+
+Asia:
+132 responses
+
+Africa:
+21 responses
+
+Latin America:
+198 responses
+
+Tax, audit,
+trade &
+accounting
+
+Mainland Europe: 153 responses
+
+City or Municipal
+
+$5bn+
+39%
+
+26%
+
+8%
+
+18%
+
+County
+34%
+
+State
+
+Federal
+5%
+
+Outside US
+35%
+
+Future of Professionals Report 2025
+© 2025 Thomson Reuters
+
+30
+
+Thomson Reuters
+Thomson Reuters is a leading provider of business
+information services. Our products include highly
+specialized information-enabled software and
+tools for legal, tax, accounting and compliance
+professionals combined with the world’s most
+global news service – Reuters.
+For more information, visit tr.com. and for the latest
+world news, reuters.com.
+
+Thomson Reuters Institute
+The Thomson Reuters Institute brings together
+people from across the legal, corporate, tax,
+accounting & audit, and government communities
+to ignite conversation and debate, make sense of
+the latest events and trends and provide essential
+guidance on the opportunities and challenges
+facing their world today. As the dedicated thought
+leadership arm of Thomson Reuters, our content
+spans blog commentaries, industry-leading data
+sets, informed analyses, interviews with industry
+leaders, videos, podcasts and world-class events
+that deliver keen insight into a dynamic business
+landscape.
+Visit thomsonreuters.com/institute for more details.
+
+© 2025 Thomson Reuters 6-25
+
+

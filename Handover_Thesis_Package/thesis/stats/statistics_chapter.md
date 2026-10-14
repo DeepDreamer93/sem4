@@ -2,7 +2,9 @@
 
 ## 1. Purpose
 
-This chapter adds simple quantitative evidence to the qualitative findings. It tests whether public data support the study's main claims: AI use in banking is rising, bank disclosures increasingly cover AI, reskilling and AI regulation, AI-related roles need a different skill mix, and skills are a recognised constraint. The tests are hypotheses H5–H10. They complement propositions P1–P4 and questionnaire hypotheses H1–H4; they do not replace them.
+The study follows a sequential exploratory mixed-methods design. Practitioner interviews came first and produced themes T1–T10. These themes were then turned into testable hypotheses (H5–H10), which were tested against publicly available industry data (D1–D4). The questionnaire is used descriptively to show how practitioners rate the same themes.
+
+So the statistics answer one question: do the patterns described by practitioners also appear across the wider industry? The interview themes decided which public-data tests were run. The public datasets themselves are independent sources. They test propositions P1–P4 through triangulation and do not replace them.
 
 All analysis is reproducible with `stats/scripts/analysis.py`. Full output is in `stats/out/results.md` and `stats/out/test_results.csv`. The significance level is α = 0.05.
 
@@ -34,7 +36,19 @@ All analysis is reproducible with `stats/scripts/analysis.py`. Full output is in
 
 D2 counts come from fixed regular expressions run over the full extracted text, divided by total word count, so long and short reports can be compared fairly.
 
-## 4. Hypotheses
+## 4. From interview themes to hypotheses
+
+| Interview theme | What practitioners said | Public-data hypothesis |
+|---|---|---|
+| T1. Automation precedes AI; pilot-to-production gap | AI is spreading but is often still at the pilot stage | H5a, H8: AI adoption is rising |
+| T2/T3. Routine work absorbed; roles recomposed | Rules-based tasks are automated first; roles shift towards review | H10a (AI density); H6: AI-exposed roles have a different skill mix |
+| T4/T5. Expert review and accountability | Humans must be able to challenge AI; senior accountability matters | H10a (AI-governance density); H10b: named AI governance bodies |
+| T6. Regulation felt unevenly | DORA, AI Act and SS1/23 matter, but unevenly | H10a (regulation density); H10d: UK vs EU |
+| T7. Hybrid skill profile | Data, AI, cyber and automation skills rising alongside judgement | H5b, H6, H7: skills and pay in AI roles |
+| T8/T9. Knowledge loss; build-buy-borrow skills | Training lags; specialist gaps persist | H9: skills constraint; H10a (reskilling); H10c: reskilling vs AI intensity |
+| T10. Anxiety and weak change management | Concern about jobs; weak communication | Questionnaire constructs D and G (descriptive) |
+
+## 5. Hypotheses
 
 | | H0 (null) | H1 (alternative) | Data |
 |---|---|---|---|
@@ -49,7 +63,9 @@ D2 counts come from fixed regular expressions run over the full extracted text, 
 | H10c | FY2025 AI density is not correlated with reskilling density | They are correlated | D2 |
 | H10d | UK and EU banks do not differ in FY2025 densities | They differ | D2 |
 
-## 5. Choice of tests
+Questionnaire hypotheses H1–H4 (Second Review section 3.6) are assessed descriptively: the construct or item mean is compared with the scale midpoint of 3, and no significance test is applied.
+
+## 6. Choice of tests
 
 - **Paired t-test with Wilcoxon signed-rank (H5a, H10a).** The same countries or banks are measured twice, so the comparison is paired. The t-test compares mean change. The Wilcoxon test checks the result without assuming normality, which matters for small, skewed samples such as D2 densities. Both are one-sided because the hypotheses predict an increase.
 - **Friedman test (H5a).** A non-parametric repeated-measures test across all four Eurostat years.
@@ -60,9 +76,9 @@ D2 counts come from fixed regular expressions run over the full extracted text, 
 - **McNemar exact test (H10b).** A paired yes/no outcome for the same banks in two years.
 - **Spearman rho (H10c).** A rank correlation that is robust to outliers in a small sample.
 
-## 6. Results
+## 7. Results
 
-### 6.1 D1 – AI adoption across EU economies (H5)
+### 7.1 D1 – AI adoption across EU economies (H5)
 
 | Year | Mean AI adoption, 10+ staff (%) | Mean AI adoption, 250+ staff (%) | Mean ICT specialists (% employment) |
 |---|---|---|---|
@@ -82,7 +98,7 @@ D2 counts come from fixed regular expressions run over the full extracted text, 
 
 H5a and H5b are supported. Adoption rose in every country, and countries with more ICT specialists adopt more AI (Figure 1, `out/fig_D1.png`).
 
-### 6.2 D2 – Bank annual reports (H10)
+### 7.2 D2 – Bank annual reports (H10)
 
 Mean (median) density per 10,000 words, 19 banks with both years:
 
@@ -118,7 +134,7 @@ Mean (median) density per 10,000 words, 19 banks with both years:
 
 See Figure 2 (`out/fig_D2.png`).
 
-### 6.3 D3 – Job adverts (H6, H7)
+### 7.3 D3 – Job adverts (H6, H7)
 
 Of the 163 adverts, 44.2% mention AI/ML (95% CI 36.8–51.8%).
 
@@ -138,7 +154,7 @@ Of the 163 adverts, 44.2% mention AI/ML (95% CI 36.8–51.8%).
 
 H6 is supported for data, regulatory, cyber and automation skills. AI-exposed adverts want more technical skills and fewer regulatory skills. H7 is supported only for AI-titled roles, and that group is very small. See Figure 3 (`out/fig_D3.png`).
 
-### 6.4 D4 – Published surveys (H8, H9)
+### 7.4 D4 – Published surveys (H8, H9)
 
 | Test | Statistic | p | Effect | n |
 |---|---|---|---|---|
@@ -149,11 +165,42 @@ H6 is supported for data, regulatory, cyber and automation skills. AI-exposed ad
 
 H8 is supported. H9 is supported for the professional surveys, but not for the Bank of England/FCA firm-level item, which is just short of significance.
 
-### 6.5 Questionnaire (descriptive only)
+### 7.5 Questionnaire (descriptive only)
 
-The questionnaire is reported descriptively, as construct means on a 5-point scale. No inferential tests are run. Means: A 3.58, B 4.00, C 3.87, D 3.89, E 3.75, F 3.83, G 3.58.
+Construct scores on a 1–5 scale (1 = strongly disagree, 5 = strongly agree). These are descriptive results from a small purposive sample. They are not generalised, and no significance tests are applied.
 
-## 7. Interpretation against objectives and propositions
+| Construct (items) | Mean | SD |
+|---|---|---|
+| A. Perceived usefulness (7–10) | 3.58 | 0.72 |
+| B. Perceived ease of use (11–13) | 4.00 | 0.33 |
+| C. Trust in AI output (14–18) | 3.87 | 0.50 |
+| D. Perceived replaceability (concern) (19–21) | 3.89 | 0.96 |
+| E. Skills and reskilling (22–25) | 3.75 | 1.09 |
+| F. Human oversight and accountability (26–27) | 3.83 | 1.04 |
+| G. Organisational response (item 30 reversed) (28–31) | 3.58 | 0.52 |
+
+| Hypothesis | Measure | Mean (SD) | Reading |
+|---|---|---|---|
+| H1 Tools are useful | Construct A | 3.58 (0.72) | Above midpoint |
+| H2 Tools are easy to use | Construct B | 4.00 (0.33) | Above midpoint; highest construct |
+| H3 Roles will change substantially | Item 20 | 4.33 (0.58) | Above midpoint; lowest dispersion |
+| H4 Trust is conditional | Item 16 (can defend AI decision) vs item 17 (rely without re-performing) | 4.33 (0.58) vs 3.67 (1.15) | Defending > relying; reliance more dispersed |
+
+Training adequacy (item 23, 3.33 (1.53)) is the lowest-rated skills item. Data skills (item 24) and judgement (item 25) are both rated 4.00.
+
+## 8. Interpretation against objectives and propositions
+
+### 8.1 Combining practitioner views with industry data
+
+| Theme | Questionnaire (mean, 1–5) | Public data (statistical test) | Converge? |
+|---|---|---|---|
+| AI use is spreading and roles will change (T1–T3) | Role will change substantially: item 20 = 4.33 (0.58) | AI adoption in large EU firms 27.5% → 53.6% (H5a, p<0.0001); UK FS firms using AI 58% → 75% (H8, p=0.008); bank-report AI mentions up in 19/19 banks (H10a, p<0.0001) | Yes |
+| Data/technical skills more important (T7) | Data skills more important: item 24 = 4.00 (1.00) | AI-exposed adverts ask for data skills 51% vs 25%, automation 49% vs 13% (H6, Holm p≤0.002) | Yes |
+| Training lags demand (T8/T9) | Training adequate: item 23 = 3.33 (1.53) (lowest skills item) | Reskilling mentions grew far less than AI mentions (H10a); no link between AI and reskilling intensity (H10c, ρ=−0.16); most professionals say tech skills must grow (H9) | Yes |
+| Oversight exists but is not yet embedded (T4–T6) | Accountable people knowledgeable: item 26 = 4.00 (1.00); oversight requirements clear: item 27 = 3.67 (1.15) | AI Act/DORA/SS1/23 mentions rose (H10a, p<0.0001); banks naming an AI governance body 5% → 42% (H10b, p=0.016); AI-governance wording flat (p≈0.07) | Partly: structures are growing faster than practice |
+| AI pays a premium (T7) | — | AI-titled roles £90k vs £60k median (H7, p=0.009); not for broadly AI-exposed roles | Partly |
+
+### 8.2 Against objectives and propositions
 
 | Proposition / objective | Statistical evidence | Verdict |
 |---|---|---|
@@ -166,11 +213,19 @@ The questionnaire is reported descriptively, as construct means on a 5-point sca
 
 **Overall:** the numbers support the qualitative story. AI adoption and AI disclosure in banks have risen sharply since 2022, and so have regulatory and governance structures. Skills and reskilling responses are growing more slowly and are not matched to AI intensity. This supports the case for the workforce framework in objective (v).
 
-## 8. Limitations
+## 9. Limitations
 
 - **D1** covers the whole economy and excludes the financial sector. It is context only.
 - **D2** counts words, not actions. A mention of AI or reskilling does not show what a bank actually does. Results also depend on report length, language and PDF text extraction. Only 19 of 29 banks had both years available, and UK banks are few (6 in FY2025), so the regional tests have low power. One bank's fiscal year ends in April and is mapped to the nearest year.
 - **D3** comes from one UK job board on one collection date (a convenience sample). It has no EU adverts and very few AI-titled adverts (19; 8 with salary), so the H7 pay result is indicative only.
 - **D4** is secondary published data. The survey waves use different firm samples.
-- **Questionnaire** results are descriptive only and are not generalised.
+- **Questionnaire** results come from a small purposive sample. They are descriptive only and are not generalised. The questionnaire and the public data measure different units (individuals vs countries, banks and adverts), so they are compared side by side, not pooled in one test.
 - Multiple tests are run. Holm corrections are applied within families (H6, H10d), but other p-values are unadjusted.
+
+## Appendix A. Banks in the D2 sample (public annual reports)
+
+Tables use codes, so individual banks are not singled out. The banks are listed here for transparency.
+
+- **Both FY2022 and FY2025 (paired tests):** ABN AMRO (EU), BBVA (EU), Banco Santander (EU), Bank of Ireland (EU), Barclays (UK), Danske Bank (EU), Deutsche Bank (EU), Erste Group (EU), Groupe BPCE (EU), HSBC Holdings (UK), Intesa Sanpaolo (EU), KBC Group (EU), NatWest Group (UK), Nationwide Building Society (UK), Nordea (EU), Santander UK (UK), Société Générale (EU), Standard Chartered (UK), UniCredit (EU).
+- **One year only (FY2025 cross-section):** Handelsbanken (EU), ING Group (EU), Rabobank (EU), SEB (EU).
+- **Not coded (no full English report available or automated access blocked):** AIB Group, BNP Paribas, CaixaBank, Commerzbank, Crédit Agricole, Lloyds Banking Group.

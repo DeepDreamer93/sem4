@@ -227,5 +227,6 @@ Training adequacy (item 23, 3.33 (1.53)) is the lowest-rated skills item. Data s
 Tables use codes, so individual banks are not singled out. The banks are listed here for transparency.
 
 - **Both FY2022 and FY2025 (paired tests):** ABN AMRO (EU), BBVA (EU), Banco Santander (EU), Bank of Ireland (EU), Barclays (UK), Danske Bank (EU), Deutsche Bank (EU), Erste Group (EU), Groupe BPCE (EU), HSBC Holdings (UK), Intesa Sanpaolo (EU), KBC Group (EU), NatWest Group (UK), Nationwide Building Society (UK), Nordea (EU), Santander UK (UK), Société Générale (EU), Standard Chartered (UK), UniCredit (EU).
-- **One year only (FY2025 cross-section):** Handelsbanken (EU), ING Group (EU), Rabobank (EU), SEB (EU).
+- **FY2025 only (included in FY2025 cross-section):** Handelsbanken (EU), ING Group (EU), SEB (EU).
+- **FY2022 only (not used in tests):** Rabobank (EU).
 - **Not coded (no full English report available or automated access blocked):** AIB Group, BNP Paribas, CaixaBank, Commerzbank, Crédit Agricole, Lloyds Banking Group.

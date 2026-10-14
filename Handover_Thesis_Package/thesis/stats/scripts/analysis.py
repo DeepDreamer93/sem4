@@ -1,12 +1,13 @@
-"""Statistical add-on: hypothesis tests on D1 (Eurostat), D3 (job ads), D4 (published surveys). D2 added when complete."""
+"""Statistical add-on: hypothesis tests on D1 (Eurostat), D2 (bank annual reports), D3 (job ads), D4 (published surveys)."""
 import pandas as pd, numpy as np, os
 from scipy import stats
 from statsmodels.stats.proportion import proportions_ztest, proportion_confint
 from statsmodels.stats.multitest import multipletests
+from statsmodels.stats.contingency_tables import mcnemar
 import statsmodels.api as sm
 import matplotlib; matplotlib.use('Agg'); import matplotlib.pyplot as plt
 
-R='/home/ubuntu/thesis/stats'; D=f'{R}/data'; O=f'{R}/out'; os.makedirs(O,exist_ok=True)
+R=os.path.dirname(os.path.dirname(os.path.abspath(__file__))); D=f'{R}/data'; O=f'{R}/out'; os.makedirs(O,exist_ok=True)
 rows=[]; out=[]
 def rec(h,data,test,stat,p,effect,n,note=''):
     rows.append(dict(hypothesis=h,data=data,test=test,statistic=round(stat,3),p_value=p,effect=effect,n=n,note=note))
@@ -34,9 +35,43 @@ for col,lab in [('ai_ge10','10+'),('ai_ge250','250+')]:
 ols=sm.OLS(w[('ai_ge10',yr)],sm.add_constant(x)).fit()
 rec(f'H5b: OLS AI adoption(10+) = a + b*ICT share ({yr})','D1','Simple linear regression',ols.tvalues.iloc[1],ols.pvalues.iloc[1],f'b={ols.params.iloc[1]:.2f} pp per 1 pp ICT share; R2={ols.rsquared:.2f}',int(ols.nobs))
 fig,ax=plt.subplots(1,2,figsize=(11,4))
-c.groupby('year')[['ai_ge10','ai_ge250']].mean().plot(marker='o',ax=ax[0]); ax[0].set_title('Mean AI adoption, EU27 countries (%)'); ax[0].legend(['10+ staff','250+ staff'])
+c.groupby('year')[['ai_ge10','ai_ge250']].mean().plot(marker='o',ax=ax[0]); ax[0].set_title('Mean AI adoption, EU27 countries (%)'); ax[0].legend(['10+ staff','250+ staff']); ax[0].set_xticks(sorted(c.year.unique())); ax[0].set_xlabel('Year')
 ax[1].scatter(x,w[('ai_ge10',yr)]); ax[1].plot(x,ols.predict(sm.add_constant(x)),'r-'); ax[1].set_xlabel('ICT specialists, % of employment'); ax[1].set_ylabel('AI adoption % (10+ staff)'); ax[1].set_title(f'ICT skills vs AI adoption, {yr}')
 plt.tight_layout(); plt.savefig(f'{O}/fig_D1.png',dpi=150); plt.close()
+
+# ---------- D2 ----------
+b=pd.read_csv(f'{D}/D2_bank_reports.csv'); b=b[b.total_words.fillna(0)>0].copy()
+dens=['ai_d','reskill_d','aigov_d','reg_d']; lab2={'ai_d':'AI','reskill_d':'reskilling','aigov_d':'AI governance','reg_d':'AI/digital regulation'}
+pw=b.pivot(index='bank_code',columns='fy',values=dens+['aigov_body']).dropna()
+pb=b[b.bank_code.isin(pw.index)]
+out.append(f'\n## D2 Bank annual reports: term density per 10,000 words (banks coded in both FY2022 and FY2025, n={len(pw)})\n')
+g=pb.groupby('fy')[dens].agg(['mean','median','std']).round(3); g.columns=[f'{a}_{b2}' for a,b2 in g.columns]
+g['aigov_body_share']=pb.groupby('fy').aigov_body.mean().round(3); g['n']=pb.groupby('fy').size(); out.append(md(g.reset_index()))
+f25=b[b.fy==2025]; g2=f25.groupby('region')[dens].median().round(3); g2['n']=f25.groupby('region').size()
+out.append(f'\nFY2025 medians by region (all coded FY2025 reports, n={len(f25)}):\n'); out.append(md(g2.reset_index()))
+for v in dens:
+    x=pw[(v,2022)]; y=pw[(v,2025)]; d=y-x; h=f'H10a: {lab2[v]} term density rose FY2022->FY2025'
+    t=stats.ttest_rel(y,x,alternative='greater'); dz=d.mean()/d.std(ddof=1)
+    rec(h,'D2','Paired t-test (one-sided)',t.statistic,t.pvalue,f'mean diff {d.mean():.3f} per 10k words; Cohen dz {dz:.2f}',len(d))
+    if (d!=0).any():
+        wx=stats.wilcoxon(y,x,alternative='greater')
+        rec(h,'D2','Wilcoxon signed-rank (one-sided)',wx.statistic,wx.pvalue,f'median diff {d.median():.3f}; {int((d>0).sum())}/{len(d)} banks up',len(d))
+ct=pd.crosstab(pw[('aigov_body',2022)].astype(int),pw[('aigov_body',2025)].astype(int)).reindex(index=[0,1],columns=[0,1],fill_value=0)
+mc=mcnemar(ct.values,exact=True)
+rec('H10b: share of banks disclosing a named AI governance body changed FY2022->FY2025','D2','McNemar exact (two-sided)',mc.statistic,mc.pvalue,f'{ct.loc[0,1]} banks 0->1, {ct.loc[1,0]} banks 1->0; share {ct.loc[1].sum()/len(pw):.0%} -> {ct[1].sum()/len(pw):.0%}',len(pw))
+sr=stats.spearmanr(f25.ai_d,f25.reskill_d)
+rec('H10c: AI density correlates with reskilling density (FY2025)','D2','Spearman rho (two-sided)',sr.statistic,sr.pvalue,f'rho={sr.statistic:.2f}',len(f25))
+uk=f25[f25.region=='UK']; eu=f25[f25.region=='EU']; ps=[]; idx=[]
+for v in dens:
+    mw=stats.mannwhitneyu(uk[v],eu[v],alternative='two-sided'); r_rb=1-2*mw.statistic/(len(uk)*len(eu))
+    rec(f'H10d: UK vs EU banks differ in {lab2[v]} density (FY2025)','D2','Mann-Whitney U (two-sided)',mw.statistic,mw.pvalue,f'median UK {uk[v].median():.3f} vs EU {eu[v].median():.3f}; rank-biserial r={-r_rb:.2f}',len(uk)+len(eu),f'n={len(uk)} UK vs {len(eu)} EU'); ps.append(mw.pvalue); idx.append(len(rows)-1)
+for i,a in zip(idx,multipletests(ps,method='holm')[1]): rows[i]['note']+=f'; Holm-adjusted p={a:.4f}'
+fig,ax=plt.subplots(1,4,figsize=(13,3.6))
+for a,v in zip(ax,dens):
+    for bk in pw.index: a.plot([2022,2025],[pw.loc[bk,(v,2022)],pw.loc[bk,(v,2025)]],color='grey',alpha=.4,lw=.8)
+    a.plot([2022,2025],[pw[(v,2022)].median(),pw[(v,2025)].median()],color='#0072B2',marker='o',lw=2.5,label='median')
+    a.set_xticks([2022,2025]); a.set_title(f'{lab2[v]} terms'); a.set_ylabel('mentions per 10k words')
+ax[0].legend(); plt.suptitle(f'Bank annual reports FY2022 vs FY2025 (n={len(pw)} banks)'); plt.tight_layout(); plt.savefig(f'{O}/fig_D2.png',dpi=150); plt.close()
 
 # ---------- D3 ----------
 j=pd.read_csv(f'{D}/D3_job_ads.csv'); skills=['data','reg','cyber','automation','cert','governance']

@@ -1,60 +1,60 @@
 bank_code,bank_name,fy,doc_title,url,reason
-A,KBC Group,2022,,,not yet searched
+A,KBC Group,2022,KBC Group Annual Report 2022,https://www.kbc.com/content/dam/kbccom/doc/investor-relations/Results/jvs-2022/jvs-2022-grp-en.pdf,
 A,KBC Group,2025,Annual report,https://wcmassets.kbc.be/content/dam/kbccom/doc/investor-relations/Results/jvs-2025/jvs-2025-gr-en.pdf.cdn.res/last-modified/1774614405054/jvs-2025-gr-en.pdf,
-B,Handelsbanken,2022,,,not yet searched
-B,Handelsbanken,2025,,,not yet searched
-C,Danske Bank,2022,,,not yet searched
-C,Danske Bank,2025,,,not yet searched
-D,Nordea,2022,,,not yet searched
-D,Nordea,2025,,,not yet searched
-E,NatWest Group,2022,,,not yet searched
-E,NatWest Group,2025,Annual report and accounts (PDF 19MB),https://investors.natwestgroup.com/~/media/Files/R/RBS-IR-V2/results-center/14022025/nwg-annual-report-and-accounts-accessible-11032025.pdf,
-F,BNP Paribas,2022,,,not yet searched
-F,BNP Paribas,2025,,,not yet searched
-G,BBVA,2022,,,not yet searched
-G,BBVA,2025,,,not yet searched
-H,Erste Group,2022,,,not yet searched
-H,Erste Group,2025,,,not yet searched
-I,Deutsche Bank,2022,,,not yet searched
-I,Deutsche Bank,2025,,,not yet searched
-J,HSBC Holdings,2022,,,not yet searched
+B,Handelsbanken,2022,,,FY2022 full Annual and Sustainability Report not located on official IR site (only Sustainability Factbook / governance extract found); FY2025 coded but unpaired
+B,Handelsbanken,2025,Handelsbanken Annual and Sustainability Report 2025,https://www.handelsbanken.com/tron/xgpu/info/contents/v1/document/72-275957,
+C,Danske Bank,2022,Danske Bank Annual Report 2022,https://danskebank.com/-/media/danske-bank-com/file-cloud/2023/2/danske-bank-annual-report-2022.pdf,
+C,Danske Bank,2025,Danske Bank Annual Report 2025,https://danskebank.com/-/media/danske-bank-com/file-cloud/2026/2/annual-report-2025.pdf?rev=16af459cfa094b8ab365a911a324f7f2,
+D,Nordea,2022,Nordea Bank Abp Annual Report 2022,https://www.nordea.com/en/doc/annual-report-nordea-bank-abp-2022.pdf,
+D,Nordea,2025,Nordea Annual Report 2025,https://www.nordea.com/en/doc/nordea-annual-report-2025.pdf,
+E,NatWest Group,2022,NatWest Group plc 2022 Annual Report and Accounts,https://investors.natwestgroup.com/~/media/Files/R/RBS-IR-V2/results-center/17022023/nwg-annual-report-and-accounts.pdf,
+E,NatWest Group,2025,NatWest Group plc 2025 Annual Report and Accounts,https://investors.natwestgroup.com/~/media/Files/R/RBS-IR-V2/results-center/13022026/nwg-annual-report-and-accounts-2025.pdf,
+F,BNP Paribas,2022,,,official IR page found (invest.bnpparibas/en/document/universal-registration-document-2022) but no direct PDF link located
+F,BNP Paribas,2025,BNP Paribas Universal Registration Document and Annual Financial Report 2025,https://cdn-group.bnpparibas.com/uploads/file/universal-registration-document-annual-financial-report-2025.pdf,download failed: HTTP 403; manual download to raw/d2/F_FY2025.pdf
+G,BBVA,2022,BBVA Annual Report 2022,https://shareholdersandinvestors.bbva.com/wp-content/uploads/2023/03/Annual-Report-BBVA_2022_ENG.pdf,
+G,BBVA,2025,BBVA Annual Report 2025,https://shareholdersandinvestors.bbva.com/wp-content/uploads/2026/03/Annual-Report-BBVA-2025_ENG.pdf,
+H,Erste Group,2022,Erste Group Annual Report 2022,https://cdn.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2022/Reports/AR2022_FINAL_en.pdf?forceDownload=1,
+H,Erste Group,2025,Erste Group Annual Report 2025,https://cdn.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/onlinear2025/ar25reports/AR2025_FINAL_en.pdf?forceDownload=1,
+I,Deutsche Bank,2022,Deutsche Bank Annual Report 2022,https://investor-relations.db.com/files/documents/annual-reports/2023/Annual-Report-2022.pdf,
+I,Deutsche Bank,2025,Deutsche Bank Annual Report 2025,https://investor-relations.db.com/files/documents/other-presentations-and-events/2025/Annual-Report-2025.pdf?language_id=1,
+J,HSBC Holdings,2022,HSBC Holdings plc Annual Report and Accounts 2022,https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2022/annual/pdfs/hsbc-holdings-plc/230221-annual-report-and-accounts-2022.pdf,
 J,HSBC Holdings,2025,"Annual Report and Accounts 2025                             
                                  (PDF 10MB)",https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2025/annual/pdfs/hsbc-holdings-plc/260225-annual-report-and-accounts-2025.pdf?download=1,
-K,Crédit Agricole,2022,,,not yet searched
-K,Crédit Agricole,2025,,,not yet searched
-L,Santander UK,2022,,,not yet searched
-L,Santander UK,2025,,,not yet searched
-M,Lloyds Banking Group,2022,,,not yet searched
-M,Lloyds Banking Group,2025,,,not yet searched
-N,UniCredit,2022,,,not yet searched
-N,UniCredit,2025,,,not yet searched
-O,ING Group,2022,,,not yet searched
-O,ING Group,2025,,,not yet searched
-P,Société Générale,2022,,,not yet searched
-P,Société Générale,2025,,,not yet searched
-Q,AIB Group,2022,,,not yet searched
-Q,AIB Group,2025,Annual Report 2025,https://www.aib-net.org/sites/default/files/assets/aib/AIB%20Annual%20Report%20full%20version%202025%20-%2003.06.2026.pdf,
-R,Groupe BPCE,2022,,,not yet searched
-R,Groupe BPCE,2025,,,not yet searched
-S,Banco Santander,2022,,,not yet searched
-S,Banco Santander,2025,,,not yet searched
-T,Intesa Sanpaolo,2022,,,not yet searched
-T,Intesa Sanpaolo,2025,,,not yet searched
-U,Standard Chartered,2022,,,not yet searched
-U,Standard Chartered,2025,,,not yet searched
+K,Crédit Agricole,2022,,,official links are press releases only; English URD PDF not retrievable (pdfPreview server errors)
+K,Crédit Agricole,2025,,,press release says only French URD at publication; English URD PDF not located
+L,Santander UK,2022,Santander UK plc Annual Report 2022,https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:dc95a81a-fdac-4e1e-a15f-d50f60793f7e/original/as/santander_uk_plc_annual_report_2022.pdf,
+L,Santander UK,2025,Santander UK plc 2025 Annual Report,https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:3354c770-02eb-47ee-aff2-b2354eeb8c86/original/as/SantanderUKplc2025AnnualReport.pdf,
+M,Lloyds Banking Group,2022,,,Lloyds IR site is script-rendered; direct PDF link not located - manual download from https://www.lloydsbankinggroup.com/investors/annual-report/annual-report-archive/annual-report-2022.html
+M,Lloyds Banking Group,2025,,,Lloyds IR site is script-rendered; direct PDF link not located - manual download from https://www.lloydsbankinggroup.com/investors/annual-report.html
+N,UniCredit,2022,UniCredit 2022 Annual Reports and Accounts,https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/en/investors/financial-reports/2022/4Q22/2022-Annual-Reports-and-Accounts.pdf,
+N,UniCredit,2025,UniCredit 2025 Annual Reports and Accounts,https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/en/investors/financial-reports/2025/4q25/2025-Annual-Reports-and-Accounts.pdf,
+O,ING Group,2022,,,2022 report no longer listed on official ING annual-reports page; not sourced (research kept minimal)
+O,ING Group,2025,ING Groep N.V. Annual Report 2025,https://ing.com/binaries/content/assets/documents/annual-reports/2025-ing-groep-nv-annual-report.pdf,
+P,Société Générale,2022,Societe Generale Universal Registration Document 2023 (FY2022),https://www.societegenerale.com/sites/default/files/documents/2023-03/2023-universal-registration-document-en.pdf,
+P,Société Générale,2025,Societe Generale Universal Registration Document 2026 (FY2025),https://investors.societegenerale.com/sites/default/files/documents/2026-03/universal-registration-document-2026.pdf,
+Q,AIB Group,2022,AIB Group plc Annual Financial Report 2022,https://www.aib.ie/content/dam/frontdoor/investorrelations/docs/resultscentre/annualreport/2022/AIB-Group-plc-AFR-dec-2022.pdf,download failed: HTTP 403; manual download to raw/d2/Q_FY2022.pdf
+Q,AIB Group,2025,,,"cached file was Association of Issuing Bodies (AIB, energy certificates) report, not AIB Group - rejected; AIB Group AFR 2025 on aib.ie blocks automated access (403) - manual download from https://www.aib.ie/investorrelations/financial-information/results-centre/2025-financial-results"
+R,Groupe BPCE,2022,Groupe BPCE 2022 Universal Registration Document,https://www.groupebpce.com/app/uploads/2023/11/BPCE2022_URD_EN_BAT_MEL1_23-03-31.pdf,
+R,Groupe BPCE,2025,Groupe BPCE 2025 Universal Registration Document,https://www.groupebpce.com/app/uploads/2026/05/bpce-urd--2025.pdf,
+S,Banco Santander,2022,Banco Santander Consolidated Annual Financial Report 2022,https://www.santander.com/content/dam/santander-com/en/documentos/informe-financiero-anual/2022/ifa-2022-consolidated-annual-financial-report-en.pdf,
+S,Banco Santander,2025,Banco Santander Consolidated Annual Financial Report 2025,https://www.santander.com/content/dam/santander-com/en/documentos/informe-financiero-anual/2025/ifa-2025-consolidated-annual-financial-report-en.pdf,
+T,Intesa Sanpaolo,2022,Intesa Sanpaolo 2022 Annual Report,https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/bilanci-relazioni-en/2022/2022_Annual__report.pdf,
+T,Intesa Sanpaolo,2025,Intesa Sanpaolo 2025 Annual Report,https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/bilanci-relazioni-en/2025/2025_Annual_Report.pdf,
+U,Standard Chartered,2022,Standard Chartered PLC Annual Report 2022,https://av.sc.com/corp-en/nr/content/docs/standard-chartered-plc-full-year-2022-report.pdf,
+U,Standard Chartered,2025,Standard Chartered PLC Annual Report 2025,https://www.sc.com/en/uploads/sites/66/content/docs/standard-chartered-plc-2025-annual-report.pdf,
 V,Barclays,2022,Barclays PLC Annual Report 2022 (PDF 14.6MB),https://home.barclays/content/dam/home-barclays/documents/investor-relations/reports-and-events/annual-reports/2022/AR/Barclays-PLC-Annual-Report-2022.pdf,
 V,Barclays,2025,Barclays PLC Annual Report 2025 (PDF 10.2MB),https://home.barclays/content/dam/home-barclays/documents/investor-relations/reports-and-events/annual-reports/2025/Barclays-PLC-Annual-Report-2025.pdf,
-W,SEB,2022,,,not yet searched
-W,SEB,2025,,,not yet searched
-X,CaixaBank,2022,,,not yet searched
-X,CaixaBank,2025,,,not yet searched
-Y,Commerzbank,2022,,,not yet searched
-Y,Commerzbank,2025,,,not yet searched
-Z,Rabobank,2022,,,not yet searched
-Z,Rabobank,2025,,,not yet searched
-AA,ABN AMRO,2022,,,not yet searched
-AA,ABN AMRO,2025,,,not yet searched
-AB,Bank of Ireland,2022,,,not yet searched
-AB,Bank of Ireland,2025,,,not yet searched
-AC,Nationwide Building Society,2022,,,not yet searched
-AC,Nationwide Building Society,2025,,,not yet searched
+W,SEB,2022,,,"full 2022 report found only on a third-party mirror, not on official SEB IR; not used"
+W,SEB,2025,SEB Annual Report 2025,https://webapp.sebgroup.com/mb/mblib.nsf/alldocsbyunid/1C740093062958DDC1258DAE003DFAF7/$FILE/SEB_Annual_Report_2025_ENG.pdf,
+X,CaixaBank,2022,,,complete English annual report PDF not located on official site; not sourced (research kept minimal)
+X,CaixaBank,2025,,,complete English annual report PDF not located on official site (chapter-split only); not sourced
+Y,Commerzbank,2022,,,Group annual report PDF not located on official IR site (only non-financial report); not sourced
+Y,Commerzbank,2025,,,Group annual report PDF not located on official IR site; not sourced
+Z,Rabobank,2022,Rabobank Annual Report 2022,https://media.rabobank.com/m/467790ff0c0d80c6/original/Annual-Report-2022-EN.pdf,
+Z,Rabobank,2025,,,official rabobank.com reports page returns 403 to automated access; not sourced
+AA,ABN AMRO,2022,ABN AMRO Integrated Annual Report 2022,https://assets.ctfassets.net/1u811bvgvthc/3tn2c2U6QjiBj1IWRNX9cl/c2dde83a535488509bbf0c37726fa407/ABN_AMRO_____Integrated_Annual_Report_2022.pdf,
+AA,ABN AMRO,2025,ABN AMRO Bank Annual Report 2025,https://downloads.ctfassets.net/1u811bvgvthc/688tP3vcLbHAgEsUavbdMR/22bd74bf45996df3f6e76b0893ecc950/ABN_AMRO_Bank_-_Annual_Report_2025.pdf,
+AB,Bank of Ireland,2022,Bank of Ireland Group plc Annual Report 2022,https://investorrelations.bankofireland.com/app/uploads/Bank-of-Ireland-Annual-Report-2022.pdf,
+AB,Bank of Ireland,2025,Bank of Ireland Group plc Annual Report 2025,https://investorrelations.bankofireland.com/app/uploads/Annual-Report-HoldCo-2025-WEB-high-res.pdf,
+AC,Nationwide Building Society,2022,Nationwide Annual Report and Accounts 2023 (FY to 4 Apr 2023),https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/about/how-we-are-run/results-and-accounts/2022-2023/annual-report-and-accounts-2023.pdf?rev=c1007dbd9ee34d0abdd9fc3ad5d7ac64,FY convention: financial year ending 4 Apr 2023 (ARA 2023) used as FY2022
+AC,Nationwide Building Society,2025,Nationwide Annual Report and Accounts 2026 (FY to 4 Apr 2026),https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/about/how-we-are-run/results-and-accounts/2025-2026/annual-report-and-accounts-2026.pdf?rev=8c9b20cf4238408e84bb6f76023fc655,FY convention: financial year ending Apr 2026 (ARA 2026) used as FY2025

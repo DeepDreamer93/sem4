@@ -91,23 +91,22 @@ def wait_for_host(url):
 
 
 def download_pdf(url, destination):
+    """Return (ok, failure_reason)."""
     if destination.exists() and destination.stat().st_size:
-        return True
+        return True, ""
     wait_for_host(url)
     request = Request(url, headers={"User-Agent": USER_AGENT})
     try:
         with urlopen(request, timeout=90) as response:
             payload = response.read()
     except HTTPError as exc:
-        if exc.code in (403, 429):
-            return False
-        return False
-    except (URLError, TimeoutError, OSError):
-        return False
+        return False, f"HTTP {exc.code}"
+    except (URLError, TimeoutError, OSError) as exc:
+        return False, f"network error ({type(exc).__name__})"
     if not payload.startswith(b"%PDF-"):
-        return False
+        return False, "non-PDF payload"
     destination.write_bytes(payload)
-    return True
+    return True, ""
 
 
 def pdf_title(pdf_path):
@@ -164,13 +163,21 @@ def main():
         text_path = RAW / f"{code}_FY{fy}.txt"
         text = None
         source_url = item["url"].strip()
-        if source_url and download_pdf(source_url, pdf_path):
+        have_pdf = pdf_path.exists() and pdf_path.stat().st_size > 0
+        failure = ""
+        if not have_pdf and source_url:
+            have_pdf, failure = download_pdf(source_url, pdf_path)
+        if have_pdf:
             text = extract_text(pdf_path, text_path)
             if text and not item["doc_title"]:
                 item["doc_title"] = pdf_title(pdf_path)
-            if text is not None:
+            if text is None:
+                item["reason"] = "pdftotext extraction failed"
+            elif item.get("reason", "").startswith(("download failed", "not yet searched", "pdftotext")):
                 item["reason"] = ""
-        elif not source_url:
+        elif source_url:
+            item["reason"] = f"download failed: {failure}; manual download to raw/d2/{code}_FY{fy}.pdf"
+        else:
             item["reason"] = item.get("reason") or "not yet searched"
         row = {
             "bank_code": code,

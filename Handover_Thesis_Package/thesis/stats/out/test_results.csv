@@ -13,6 +13,20 @@ H5a: AI adoption differs across 2021/23/24/25 (250+),D1,Friedman test,73.311,<0.
 "H5b: ICT-specialist share correlates with AI adoption (250+, 2025)",D1,Pearson r,0.623,0.0005,r=0.62,27,
 "H5b: ICT-specialist share correlates with AI adoption (250+, 2025)",D1,Spearman rho,0.62,0.0006,rho=0.62,27,
 H5b: OLS AI adoption(10+) = a + b*ICT share (2025),D1,Simple linear regression,5.704,<0.0001,b=5.09 pp per 1 pp ICT share; R2=0.57,27,
+H10a: AI term density rose FY2022->FY2025,D2,Paired t-test (one-sided),6.613,<0.0001,mean diff 2.605 per 10k words; Cohen dz 1.52,19,
+H10a: AI term density rose FY2022->FY2025,D2,Wilcoxon signed-rank (one-sided),190.0,<0.0001,median diff 2.491; 19/19 banks up,19,
+H10a: reskilling term density rose FY2022->FY2025,D2,Paired t-test (one-sided),2.089,0.0256,mean diff 0.161 per 10k words; Cohen dz 0.48,19,
+H10a: reskilling term density rose FY2022->FY2025,D2,Wilcoxon signed-rank (one-sided),142.0,0.0301,median diff 0.107; 13/19 banks up,19,
+H10a: AI governance term density rose FY2022->FY2025,D2,Paired t-test (one-sided),1.561,0.0679,mean diff 0.145 per 10k words; Cohen dz 0.36,19,
+H10a: AI governance term density rose FY2022->FY2025,D2,Wilcoxon signed-rank (one-sided),132.0,0.0723,median diff 0.091; 13/19 banks up,19,
+H10a: AI/digital regulation term density rose FY2022->FY2025,D2,Paired t-test (one-sided),5.423,<0.0001,mean diff 0.195 per 10k words; Cohen dz 1.24,19,
+H10a: AI/digital regulation term density rose FY2022->FY2025,D2,Wilcoxon signed-rank (one-sided),171.0,<0.0001,median diff 0.128; 18/19 banks up,19,
+H10b: share of banks disclosing a named AI governance body changed FY2022->FY2025,D2,McNemar exact (two-sided),0.0,0.0156,"7 banks 0->1, 0 banks 1->0; share 5% -> 42%",19,
+H10c: AI density correlates with reskilling density (FY2025),D2,Spearman rho (two-sided),-0.156,0.4870,rho=-0.16,22,
+H10d: UK vs EU banks differ in AI density (FY2025),D2,Mann-Whitney U (two-sided),87.0,0.0024,median UK 3.962 vs EU 2.004; rank-biserial r=0.81,22,n=6 UK vs 16 EU; Holm-adjusted p=0.0072
+H10d: UK vs EU banks differ in reskilling density (FY2025),D2,Mann-Whitney U (two-sided),23.0,0.0701,median UK 0.217 vs EU 0.419; rank-biserial r=-0.52,22,n=6 UK vs 16 EU; Holm-adjusted p=0.1402
+H10d: UK vs EU banks differ in AI governance density (FY2025),D2,Mann-Whitney U (two-sided),94.0,0.0001,median UK 2.006 vs EU 0.500; rank-biserial r=0.96,22,n=6 UK vs 16 EU; Holm-adjusted p=0.0004
+H10d: UK vs EU banks differ in AI/digital regulation density (FY2025),D2,Mann-Whitney U (two-sided),45.0,0.8577,median UK 0.210 vs EU 0.150; rank-biserial r=-0.06,22,n=6 UK vs 16 EU; Holm-adjusted p=0.8577
 H6: AI-exposed adverts differ in demand for data skills,D3,Chi-square (1 df),11.785,0.0006,OR=3.13; phi=0.27,163,Holm-adjusted p=0.0024
 H6: AI-exposed adverts differ in demand for reg skills,D3,Chi-square (1 df),24.15,<0.0001,OR=0.19; phi=0.38,163,Holm-adjusted p=0.0000
 H6: AI-exposed adverts differ in demand for cyber skills,D3,Chi-square (1 df),7.596,0.0058,OR=4.15; phi=0.22,163,Holm-adjusted p=0.0175

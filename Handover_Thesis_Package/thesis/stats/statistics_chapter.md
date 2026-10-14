@@ -2,9 +2,13 @@
 
 ## 1. Purpose
 
-The study follows a sequential exploratory mixed-methods design. Practitioner interviews came first and produced themes T1–T10. These themes were then turned into testable hypotheses (H5–H10), which were tested against publicly available industry data (D1–D4). The questionnaire is used descriptively to show how practitioners rate the same themes.
+The study follows a sequential exploratory mixed-methods design in three steps:
 
-So the statistics answer one question: do the patterns described by practitioners also appear across the wider industry? The interview themes decided which public-data tests were run. The public datasets themselves are independent sources. They test propositions P1–P4 through triangulation and do not replace them.
+1. **Interviews and questionnaire set the hypotheses.** Practitioner interviews produced themes T1–T10. The questionnaire measured how strongly practitioners agree with those themes (descriptive means and SD only).
+2. **Public data test the hypotheses.** Each theme was turned into a testable hypothesis (H5–H10). These were tested statistically on public industry data (D1–D4): Eurostat, bank annual reports, job adverts and published surveys.
+3. **Triangulation.** Practitioner views and public-data results are compared side by side to judge propositions P1–P4.
+
+So the statistics answer one question: do the patterns practitioners describe also hold across the wider industry? The interviews and questionnaire decided which tests were run. The public datasets are independent sources and were not produced from the primary data.
 
 All analysis is reproducible with `stats/scripts/analysis.py`. Full output is in `stats/out/results.md` and `stats/out/test_results.csv`. The significance level is α = 0.05.
 
@@ -38,15 +42,15 @@ D2 counts come from fixed regular expressions run over the full extracted text, 
 
 ## 4. From interview themes to hypotheses
 
-| Interview theme | What practitioners said | Public-data hypothesis |
-|---|---|---|
-| T1. Automation precedes AI; pilot-to-production gap | AI is spreading but is often still at the pilot stage | H5a, H8: AI adoption is rising |
-| T2/T3. Routine work absorbed; roles recomposed | Rules-based tasks are automated first; roles shift towards review | H10a (AI density); H6: AI-exposed roles have a different skill mix |
-| T4/T5. Expert review and accountability | Humans must be able to challenge AI; senior accountability matters | H10a (AI-governance density); H10b: named AI governance bodies |
-| T6. Regulation felt unevenly | DORA, AI Act and SS1/23 matter, but unevenly | H10a (regulation density); H10d: UK vs EU |
-| T7. Hybrid skill profile | Data, AI, cyber and automation skills rising alongside judgement | H5b, H6, H7: skills and pay in AI roles |
-| T8/T9. Knowledge loss; build-buy-borrow skills | Training lags; specialist gaps persist | H9: skills constraint; H10a (reskilling); H10c: reskilling vs AI intensity |
-| T10. Anxiety and weak change management | Concern about jobs; weak communication | Questionnaire constructs D and G (descriptive) |
+| Interview theme | What practitioners said | Questionnaire signal (mean, 1–5) | Public-data hypothesis |
+|---|---|---|---|
+| T1. Automation precedes AI; pilot-to-production gap | AI is spreading but is often still at the pilot stage | Role will change (item 20): 4.33 | H5a, H8: AI adoption is rising |
+| T2/T3. Routine work absorbed; roles recomposed | Rules-based tasks are automated first; roles shift towards review | Usefulness (construct A): 3.58 | H10a (AI density); H6: AI-exposed roles have a different skill mix |
+| T4/T5. Expert review and accountability | Humans must be able to challenge AI; senior accountability matters | Can defend AI decision (item 16): 4.33; accountable people knowledgeable (item 26): 4.00 | H10a (AI-governance density); H10b: named AI governance bodies |
+| T6. Regulation felt unevenly | DORA, AI Act and SS1/23 matter, but unevenly | Oversight requirements clear (item 27): 3.67 | H10a (regulation density); H10d: UK vs EU |
+| T7. Hybrid skill profile | Data, AI, cyber and automation skills rising alongside judgement | Data skills (item 24): 4.00; judgement (item 25): 4.00 | H5b, H6, H7: skills and pay in AI roles |
+| T8/T9. Knowledge loss; build-buy-borrow skills | Training lags; specialist gaps persist | Training adequate (item 23): 3.33 | H9: skills constraint; H10a (reskilling); H10c: reskilling vs AI intensity |
+| T10. Anxiety and weak change management | Concern about jobs; weak communication | Replaceability concern (construct D): 3.89; organisational response (construct G): 3.58 | Not testable in public data; questionnaire descriptive only |
 
 ## 5. Hypotheses
 

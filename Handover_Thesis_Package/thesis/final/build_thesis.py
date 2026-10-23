@@ -321,7 +321,7 @@ class Thesis:
         self.entries.append(dict(kind=kind, level=1, text=text))
         return para
 
-    def table(self, rows, size=10.5, header=True, borders=True):
+    def table(self, rows, size=10.5, header=True, borders=True, fixed_widths=None):
         ncol = max(len(r) for r in rows)
         lens = [max(6, min(70, max(len(re.sub(r'\*', '', r[i])) if i < len(r) else 0
                                      for r in rows))) for i in range(ncol)]
@@ -333,6 +333,8 @@ class Thesis:
                  for i in range(ncol)]
         widths = [max(w, m) for w, m in zip(widths, min_w)]
         widths = [w / sum(widths) * TEXT_W for w in widths]
+        if fixed_widths:
+            widths = fixed_widths
         t = self.doc.add_table(rows=0, cols=ncol)
         t.style = 'Table Grid' if borders else None
         t.alignment = WD_TABLE_ALIGNMENT.CENTER
@@ -414,7 +416,7 @@ class Thesis:
             ['(in capital letters)', f'Designation: {GUIDE_DESIG}'],
             [f'Roll No.: {ROLL}', f'Address: {GUIDE_ADDR}'],
             [f'Reg. No.: {REG}', ''],
-        ], size=12, header=False, borders=False)
+        ], size=12, header=False, borders=False, fixed_widths=[60, TEXT_W - 60])
         for cell, sig, width in ((t.rows[0].cells[0], STUDENT_SIG, 35),
                                  (t.rows[0].cells[1], GUIDE_SIG, 25)):
             if os.path.exists(sig):

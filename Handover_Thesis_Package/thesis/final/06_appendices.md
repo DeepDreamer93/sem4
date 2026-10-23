@@ -121,7 +121,7 @@ All items are rated on a five-point scale: 1 = Strongly disagree, 2 = Disagree, 
 
 # APPENDIX 3 - BANK ANNUAL REPORT SAMPLE AND CODING DICTIONARY
 
-## A3.1 Banks in the D2 sample
+## A3.1 BANKS IN THE D2 SAMPLE
 
 All reports are public annual reports (or universal registration documents) for FY2022 and FY2025, taken from each bank's official investor-relations website. Analysis tables in Chapter 4 use codes rather than names, so that no individual bank is singled out.
 
@@ -136,7 +136,7 @@ Table A 3.1 Banks in the D2 sample
 
 Nationwide Building Society's financial year ends in April; its reports for the years ending April 2023 and April 2026 are mapped to FY2022 and FY2025.
 
-## A3.2 D2 coding dictionary
+## A3.2 D2 CODING DICTIONARY
 
 Matching is case-insensitive on the full extracted text. Densities are counts per 10,000 words.
 
@@ -150,7 +150,7 @@ Table A 3.2 D2 coding dictionary
 | Regulation | AI Act; Artificial Intelligence Act; DORA; digital operational resilience; SS1/23 |
 | AI governance body (0/1) | chief AI / artificial intelligence / data / data and AI officer; AI council, committee, board, office or centre of excellence; responsible AI office, council, committee, lead, team or framework |
 
-## A3.3 D3 skill dictionary
+## A3.3 D3 SKILL DICTIONARY
 
 Table A 3.3 D3 skill flags
 

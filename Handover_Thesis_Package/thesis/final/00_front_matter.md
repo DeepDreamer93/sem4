@@ -38,11 +38,11 @@ Submitted to the
 
 Certified that the Project report titled **AI-DRIVEN TRANSFORMATION IN BANKING GRC: IMPLICATIONS FOR WORKFORCE MANAGEMENT IN UK AND EU BANKS** is the bonafide work of **Mr. NARENTHERAN S** who carried out the work under my supervision. Certified further that to the best of my knowledge the work reported herein does not form part of any other project report or dissertation on the basis of which a degree or award was conferred on an earlier occasion on this or any other candidate.
 
-| Signature of Student | Signature of Project supervisor / Guide |
+| Signature of Student | Signature of Project Supervisor / Guide |
 |---|---|
-| Name: NARENTHERAN S | Name: [GUIDE NAME IN CAPITALS] |
-| Roll No.: 2406OBA0034 | Designation: [GUIDE DESIGNATION] |
-| Reg. No.: 69124100089 | Address: [GUIDE ADDRESS] |
+| Name: NARENTHERAN S | Name: Dr. RAMYA J |
+| Roll No.: 2406OBA0034 | Designation: Associate Professor & Head, Department of Management Studies |
+| Reg. No.: 69124100089 | Address: SRM Institute of Science and Technology (Vadapalani Campus) |
 
 ---
 
@@ -66,7 +66,7 @@ NARENTHERAN S
 
 I express my sincere gratitude to the Director, Centre for Distance and Online Education, Anna University, Chennai, for the opportunity to undertake this project as part of the Online MBA programme.
 
-I am deeply grateful to my project guide, [GUIDE NAME], [GUIDE DESIGNATION], for valuable guidance, constructive feedback and encouragement at every stage of this work.
+I am deeply grateful to my project guide, Dr. RAMYA J, Associate Professor & Head, Department of Management Studies, SRM Institute of Science and Technology (Vadapalani Campus), for valuable guidance, constructive feedback and encouragement at every stage of this work.
 
 I thank the Project In-charge and the faculty members of the programme for their support during the reviews.
 

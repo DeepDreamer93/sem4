@@ -33,6 +33,12 @@ TITLE = ('AI-DRIVEN TRANSFORMATION IN BANKING GRC: IMPLICATIONS FOR WORKFORCE '
 STUDENT = 'NARENTHERAN S'
 ROLL = '2406OBA0034'
 REG = '69124100089'
+GUIDE = 'Dr. RAMYA J'
+GUIDE_DESIG = 'Associate Professor & Head, Department of Management Studies'
+GUIDE_ADDR = 'SRM Institute of Science and Technology (Vadapalani Campus)'
+SIG_DIR = os.path.join(HERE, 'assets', 'signatures')  # git-ignored; blank signature space if absent
+STUDENT_SIG = os.path.join(SIG_DIR, 'student_signature.png')
+GUIDE_SIG = os.path.join(SIG_DIR, 'guide_signature.jpeg')
 
 MARGIN = dict(top=32, bottom=27, left=38, right=22)  # mm, within the prescribed ranges
 TEXT_W = 210 - MARGIN['left'] - MARGIN['right']
@@ -400,15 +406,19 @@ class Thesis:
                'that to the best of my knowledge the work reported herein does not form part of any '
                'other project report or dissertation on the basis of which a degree or award was '
                'conferred on an earlier occasion on this or any other candidate.', spacing=2.0)
-        self.p('', style='Normal', before=36)
-        self.table([
+        self.p('', style='Normal', before=24)
+        t = self.table([
             ['', ''],
-            ['**Signature of Student**', '**Signature of Project supervisor / Guide**'],
-            [f'Name: {STUDENT}', 'Name: [GUIDE NAME]'],
-            ['(in capital letters)', '(in capital letters)'],
-            [f'Roll No.: {ROLL}', 'Designation: [GUIDE DESIGNATION]'],
-            [f'Reg. No.: {REG}', 'Address: [GUIDE ADDRESS]'],
+            ['**Signature of Student**', '**Signature of Project Supervisor / Guide**'],
+            [f'Name: {STUDENT}', f'Name: **{GUIDE}**'],
+            ['(in capital letters)', f'Designation: {GUIDE_DESIG}'],
+            [f'Roll No.: {ROLL}', f'Address: {GUIDE_ADDR}'],
+            [f'Reg. No.: {REG}', ''],
         ], size=12, header=False, borders=False)
+        for cell, sig, width in ((t.rows[0].cells[0], STUDENT_SIG, 35),
+                                 (t.rows[0].cells[1], GUIDE_SIG, 25)):
+            if os.path.exists(sig):
+                cell.paragraphs[0].add_run().add_picture(sig, width=Mm(width))
         self.p('Submitted for the Viva-Voce Examination held on ____________________',
                style='Normal', align=L, before=36)
         self.p('**Signature of External Examiner**', style='Normal', align=R, before=60)
@@ -420,18 +430,28 @@ class Thesis:
         self.p('Insert the signed Certificate of Viva-Voce Examination (Annexure III) on this page.',
                style='Normal', align=C, italic=True, before=12)
 
+    def signature(self):
+        if os.path.exists(STUDENT_SIG):
+            para = self.doc.add_paragraph(style='Normal')
+            para.alignment = R
+            para.paragraph_format.space_before = Pt(12)
+            para.paragraph_format.keep_with_next = True
+            para.add_run().add_picture(STUDENT_SIG, width=Mm(35))
+        else:
+            self.p('(Signature of the Candidate)', style='Normal', align=R, before=12)
+
     def abstract(self, paras):
         self.page_heading('ABSTRACT', toc_text='ABSTRACT')
         for t in paras:
             self.p(t, spacing=2.0, after=0)
-        self.p('(Signature of the Candidate)', style='Normal', align=R, before=12)
+        self.signature()
         self.p(STUDENT, style='Normal', align=R, bold=True)
 
     def acknowledgement(self, paras):
         self.page_heading('ACKNOWLEDGEMENT')
         for t in paras:
             self.p(t, spacing=2.0, after=0)
-        self.p('(Signature)', style='Normal', align=R, before=36)
+        self.signature()
         self.p(STUDENT, style='Normal', align=R, bold=True)
 
     def contents_pages(self, abbreviations):
